@@ -1,0 +1,1570 @@
+{
+  "meta": {
+    "seed": 42,
+    "grid": {
+      "temperature": [
+        0.5,
+        0.6,
+        0.7,
+        0.8,
+        0.9,
+        1.0,
+        1.1,
+        1.2,
+        1.3,
+        1.4,
+        1.5,
+        1.6,
+        1.7,
+        1.8,
+        1.9,
+        2.0
+      ],
+      "top_k": [
+        0,
+        10,
+        20,
+        30,
+        40,
+        50,
+        60,
+        70,
+        80,
+        90,
+        100
+      ],
+      "top_p": [
+        0.5,
+        0.6,
+        0.7,
+        0.8,
+        0.9,
+        1.0
+      ],
+      "repetition_penalty": [
+        1.0,
+        1.1,
+        1.2,
+        1.3,
+        1.4,
+        1.5,
+        1.6,
+        1.7,
+        1.8,
+        1.9,
+        2.0
+      ]
+    },
+    "n_screen": 40,
+    "model": {
+      "base": "smollm2-base",
+      "ft": "smollm2-ft"
+    },
+    "prompt": {
+      "zero_shot": "zero-shot",
+      "few_shot": "few-shot"
+    },
+    "max_new_tokens_base": 112,
+    "max_new_tokens_v3": 80,
+    "base_max_newline": 8,
+    "filter_v3": {
+      "n_per_batch": 20,
+      "maks_batch": 4,
+      "min_lolos": 3,
+      "topk_nll": 8,
+      "bobot_nll": 0.5
+    },
+    "daftar_konfigurasi": [
+      "T0.8_K50_P0.9_R1.1",
+      "T0.8_K0_P1.0_R1.4",
+      "T1.2_K30_P0.6_R1.1",
+      "T0.7_K90_P0.8_R1.0",
+      "T0.5_K10_P0.6_R1.3",
+      "T0.5_K80_P0.6_R2.0",
+      "T1.8_K30_P0.8_R1.9",
+      "T1.3_K0_P0.6_R1.6",
+      "T1.5_K40_P0.6_R1.3",
+      "T1.5_K10_P0.5_R1.6",
+      "T0.8_K50_P0.7_R1.9",
+      "T1.3_K0_P1.0_R1.7",
+      "T0.8_K60_P0.5_R1.8",
+      "T1.4_K100_P0.9_R1.5",
+      "T1.1_K10_P0.5_R2.0",
+      "T1.2_K40_P0.5_R1.3",
+      "T0.8_K60_P0.7_R1.7",
+      "T1.6_K20_P0.7_R1.5",
+      "T1.1_K100_P0.7_R2.0",
+      "T0.7_K90_P1.0_R1.2",
+      "T1.2_K20_P0.8_R1.6",
+      "T1.3_K100_P1.0_R1.8",
+      "T1.2_K100_P0.7_R1.0",
+      "T1.2_K0_P0.7_R1.6",
+      "T1.3_K10_P0.6_R1.9",
+      "T1.5_K30_P1.0_R1.7",
+      "T1.7_K100_P0.8_R1.2",
+      "T1.3_K20_P0.6_R1.8",
+      "T1.3_K90_P0.8_R1.9",
+      "T1.7_K50_P0.6_R1.2",
+      "T2.0_K10_P0.5_R1.1"
+    ]
+  },
+  "peringkat": [
+    {
+      "peringkat": 1,
+      "id": "T0.8_K50_P0.9_R1.1",
+      "hyperparameters": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.1
+      },
+      "skor_ft": 0.964,
+      "skor_base": 0.3927,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 23.75,
+          "Rhyme Correctness (%)": 6.25,
+          "Lexical Richness": 0.878
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 100.0,
+          "Lexical Richness": 0.892
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 27.5,
+          "Rhyme Correctness (%)": 7.5,
+          "Lexical Richness": 0.89
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 20.0,
+          "Rhyme Correctness (%)": 5.0,
+          "Lexical Richness": 0.892
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 100.0,
+          "Lexical Richness": 0.907
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 100.0,
+          "Lexical Richness": 0.917
+        }
+      },
+      "durasi_detik": 1136.9
+    },
+    {
+      "peringkat": 2,
+      "id": "T1.2_K100_P0.7_R1.0",
+      "hyperparameters": {
+        "temperature": 1.2,
+        "top_k": 100,
+        "top_p": 0.7,
+        "repetition_penalty": 1.0
+      },
+      "skor_ft": 0.9637,
+      "skor_base": 0.4217,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 32.5,
+          "Rhyme Correctness (%)": 7.5,
+          "Lexical Richness": 0.865
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 100.0,
+          "Lexical Richness": 0.891
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 37.5,
+          "Rhyme Correctness (%)": 7.5,
+          "Lexical Richness": 0.887
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 27.5,
+          "Rhyme Correctness (%)": 7.5,
+          "Lexical Richness": 0.872
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 100.0,
+          "Lexical Richness": 0.91
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 100.0,
+          "Lexical Richness": 0.908
+        }
+      },
+      "durasi_detik": 1558.3
+    },
+    {
+      "peringkat": 3,
+      "id": "T2.0_K10_P0.5_R1.1",
+      "hyperparameters": {
+        "temperature": 2.0,
+        "top_k": 10,
+        "top_p": 0.5,
+        "repetition_penalty": 1.1
+      },
+      "skor_ft": 0.957,
+      "skor_base": 0.3965,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 26.25,
+          "Rhyme Correctness (%)": 7.5,
+          "Lexical Richness": 0.852
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 100.0,
+          "Lexical Richness": 0.871
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 37.5,
+          "Rhyme Correctness (%)": 12.5,
+          "Lexical Richness": 0.862
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 15.0,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.867
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 100.0,
+          "Lexical Richness": 0.888
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 100.0,
+          "Lexical Richness": 0.891
+        }
+      },
+      "durasi_detik": 1608.0
+    },
+    {
+      "peringkat": 4,
+      "id": "T1.2_K30_P0.6_R1.1",
+      "hyperparameters": {
+        "temperature": 1.2,
+        "top_k": 30,
+        "top_p": 0.6,
+        "repetition_penalty": 1.1
+      },
+      "skor_ft": 0.9568,
+      "skor_base": 0.3925,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 25.0,
+          "Rhyme Correctness (%)": 6.25,
+          "Lexical Richness": 0.865
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 98.75,
+          "Lexical Richness": 0.883
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 30.0,
+          "Rhyme Correctness (%)": 10.0,
+          "Lexical Richness": 0.885
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 20.0,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.876
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 97.5,
+          "Lexical Richness": 0.898
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 100.0,
+          "Lexical Richness": 0.907
+        }
+      },
+      "durasi_detik": 908.8
+    },
+    {
+      "peringkat": 5,
+      "id": "T0.7_K90_P0.8_R1.0",
+      "hyperparameters": {
+        "temperature": 0.7,
+        "top_k": 90,
+        "top_p": 0.8,
+        "repetition_penalty": 1.0
+      },
+      "skor_ft": 0.9467,
+      "skor_base": 0.308,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 12.5,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.774
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 100.0,
+          "Lexical Richness": 0.84
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 12.5,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.807
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 12.5,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.754
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 100.0,
+          "Lexical Richness": 0.855
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 100.0,
+          "Lexical Richness": 0.868
+        }
+      },
+      "durasi_detik": 572.4
+    },
+    {
+      "peringkat": 6,
+      "id": "T0.7_K90_P1.0_R1.2",
+      "hyperparameters": {
+        "temperature": 0.7,
+        "top_k": 90,
+        "top_p": 1.0,
+        "repetition_penalty": 1.2
+      },
+      "skor_ft": 0.919,
+      "skor_base": 0.4302,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 33.75,
+          "Rhyme Correctness (%)": 5.0,
+          "Lexical Richness": 0.903
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 85.0,
+          "Lexical Richness": 0.907
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 42.5,
+          "Rhyme Correctness (%)": 7.5,
+          "Lexical Richness": 0.914
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 25.0,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.917
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 82.5,
+          "Lexical Richness": 0.915
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 87.5,
+          "Lexical Richness": 0.923
+        }
+      },
+      "durasi_detik": 3057.2
+    },
+    {
+      "peringkat": 7,
+      "id": "T0.8_K0_P1.0_R1.4",
+      "hyperparameters": {
+        "temperature": 0.8,
+        "top_k": 0,
+        "top_p": 1.0,
+        "repetition_penalty": 1.4
+      },
+      "skor_ft": 0.912,
+      "skor_base": 0.3562,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 11.25,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.956
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 80.0,
+          "Lexical Richness": 0.936
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 2.5,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.961
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 20.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.966
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 77.5,
+          "Lexical Richness": 0.945
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 82.5,
+          "Lexical Richness": 0.947
+        }
+      },
+      "durasi_detik": 1833.1
+    },
+    {
+      "peringkat": 8,
+      "id": "T1.7_K100_P0.8_R1.2",
+      "hyperparameters": {
+        "temperature": 1.7,
+        "top_k": 100,
+        "top_p": 0.8,
+        "repetition_penalty": 1.2
+      },
+      "skor_ft": 0.9002,
+      "skor_base": 0.3637,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 11.25,
+          "Rhyme Correctness (%)": 1.25,
+          "Lexical Richness": 0.966
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 73.75,
+          "Lexical Richness": 0.963
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 15.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.973
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 7.5,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.973
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 65.0,
+          "Lexical Richness": 0.973
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 82.5,
+          "Lexical Richness": 0.973
+        }
+      },
+      "durasi_detik": 435.3
+    },
+    {
+      "peringkat": 9,
+      "id": "T1.7_K50_P0.6_R1.2",
+      "hyperparameters": {
+        "temperature": 1.7,
+        "top_k": 50,
+        "top_p": 0.6,
+        "repetition_penalty": 1.2
+      },
+      "skor_ft": 0.8808,
+      "skor_base": 0.3833,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 18.75,
+          "Rhyme Correctness (%)": 3.75,
+          "Lexical Richness": 0.925
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 71.25,
+          "Lexical Richness": 0.93
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 15.0,
+          "Rhyme Correctness (%)": 7.5,
+          "Lexical Richness": 0.937
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 22.5,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.939
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 65.0,
+          "Lexical Richness": 0.942
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 77.5,
+          "Lexical Richness": 0.945
+        }
+      },
+      "durasi_detik": 3163.2
+    },
+    {
+      "peringkat": 10,
+      "id": "T1.5_K40_P0.6_R1.3",
+      "hyperparameters": {
+        "temperature": 1.5,
+        "top_k": 40,
+        "top_p": 0.6,
+        "repetition_penalty": 1.3
+      },
+      "skor_ft": 0.8803,
+      "skor_base": 0.358,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 15.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.924
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 72.5,
+          "Lexical Richness": 0.916
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 17.5,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.935
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 12.5,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.936
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 62.5,
+          "Lexical Richness": 0.926
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 82.5,
+          "Lexical Richness": 0.929
+        }
+      },
+      "durasi_detik": 2613.8
+    },
+    {
+      "peringkat": 11,
+      "id": "T0.5_K10_P0.6_R1.3",
+      "hyperparameters": {
+        "temperature": 0.5,
+        "top_k": 10,
+        "top_p": 0.6,
+        "repetition_penalty": 1.3
+      },
+      "skor_ft": 0.8382,
+      "skor_base": 0.3493,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 20.0,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.823
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 66.25,
+          "Lexical Richness": 0.852
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 30.0,
+          "Rhyme Correctness (%)": 5.0,
+          "Lexical Richness": 0.831
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 10.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.834
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 72.5,
+          "Lexical Richness": 0.856
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 60.0,
+          "Lexical Richness": 0.864
+        }
+      },
+      "durasi_detik": 1792.8
+    },
+    {
+      "peringkat": 12,
+      "id": "T1.2_K40_P0.5_R1.3",
+      "hyperparameters": {
+        "temperature": 1.2,
+        "top_k": 40,
+        "top_p": 0.5,
+        "repetition_penalty": 1.3
+      },
+      "skor_ft": 0.8288,
+      "skor_base": 0.365,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 18.75,
+          "Rhyme Correctness (%)": 1.25,
+          "Lexical Richness": 0.895
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 58.75,
+          "Lexical Richness": 0.899
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 22.5,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.904
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 15.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.911
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 67.5,
+          "Lexical Richness": 0.911
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 50.0,
+          "Lexical Richness": 0.915
+        }
+      },
+      "durasi_detik": 3154.7
+    },
+    {
+      "peringkat": 13,
+      "id": "T1.5_K10_P0.5_R1.6",
+      "hyperparameters": {
+        "temperature": 1.5,
+        "top_k": 10,
+        "top_p": 0.5,
+        "repetition_penalty": 1.6
+      },
+      "skor_ft": 0.8168,
+      "skor_base": 0.3383,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 10.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.915
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 87.5,
+          "Rhyme Correctness (%)": 66.25,
+          "Lexical Richness": 0.913
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 15.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.924
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 5.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.923
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 80.0,
+          "Rhyme Correctness (%)": 60.0,
+          "Lexical Richness": 0.924
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 95.0,
+          "Rhyme Correctness (%)": 72.5,
+          "Lexical Richness": 0.916
+        }
+      },
+      "durasi_detik": 2126.7
+    },
+    {
+      "peringkat": 14,
+      "id": "T1.6_K20_P0.7_R1.5",
+      "hyperparameters": {
+        "temperature": 1.6,
+        "top_k": 20,
+        "top_p": 0.7,
+        "repetition_penalty": 1.5
+      },
+      "skor_ft": 0.8067,
+      "skor_base": 0.3498,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 10.0,
+          "Rhyme Correctness (%)": 1.25,
+          "Lexical Richness": 0.937
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 96.25,
+          "Rhyme Correctness (%)": 51.25,
+          "Lexical Richness": 0.945
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 10.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.946
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 10.0,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.947
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 92.5,
+          "Rhyme Correctness (%)": 45.0,
+          "Lexical Richness": 0.95
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 100.0,
+          "Rhyme Correctness (%)": 57.5,
+          "Lexical Richness": 0.956
+        }
+      },
+      "durasi_detik": 3097.0
+    },
+    {
+      "peringkat": 15,
+      "id": "T1.2_K20_P0.8_R1.6",
+      "hyperparameters": {
+        "temperature": 1.2,
+        "top_k": 20,
+        "top_p": 0.8,
+        "repetition_penalty": 1.6
+      },
+      "skor_ft": 0.6633,
+      "skor_base": 0.3533,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 12.5,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.935
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 75.0,
+          "Rhyme Correctness (%)": 30.0,
+          "Lexical Richness": 0.94
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 10.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.937
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 15.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.947
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 70.0,
+          "Rhyme Correctness (%)": 30.0,
+          "Lexical Richness": 0.947
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 80.0,
+          "Rhyme Correctness (%)": 30.0,
+          "Lexical Richness": 0.949
+        }
+      },
+      "durasi_detik": 3163.8
+    },
+    {
+      "peringkat": 16,
+      "id": "T1.4_K100_P0.9_R1.5",
+      "hyperparameters": {
+        "temperature": 1.4,
+        "top_k": 100,
+        "top_p": 0.9,
+        "repetition_penalty": 1.5
+      },
+      "skor_ft": 0.617,
+      "skor_base": 0.3362,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 2.5,
+          "Rhyme Correctness (%)": 1.25,
+          "Lexical Richness": 0.971
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 65.0,
+          "Rhyme Correctness (%)": 22.5,
+          "Lexical Richness": 0.976
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 2.5,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.975
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 2.5,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.978
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 47.5,
+          "Rhyme Correctness (%)": 15.0,
+          "Lexical Richness": 0.981
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 82.5,
+          "Rhyme Correctness (%)": 30.0,
+          "Lexical Richness": 0.98
+        }
+      },
+      "durasi_detik": 2223.3
+    },
+    {
+      "peringkat": 17,
+      "id": "T1.2_K0_P0.7_R1.6",
+      "hyperparameters": {
+        "temperature": 1.2,
+        "top_k": 0,
+        "top_p": 0.7,
+        "repetition_penalty": 1.6
+      },
+      "skor_ft": 0.5483,
+      "skor_base": 0.3333,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 2.5,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.975
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 55.0,
+          "Rhyme Correctness (%)": 12.5,
+          "Lexical Richness": 0.97
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 5.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.979
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 0.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.98
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 47.5,
+          "Rhyme Correctness (%)": 15.0,
+          "Lexical Richness": 0.971
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 62.5,
+          "Rhyme Correctness (%)": 10.0,
+          "Lexical Richness": 0.979
+        }
+      },
+      "durasi_detik": 3140.5
+    },
+    {
+      "peringkat": 18,
+      "id": "T0.8_K60_P0.7_R1.7",
+      "hyperparameters": {
+        "temperature": 0.8,
+        "top_k": 60,
+        "top_p": 0.7,
+        "repetition_penalty": 1.7
+      },
+      "skor_ft": 0.4995,
+      "skor_base": 0.3692,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 15.0,
+          "Rhyme Correctness (%)": 3.75,
+          "Lexical Richness": 0.92
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 41.25,
+          "Rhyme Correctness (%)": 15.0,
+          "Lexical Richness": 0.936
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 27.5,
+          "Rhyme Correctness (%)": 5.0,
+          "Lexical Richness": 0.923
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 2.5,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.936
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 32.5,
+          "Rhyme Correctness (%)": 15.0,
+          "Lexical Richness": 0.94
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 50.0,
+          "Rhyme Correctness (%)": 15.0,
+          "Lexical Richness": 0.943
+        }
+      },
+      "durasi_detik": 3100.6
+    },
+    {
+      "peringkat": 19,
+      "id": "T1.3_K0_P0.6_R1.6",
+      "hyperparameters": {
+        "temperature": 1.3,
+        "top_k": 0,
+        "top_p": 0.6,
+        "repetition_penalty": 1.6
+      },
+      "skor_ft": 0.4862,
+      "skor_base": 0.3417,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 3.75,
+          "Rhyme Correctness (%)": 1.25,
+          "Lexical Richness": 0.975
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 40.0,
+          "Rhyme Correctness (%)": 8.75,
+          "Lexical Richness": 0.971
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 7.5,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.979
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 0.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.983
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 40.0,
+          "Rhyme Correctness (%)": 5.0,
+          "Lexical Richness": 0.974
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 40.0,
+          "Rhyme Correctness (%)": 12.5,
+          "Lexical Richness": 0.976
+        }
+      },
+      "durasi_detik": 1726.9
+    },
+    {
+      "peringkat": 20,
+      "id": "T1.3_K100_P1.0_R1.8",
+      "hyperparameters": {
+        "temperature": 1.3,
+        "top_k": 100,
+        "top_p": 1.0,
+        "repetition_penalty": 1.8
+      },
+      "skor_ft": 0.4795,
+      "skor_base": 0.333,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 2.5,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.974
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 40.0,
+          "Rhyme Correctness (%)": 6.25,
+          "Lexical Richness": 0.976
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 2.5,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.978
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 2.5,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.978
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 32.5,
+          "Rhyme Correctness (%)": 5.0,
+          "Lexical Richness": 0.979
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 47.5,
+          "Rhyme Correctness (%)": 7.5,
+          "Lexical Richness": 0.984
+        }
+      },
+      "durasi_detik": 3102.3
+    },
+    {
+      "peringkat": 21,
+      "id": "T1.5_K30_P1.0_R1.7",
+      "hyperparameters": {
+        "temperature": 1.5,
+        "top_k": 30,
+        "top_p": 1.0,
+        "repetition_penalty": 1.7
+      },
+      "skor_ft": 0.4695,
+      "skor_base": 0.3508,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 7.5,
+          "Rhyme Correctness (%)": 1.25,
+          "Lexical Richness": 0.965
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 35.0,
+          "Rhyme Correctness (%)": 8.75,
+          "Lexical Richness": 0.971
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 5.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.969
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 10.0,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.973
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 22.5,
+          "Rhyme Correctness (%)": 10.0,
+          "Lexical Richness": 0.974
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 47.5,
+          "Rhyme Correctness (%)": 7.5,
+          "Lexical Richness": 0.979
+        }
+      },
+      "durasi_detik": 3097.8
+    },
+    {
+      "peringkat": 22,
+      "id": "T1.8_K30_P0.8_R1.9",
+      "hyperparameters": {
+        "temperature": 1.8,
+        "top_k": 30,
+        "top_p": 0.8,
+        "repetition_penalty": 1.9
+      },
+      "skor_ft": 0.4508,
+      "skor_base": 0.3453,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 7.5,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.961
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 30.0,
+          "Rhyme Correctness (%)": 8.75,
+          "Lexical Richness": 0.965
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 12.5,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.967
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 2.5,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.969
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 22.5,
+          "Rhyme Correctness (%)": 7.5,
+          "Lexical Richness": 0.968
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 37.5,
+          "Rhyme Correctness (%)": 10.0,
+          "Lexical Richness": 0.974
+        }
+      },
+      "durasi_detik": 1794.2
+    },
+    {
+      "peringkat": 23,
+      "id": "T1.3_K20_P0.6_R1.8",
+      "hyperparameters": {
+        "temperature": 1.3,
+        "top_k": 20,
+        "top_p": 0.6,
+        "repetition_penalty": 1.8
+      },
+      "skor_ft": 0.4418,
+      "skor_base": 0.358,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 12.5,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.924
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 28.75,
+          "Rhyme Correctness (%)": 10.0,
+          "Lexical Richness": 0.938
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 15.0,
+          "Rhyme Correctness (%)": 5.0,
+          "Lexical Richness": 0.93
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 10.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.935
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 15.0,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.944
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 42.5,
+          "Rhyme Correctness (%)": 17.5,
+          "Lexical Richness": 0.949
+        }
+      },
+      "durasi_detik": 3108.0
+    },
+    {
+      "peringkat": 24,
+      "id": "T0.8_K60_P0.5_R1.8",
+      "hyperparameters": {
+        "temperature": 0.8,
+        "top_k": 60,
+        "top_p": 0.5,
+        "repetition_penalty": 1.8
+      },
+      "skor_ft": 0.4227,
+      "skor_base": 0.3587,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 15.0,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.901
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 27.5,
+          "Rhyme Correctness (%)": 7.5,
+          "Lexical Richness": 0.918
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 10.0,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.904
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 20.0,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.916
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 20.0,
+          "Rhyme Correctness (%)": 5.0,
+          "Lexical Richness": 0.92
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 35.0,
+          "Rhyme Correctness (%)": 10.0,
+          "Lexical Richness": 0.93
+        }
+      },
+      "durasi_detik": 3071.5
+    },
+    {
+      "peringkat": 25,
+      "id": "T1.1_K100_P0.7_R2.0",
+      "hyperparameters": {
+        "temperature": 1.1,
+        "top_k": 100,
+        "top_p": 0.7,
+        "repetition_penalty": 2.0
+      },
+      "skor_ft": 0.4153,
+      "skor_base": 0.3323,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 5.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.947
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 21.25,
+          "Rhyme Correctness (%)": 8.75,
+          "Lexical Richness": 0.946
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 5.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.946
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 5.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.962
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 15.0,
+          "Rhyme Correctness (%)": 7.5,
+          "Lexical Richness": 0.947
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 27.5,
+          "Rhyme Correctness (%)": 10.0,
+          "Lexical Richness": 0.958
+        }
+      },
+      "durasi_detik": 3122.9
+    },
+    {
+      "peringkat": 26,
+      "id": "T1.3_K90_P0.8_R1.9",
+      "hyperparameters": {
+        "temperature": 1.3,
+        "top_k": 90,
+        "top_p": 0.8,
+        "repetition_penalty": 1.9
+      },
+      "skor_ft": 0.4005,
+      "skor_base": 0.346,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 6.25,
+          "Rhyme Correctness (%)": 1.25,
+          "Lexical Richness": 0.963
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 21.25,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.964
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 2.5,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.967
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 10.0,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.973
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 20.0,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.964
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 22.5,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.974
+        }
+      },
+      "durasi_detik": 3107.7
+    },
+    {
+      "peringkat": 27,
+      "id": "T1.3_K0_P1.0_R1.7",
+      "hyperparameters": {
+        "temperature": 1.3,
+        "top_k": 0,
+        "top_p": 1.0,
+        "repetition_penalty": 1.7
+      },
+      "skor_ft": 0.3912,
+      "skor_base": 0.3412,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 2.5,
+          "Rhyme Correctness (%)": 1.25,
+          "Lexical Richness": 0.986
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 16.25,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.986
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 5.0,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.989
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 0.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.993
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 12.5,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.989
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 20.0,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.991
+        }
+      },
+      "durasi_detik": 3023.3
+    },
+    {
+      "peringkat": 28,
+      "id": "T0.8_K50_P0.7_R1.9",
+      "hyperparameters": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.7,
+        "repetition_penalty": 1.9
+      },
+      "skor_ft": 0.3902,
+      "skor_base": 0.3403,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 8.75,
+          "Rhyme Correctness (%)": 1.25,
+          "Lexical Richness": 0.921
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 16.25,
+          "Rhyme Correctness (%)": 7.5,
+          "Lexical Richness": 0.933
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 12.5,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.926
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 5.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.936
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 12.5,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.939
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 20.0,
+          "Rhyme Correctness (%)": 12.5,
+          "Lexical Richness": 0.942
+        }
+      },
+      "durasi_detik": 2886.0
+    },
+    {
+      "peringkat": 29,
+      "id": "T1.3_K10_P0.6_R1.9",
+      "hyperparameters": {
+        "temperature": 1.3,
+        "top_k": 10,
+        "top_p": 0.6,
+        "repetition_penalty": 1.9
+      },
+      "skor_ft": 0.377,
+      "skor_base": 0.3618,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 15.0,
+          "Rhyme Correctness (%)": 1.25,
+          "Lexical Richness": 0.923
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 18.75,
+          "Rhyme Correctness (%)": 1.25,
+          "Lexical Richness": 0.931
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 15.0,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.931
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 15.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.93
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 7.5,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.936
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 30.0,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.941
+        }
+      },
+      "durasi_detik": 3140.7
+    },
+    {
+      "peringkat": 30,
+      "id": "T1.1_K10_P0.5_R2.0",
+      "hyperparameters": {
+        "temperature": 1.1,
+        "top_k": 10,
+        "top_p": 0.5,
+        "repetition_penalty": 2.0
+      },
+      "skor_ft": 0.3438,
+      "skor_base": 0.3535,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 15.0,
+          "Rhyme Correctness (%)": 1.25,
+          "Lexical Richness": 0.898
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 10.0,
+          "Rhyme Correctness (%)": 1.25,
+          "Lexical Richness": 0.919
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 12.5,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.909
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 17.5,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.903
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 5.0,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.923
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 15.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.927
+        }
+      },
+      "durasi_detik": 3089.1
+    },
+    {
+      "peringkat": 31,
+      "id": "T0.5_K80_P0.6_R2.0",
+      "hyperparameters": {
+        "temperature": 0.5,
+        "top_k": 80,
+        "top_p": 0.6,
+        "repetition_penalty": 2.0
+      },
+      "skor_ft": 0.3367,
+      "skor_base": 0.3573,
+      "gabungan": {
+        "smollm2-base": {
+          "Structure Accuracy (%)": 15.0,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.897
+        },
+        "smollm2-ft": {
+          "Structure Accuracy (%)": 7.5,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.91
+        }
+      },
+      "per_prompt": {
+        "smollm2-base|zero-shot": {
+          "Structure Accuracy (%)": 17.5,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.9
+        },
+        "smollm2-base|few-shot": {
+          "Structure Accuracy (%)": 12.5,
+          "Rhyme Correctness (%)": 2.5,
+          "Lexical Richness": 0.911
+        },
+        "smollm2-ft|zero-shot": {
+          "Structure Accuracy (%)": 0.0,
+          "Rhyme Correctness (%)": 0.0,
+          "Lexical Richness": 0.914
+        },
+        "smollm2-ft|few-shot": {
+          "Structure Accuracy (%)": 15.0,
+          "Rhyme Correctness (%)": 5.0,
+          "Lexical Richness": 0.916
+        }
+      },
+      "durasi_detik": 1782.4
+    }
+  ]
+}
