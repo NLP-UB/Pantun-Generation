@@ -1,0 +1,103 @@
+<BOS> Pagi-pagi minum hangat-hangat kopi <CLS> Jangan lupa dengan ketannya <CONTENT> Ayo semangat berkarya lagi <CLS> Karena karya kita dikenang selamanya <EOS>
+<BOS> Banyak pepohonan ditumbuhi benalu <CLS> Petani kesal pohon ditebanginya <CONTENT> Jangan sia-siakan waktu hanya berlalu <CLS> Menyesal kemudian tiada guna <EOS>
+<BOS> Hari raya penuh kendaraan <CLS> Kota-kota jadi lengang semua <CONTENT> Mari rayakan hari kemerdekaan <CLS> Dengan mendoakan para pahlawan pejuang bangsa <EOS>
+<BOS> Beli duku di pasar Kedamaian <CLS> Yuk semangat untuk memakannya <CONTENT> Mari selalu menanam kebaikan <CLS> Di akhirat kita akan memanennya <EOS>
+<BOS> Ikan lomba-lomba dalam permainan <CLS> Selalu hati-hati membawa diri <CONTENT> Ayo berlomba-lomba dalam kebaikan <CLS> Menata diri perbaiki hati <EOS>
+<BOS> Koteka pakaian Papua dalam <CLS> Pagi-pagi pada berlatih berlari semua <CONTENT> Merdeka bukan berarti diam <CLS> Terus berkarya nyata tumbuhkan ekonomi bangsa <EOS>
+<BOS> Ke Malabar di Pengalengan <CLS> Pandang kebun teh di kala pagi <CONTENT> Apa kabar hai kawan-kawan <CLS> Senang kita berjumpa lagi <EOS>
+<BOS> Pohon rambutan ada di kebun <CLS> Petik buahnya bawa segera <CONTENT> Ayo teman kita berhimpun <CLS> Asyik ceritanya kita gembira <EOS>
+<BOS> Di balik semak ada kemumu <CLS> Belukar basah menjadi rata <CONTENT> Adik kakak ayo kita bertemu <CLS> Bertukar kisah berbagi cerita <EOS>
+<BOS> Pohon lontar banyak buahnya <CLS> Tandannya dipilah segera diikat <CONTENT> Saling berkabar banyak gunanya <CLS> Insyaa Allah berkah dunia akhirat <EOS>
+<BOS> Banyak oleh-oleh berjajar tersaji <CLS> Bolu cempedak dan ubi cilembu <CONTENT> Anak soleh rajin belajar dan mengaji <CLS> Selalu bahagiakan bapak dan ibu <EOS>
+<BOS> Pergi ke sawah membawa belati <CLS> Anak kecil bermain terompah <CONTENT> Jadilah anak yang berbakti <CLS> Agar hidupmu penuh barokah <EOS>
+<BOS> Anak santri pergi mengaji <CLS> Tidak lupa membawa pena <CONTENT> Hidup bukan hanya tentang materi <CLS> Kaya jiwa cermin insan mulia <EOS>
+<BOS> Pagi hari sarapan lontong <CLS> Kuahnya enak diberi santan <CONTENT> Hidup ini saling tolong menolong <CLS> Jangan membuat susah teman <EOS>
+<BOS> Buah pepaya tumbuh di hutan <CLS> Masak satu dimakan kera <CONTENT> Belajar jangan pernah bosan <CLS> Agar tidak menyesal di akhir masa <EOS>
+<BOS> Kopra dan kelapa dipasaran <CLS> Dua-duanya adalah rempah <CONTENT> Bulan suci bulan Ramadan <CLS> Kita semua mengharap berkah <EOS>
+<BOS> Bawah bukit ada dukuh <CLS> Mengalir jernih airnya <CONTENT> Pegang prinsip mesti teguh <CLS> Pastilah kita selalu berjaya <EOS>
+<BOS> Madu Baduy sangat manis <CLS> Manisnya hingga diujung rasa <CONTENT> Menjaga hidup selalu higienis <CLS> Niscaya sehat sepanjang masa <EOS>
+<BOS> Pergi jauh menjadi pengelana <CLS> Pasti alang rintang menghambat <CONTENT> Pergilah mencari ilmu sempurna <CLS> Pasti akan menemukan selamat <EOS>
+<BOS> Hari sabtu ada undangan <CLS> Undangan pernikahan kawan lama <CONTENT> Ayo sobat tingkatkan iman <CLS> Supaya kita masuk surga <EOS>
+<BOS> Burung dara burung kreyes <CLS> Terbang tinggi ke angkasa <CONTENT> Wahai teman patuhi prokes <CLS> Agar kita terhindar dari bahaya <EOS>
+<BOS> Noni kawannya Suni Aprili <CLS> Dia teman dari kelas dua <CONTENT> Jadi orang jangan suka menyendiri <CLS> Nanti kamu merugi akibatnya <EOS>
+<BOS> Hari jumat hari yang berkah <CLS> Cocok untuk memberi sumbangan <CONTENT> Jadi manusia harus bersedekah <CLS> Supaya disayang Tuhan <EOS>
+<BOS> Berenang gembira ikan bawal <CLS> Di tepi sungai datanglah kancil <CONTENT> Sedang apa dua mata gagal <CLS> Dengan satu mata baru berhasil? <EOS>
+<BOS> Paruhnya besar warnanya memikat <CLS> Bangau terbang hinggapnya di batu <CONTENT> Jatuhku ke bawah, atas yang dilihat <CLS> Ayo, terka siapakah aku? <EOS>
+<BOS> Siang memasak ibunya Makruf <CLS> Campur bumbu tambahkan bawang <CONTENT> Binatang apa terdiri satu huruf <CLS> Berdiri hanya di belakang? <EOS>
+<BOS> Bunga di taman aneka rupa <CLS> Dalam kolam banyaklah ikan <CONTENT> Siapa aku dibesarkan di Eropa <CLS> Dalam keluarga aku dikecilkan? <EOS>
+<BOS> Beli bubur tambah kuahnya <CLS> Dibungkus satu bonusnya permen <CONTENT> Siapakah aku, jujur apa adanya <CLS> Membantu kalian tambah keren? <EOS>
+<BOS> Ramadhan bulan yang suci <CLS> Sebulan penuh kita puasa <CONTENT> Mari kawan berbaik hati <CLS> Bayar zakat hidup bahagia <EOS>
+<BOS> Pergi taraweh jalan sendiri <CLS> bawa sajadah dan mukena <CONTENT> Mari sahabat perbaiki diri <CLS> Rajin ibadah dapat pahala <EOS>
+<BOS> Makan ketupat di hari Fitri <CLS> Opor ayam menambah nikmat <CONTENT> Ucapkan syukur pada Illahi <CLS> Supaya hidup tidak tersesat <EOS>
+<BOS> Ramai orang sepanjang jalan <CLS> Naik bis kota bersama sama <CONTENT> Sudah lama rindu tertahan <CLS> Untuk jumpa sanak keluarga <EOS>
+<BOS> Minuman pahit namanya jamu <CLS> Jamu diminum menyehatkan raga <CONTENT> Jangan lengah bekali dirimu dengan ilmu <CLS> Karena ilmu adalah harta tiada tara <EOS>
+<BOS> Buah duku manislah rasanya <CLS> Enaklah dimakan jadikan camilan <CONTENT> Janganlah malu untuk bertanya, <CLS> Jika tak mau sesatlah kita di jalan <EOS>
+<BOS> Kalaulah boleh, aku ingin bertemu <CLS> Kita bertemu di danau perapat <CONTENT> Jangan lelah untuk menimba ilmu <CLS> Karena ilmu sangat bermanfaat <EOS>
+<BOS> Kelap kelip sinar lampu pijar <CLS> Lampu pijar menyala ditengah hujan lebat <CONTENT> Tekunlah kita untuk terus belajar <CLS> Ikuti jejak pendahulu menjadi penulis hebat <EOS>
+<BOS> Banyak orang antri berjajar , <CLS> Waspada selalu karena jalan berbatu <CONTENT> Manfaatkan waktu untuk terus belajar, <CLS> Mumpung kita masih diberi waktu <EOS>
+<BOS> Hari sabtu pergi ke Pekan, <CLS> Pergi bersama naik kereta, <CONTENT> Mari sambut bulan Ramadhan, <CLS> Dengan melipat gandakan amalan kita: <EOS>
+<BOS> Diatas meja ada paku, <CLS> Paku diambil oleh Buk Nini, <CONTENT> Berkah Ramadan obati perilaku, <CLS> Jangan sia siakan Ramadan ini. <EOS>
+<BOS> Indah dan bahagianya bersilaturahmi , <CLS> Dengan tetangga baru Pak David, <CONTENT> Berbuka puasa bersama pasca pandemi , <CLS> Jangan lupa tetap prokes covid. <EOS>
+<BOS> Ada suara gendang bertalu talu, <CLS> Menambah suasana makin meriah, <CONTENT> Jangan biarkan Ramadhan berlalu, <CLS> Tingkatkan ibadah raih magfirah <EOS>
+<BOS> Hari panas terasa lelah, <CLS> Tapi tetap kita bersyukur, <CONTENT> Perbanyak berdoa pada Allah, <CLS> Menjelang berbuka dan menjelang Sahur. <EOS>
+<BOS> Melati tersenyum begitu indahnya <CLS> Aura Putihnya menyapa hati <CONTENT> SMS WA pengganti diri bersua <CLS> Selamat Hari Raya Idul Fitri <EOS>
+<BOS> Lebaran memakai baju putih berseri <CLS> Tampil memukau dengan cemerlang <CONTENT> Perjuangkan kegiatan literasi ini <CLS> Demi mencerdaskan generasi gemilang <EOS>
+<BOS> Bersilahturahmi dengan para tetangga <CLS> Memakai gaun berwarna merah <CONTENT> Berjayalah keluarga RVL tercinta <CLS> Tulisan Penulis Mengukir Sejarah <EOS>
+<BOS> Lebaran memakai baju putih <CLS> Tampil memukau dengan cemerlang <CONTENT> Perjuangkan kegiatan literasi ini <CLS> Demi mencerdaskan generasi gemilang <EOS>
+<BOS> Sungguh indah bunga melati <CLS> Belinya di pasar Jakarta <CONTENT> Sungguh menawan shafa marwah realti <CLS> Membuat hatiku jatuh cinta <EOS>
+<BOS> Sangat tajam semua belati <CLS> Setiap hari diasah pak Soleh <CONTENT> Hunian di shafa marwah realti <CLS> Tempat terbaik untuk anak-anak Soleh <EOS>
+<BOS> Memetik manggis di kota Kedu <CLS> Membeli emping ditaro dalam ember <CONTENT> Menangis adik tersedu-sedu <CLS> Kehabisan Kavling ES EM ER <EOS>
+<BOS> Dari mana hendak kemana <CLS> Dari Rumah Hendak Ke Kertapati <CONTENT> Bolehkan kami bertanya <CLS> Dimana Kavling Shafa Marwah Realti <EOS>
+<BOS> Hari Raya Indah idul fitri dapat Te Ha Er <CLS> Beli ember di toko pak Bambang <CONTENT> Taukah kamu kavlingan eS eM eR <CLS> Kavlingan eS eM eR ada di Palembang <EOS>
+<BOS> Jalan-jalan ke Kertapati <CLS> Bertemu wanita Cantik dan Ramah <CONTENT> Kavling Shafa Marwah Realti <CLS> Memang Menarik Hati dan Termurah <EOS>
+<BOS> Jualan Guci di Medan, <CLS> Jalan jalan butuh istirahat <CONTENT> Bulan Suci bulan Ramadhan <CLS> Bulan penuh berkah manfaat. <EOS>
+<BOS> Pandawa bermain perkusi <CLS> Jadi reda hingar bingar <CONTENT> Ajaklah siswa berdiskusi <CLS> Dari pada hanya mendengar <EOS>
+<BOS> Yoyo dimainkan buat lomba atraksi <CLS> Jadi finalis berupaya selalu <CONTENT> Ayo kawan galakkan literasi <CLS> Giatlah menulis memperkaya ilmu. <EOS>
+<BOS> Sepatu bata jatuh ke kali <CLS> Ingin pulang bawa Alpukat <CONTENT> Satu kata jauh sekali , <CLS> Jika diulang menjadi dekat <EOS>
+<BOS> Gerhana terjadi di malam hari <CLS> Makin lama rembulan hitam pekat <CONTENT> Berlaku sederhana dan hidup mandiri <CLS> Bahagia di dunia dan akhirat <EOS>
+<BOS> Terik matahari menyinari pagi <CLS> Hawa segar tercium dimana-mana <CONTENT> Semoga kita selalu dilindungi <CLS> Oleh Allah Yang Maha Kuasa <EOS>
+<BOS> Semangat kerja tumbuh di hati <CLS> Kerja ikhlas menginspirasi sesama <CONTENT> Satukan tekad wujudkan literasi <CLS> Membangun peradapan bangsa dan negara <EOS>
+<BOS> Pakailah kalung dan mutiara <CLS> Kelihatan cantik dan mempesona diri <CONTENT> Tebarkan kebaikan pada sesama <CLS> Hidup berdampingan bahagia dan damai <EOS>
+<BOS> Berjalan pagi sehatkan badan <CLS> Sinar matahari bersinar terang <CONTENT> Jadikan prokes benteng pertahanan <CLS> Virus berbahaya pasti menghilang <EOS>
+<BOS> Kulihat zebra dan gajah <CLS> Binatang jinak dan jenaka <CONTENT> Rajin sholat jangan lupakan <CLS> Tingkatkan kepercayaan dan imam <EOS>
+<BOS> Ayam jantan berkokok bersahut-sahutan <CLS> Samar-samar kudengar Adzan berkumandang <CONTENT> Yang masih berselimut jangan mau dibisik setan <CLS> Segeralah beranjak lantunkan doa di ujung sembahyang <EOS>
+<BOS> Fajar menyingsing menyambut pagi <CLS> Riak awan berlalu memberi ruang pada sang surya <CONTENT> Sang tulang punggung mengumpulkan energi <CLS> Menjemput rezeki dengan segala upaya <EOS>
+<BOS> Matahari bersinar terik <CLS> Wajah-wajah cerah beralih kusam <CONTENT> Walau dahaga seolah mencekik <CLS> Semangat tetap tak boleh padam <EOS>
+<BOS> Senja berlabuh langit memerah <CLS> Mengiringi awan yang berjalan berarak <CONTENT> Duhai ibu yang dilanda lelah <CLS> Tetaplah tersenyum menyambut Bapak <EOS>
+<BOS> Purnama bersiap menyambut malam <CLS> Ditemani indahnya barisan bintang <CONTENT> Tak perlu galau tak perlu muram <CLS> Sungguh setelah gelap akan ada terang <EOS>
+<BOS> Kicauan burung terdengar merdu <CLS> Terdengar dari atas pohon pinang <CONTENT> Wahai anak-anakku tuntutlah ilmu <CLS> Sebagai bekalmu dimasa mendatang <EOS>
+<BOS> Ayam berkokok dipagi hari <CLS> Mencari makan di pinggir parit <CONTENT> Walau kalian tinggal di pelosok negeri <CLS> Tatap semangat dan harus bangkit <EOS>
+<BOS> Selada air tumbuh di samping rumah <CLS> Daunnya lebat siap disayur <CONTENT> Keterbatasan bukanlah menjadi masalah <CLS> Jalanilah dengan memperbanyak bersyukur <EOS>
+<BOS> Daun singkong sambal terasi <CLS> Enak dimakan disaat hujan <CONTENT> Belajar giatlah dan selalu rendah hati <CLS> Jauhkan diri dari kesembongan <EOS>
+<BOS> Burung cenderawasih adanya di Papua <CLS> Keelokan bulunya menarik pandangan <CONTENT> Jalani hidup berserah diri kepada-Nya <CLS> Cita-cita mulia kelak terkabulkan <EOS>
+<BOS> Ranting mangga terjuntai diatas pagar <CLS> Buahnya merah dimakan tuan puan <CONTENT> Saya peserta Nubar baru belajar <CLS> Kalau banyak salah tolong tunjukkan <EOS>
+<BOS> Ada kursi dan lemari dirumah pak samad <CLS> Sandaran dan lawangnya terbuat dari kayu jati <CONTENT> Apa tanda menjadi umat nabi Muhammad <CLS> Setiap hari selalu sembahyang dan mengaji <EOS>
+<BOS> Rujak palem dimakan bersama gula <CLS> Sedikit pedas rasanya lezat berbau kanji <CONTENT> Rukun Islam ada lima perkara <CLS> Syahadat, salat, puasa, zakat dan haji <EOS>
+<BOS> Selayang pandang awan kelam di terpa senja <CLS> Kabutnya merekah berwarna coklat dan berpendar <CONTENT> Sedangkan dalam Islam rukun iman ada enam perkara <CLS> Kepada Allah_ Malaikat Kitab Rasul Kiamat dan qadar <EOS>
+<BOS> Burung terbang burung perkutut <CLS> Hilang satu burung kutilang <CONTENT> Hei kamu jangan suka kentut <CLS> Nanti banyak orang yang bilang <EOS>
+<BOS> Jalan - jalan di kota tua <CLS> Belok ke kanan lalu ke kiri <CONTENT> Di kira mirip anjasmara <CLS> Eh Ternyata mirip mpok ati <EOS>
+<BOS> Mencari ampau di hari imlek <CLS> Pulang pulang bawa dodol <CONTENT> Hey kamu yang suka mengejek <CLS> Nanti kamu kena pistol <EOS>
+<BOS> Minum manis buatan pa adit <CLS> Ada bakso buatan bu mawar <CONTENT> Di kira manis ternyata pahit <CLS> Sayang nya belum di bayar <EOS>
+<BOS> Melihat ibu sedang belanja <CLS> Tidak lupa belanja tahu <CONTENT> Jauh jauh sudah bergaya <CLS> Tapi sayang bajunya bau <EOS>
+<BOS> Di langit awan hitam pekat <CLS> Pertanda akan turun hujan <CONTENT> Kalau kita ingin selamat <CLS> Jangan lupa beribadah dan shalat kepada Tuhan <EOS>
+<BOS> Buah semangka buah naga <CLS> Harganya murah dipasar buah <CONTENT> Bekerjalah dan berusaha sekuat tenaga <CLS> Agar hidup tidaklah susah memberi nafkah <EOS>
+<BOS> Pergi ke sekolah membawa bekal <CLS> Waktu istirahat tidak jajan sembarangan <CONTENT> Anak cerdas banyak akal <CLS> Dialah murid pandai dan cekatan <EOS>
+<BOS> Tarzan suka bergelantungan diatas pohon rindang <CLS> Pohonnya tinggi di dalam hutan <CONTENT> Raihlah ilmu walaupun terpaan menghadang <CLS> Perangi hidup dalam kebodohan <EOS>
+<BOS> Siang hari cuaca panas terik <CLS> Nyaman duduk dibawah pohon <CONTENT> Jadilah orang pintar dan cerdik <CLS> Agar hidup tidak suka memohon <EOS>
+<BOS> Hari minggu senam di taman kota <CLS> Kalau haus minumnya teh kotak <CONTENT> Akan selalu kuingat pesan orangtua <CLS> Pakai masker, cuci tamgan, dan jaga jarak <EOS>
+<BOS> Jangan makan mie setiap hari <CLS> Kalau keseringan bisa sakit perut <CONTENT> Sudah dua tahun negeri ini di landa Pandemi <CLS> Tetap semangat belajar jangan pernah surut <EOS>
+<BOS> Hutan rimba penuh belukar <CLS> Api berkobar memantik dahan <CONTENT> Sangat beruntung orang sabar <CLS> Orang sabar disayang Tuhan <EOS>
+<BOS> Akar ilalang tumbuh di hutan <CLS> Cuma sekerat simpan di almari <CONTENT> Janganlah hilang dalam ingatan <CLS> Ilmu akhirat wajib dipelajari <EOS>
+<BOS> Susun batu di atas huma <CLS> Karang hancur karena buih <CONTENT> Janganlah waktu dibuang percuma <CLS> Tebar kebaikkan pahala diraih <EOS>
+<BOS> Ke kebun petik daun kara <CLS> Daun dibakar terbubung api <CONTENT> Banyak cobaan datang mendera <CLS> Tetap sabar dalam menjalani <EOS>
+<BOS> Naik delman ke kota tua <CLS> Jangan lupa pakai peniti <CONTENT> Kalau berteman harus setia <CLS> Saling menjaga tidak menyakiti <EOS>
+<BOS> Itik Di Jual Harganya Murah <CLS> Di Jual Murah Butuh Uangnya <CONTENT> Cantik Mukanya Gak Bakal Kalah <CLS> Pembual Pemarah Itu Orangnya <EOS>
+<BOS> Santri Lelaki Pandai Mengaji <CLS> Membuka Kitab Tentang Ibadah <CONTENT> Mari Berjanji Akan Mengabdi <CLS> Mengharap Hisab Ridho Nya Lillah <EOS>
+<BOS> Menendang Perut Si Jabang Bayi <CLS> Gedebak Gedebuk Di Dalam Perut <CONTENT> Begadang Larut Mengharap Pasti <CLS> Lahirlah Si Dudu Perut Akan Menyusut <EOS>
+<BOS> Hujan Angin Badai Pun Garang <CLS> Air Mengguyur Basahlah Bumi <CONTENT> Bulan Mendingin Gantikan Siang <CLS> Syair Bersyukur Mantaplah Hati <EOS>
+<BOS> Indonesia Berpantun Sebarkan Kata <CLS> Kata Bermakna Melambung Tinggi <CONTENT> Tulisan Menyusun Mengunakan Rasa <CLS> Kita Bersama Luapkan Asa dan Isi Hati <EOS>
+<BOS> Jalan bersama menyusuri semeru <CLS> Kawan baik saling menguatkan <CONTENT> Jangan pernah menyesali takdirmu <CLS> Karena itu yang terbaik dari Tuhan <EOS>
+<BOS> Jembatan di muara sungai musi <CLS> Melegenda karena sangat menawan <CONTENT> Jangan berduka atas apa yang terjadi <CLS> Karena dunia tempat persinggahan <EOS>
+<BOS> Susunan bunga banyak yang rindu <CLS> Tertata dengan rangkaian menyejukan <CONTENT> Sekalipun ada yang tidak menyukaimu <CLS> Teruslah berjalan dengan menebar kebaikan <EOS>
+<BOS> Memanjakan anak jangan menjadi tradisi <CLS> Nanti akan menjadi bomerang <CONTENT> Memaafkan tidak mengubah yang sudah terjadi <CLS> Tetapi masa depan untuk yang akan datang <EOS>
+<BOS> Sukai tetangga dengan sepenuh hati <CLS> Ajak kelaut melempar sauh <CONTENT> Sebagai tanda ketangguhan yang sejati <CLS> Adalah bangkit disetiap kali jatuh <EOS>

@@ -1,0 +1,654 @@
+<BOS> Ada pohon berbuah tomat <CLS> Tomat jatuh di bawah latar <CONTENT> Bacalah buku dengan cermat <CLS> Agar menjadi anak pintar <EOS>
+<BOS> Pergi ke pasar membeli kebab <CLS> Tak lupa membeli sagu <CONTENT> Jadilah wanita yang berhijab <CLS> Karena hijab akan menutup auratmu <EOS>
+<BOS> Kupu-kupu terbang tak nampak <CLS> Sekali nampak terlihat sayapnya <CONTENT> Pagi-pagi makan buah salak <CLS> Jangan pula makan kulitnya <EOS>
+<BOS> Desa yang sangat indah <CLS> Ada banyak penghuni <CONTENT> Selalulah engkau bersyukur kepada Allah <CLS> Maka semua kebutuhanmu akan terasa terpenuhi <EOS>
+<BOS> Semua tidak ada yang lebih <CLS> Kita mendapatkan sesuatu sesuai porsinya <CONTENT> Jangan terlalu berharap lebih <CLS> Ingat, konsekuensinya adalah kecewa <EOS>
+<BOS> Kucing manis berwarna putih <CLS> Putih putih garang sifatnya <CONTENT> Percuma kalau kita mengasih <CLS> Kalau tidak ikhlas hatinya <EOS>
+<BOS> Satu dua kucing berlari <CLS> Kucing berlari sangat kencang <CONTENT> Pada sore hari berlatih tari <CLS> Hatiku sangat gembira dan senang <EOS>
+<BOS> Dua pensil dua penghapus <CLS> Aku menggambar di dalam rumah <CONTENT> Jadilah orang yang sabar dan tulus <CLS> Agar di sayang orang dengan ramah <EOS>
+<BOS> Jalan-jalan di pagi hari <CLS> Dengan penuh semangat empat lima <CONTENT> Jadilah orang yang selalu berbudi <CLS> Agar menjadi orang yang berwibawa <EOS>
+<BOS> Pak Budi guru yang tinggi <CLS> Pak Budi rumahnya di Jombang <CONTENT> Jadilah orang yang berbudi pekerti yang tinggi <CLS> Maka akan disegani banyak orang <EOS>
+<BOS> Bu Anna membaca Qur'an <CLS> Manggala membawa buku cerita <CONTENT> Naik sepeda hendaklah melihat jalan <CLS> Agar kelak tidak terjadi cidera <EOS>
+<BOS> Ansyadza ketemu Nanda <CLS> Ketemunya di MAN 1 Grobogan <CONTENT> Hatiku sungguh berbunga-bunga <CLS> Ketika kita sedang bertatap-tatapan <EOS>
+<BOS> Jalan-jalan ke Pekalongan <CLS> Jangan lupa membeli cuka <CONTENT> Sebelum olahraga hendaknya pemanasan <CLS> Agar kaki tidak terluka <EOS>
+<BOS> Jalan-jalan ke kota Semarang <CLS> Tidak lupa membeli batik <CONTENT> Jika kamu ingin dikenang <CLS> Kelak harus berbuat baik <EOS>
+<BOS> Pergi ke pasar membeli ikan <CLS> Tidak lupa membawa uang <CONTENT> Dimasak agar bisa di makan <CLS> Dan perut pun menjadi kenyang <EOS>
+<BOS> Hormatilah bapak ibu gurumu <CLS> Agar ilmu bisa bermanfaat <CONTENT> Jangan pernah sia-siakan gurumu <CLS> Agar menjadi anak yang hebat <EOS>
+<BOS> Makan krupuk suaranya kriuk <CLS> Krupuknya enak gurih rasanya <CONTENT> Tidak lupa mengetes kriuk <CLS> Agar lezat memakannya <EOS>
+<BOS> Pergi ke mall membeli buah <CLS> Tidak lupa membeli pizza <CONTENT> Bekerja keraslah bersama ayah <CLS> Agar bisa umroh bersama keluarga <EOS>
+<BOS> Pergi ke masjid untuk sembahyang <CLS> Tidak lupa membawa mukenah <CONTENT> Sembahyanglah jangan karena orang <CLS> Agar kita dapat hidayah melimpah <EOS>
+<BOS> Di pagi hari minum secangkir kopi <CLS> Tidak lupa memakan camilan <CONTENT> Jika engkau ingin disegani <CLS> Patutlah engkau menjaga penampilan <EOS>
+<BOS> Kalau ada lampu <CLS> Jangan ada lilin <CONTENT> Kalau ada aku <CLS> Jangan sampai ada orang lain <EOS>
+<BOS> Jalan-jalan di pagi hari <CLS> Tak sengaja melewati pasar swalayan <CONTENT> Jika anda ingin dihormati <CLS> Jangan lupa bersikap selalu sopan <EOS>
+<BOS> Pergi ke pasar membeli gelang <CLS> Tidak lupa membeli dasi <CONTENT> Jika kamu ingin disayang <CLS> Maka kamu harus saling menghargai <EOS>
+<BOS> Apel jatuh karena galah <CLS> Di dalamnya ada surat <CONTENT> Jadilah orang yang selalu tabah <CLS> Agar selamat dunia akhirat <EOS>
+<BOS> Bermain sepeda di depan rumah <CLS> Bersama teman semuanya <CONTENT> Jangan lupa baca basmalah <CLS> Sebelum memulai semuanya <EOS>
+<BOS> Jumat berkah bersedekah <CLS> Sedekahnya dengan makanan <CONTENT> Jika ada kata yang salah <CLS> Mohon di maafkan <EOS>
+<BOS> Pergi ke pasar membeli gerabah <CLS> Tidak lupa membeli nisin <CONTENT> Kalau tahu itu salah <CLS> Kok masih diterusin <EOS>
+<BOS> Pergi ke toko membeli pena <CLS> Tidak lupa membeli pensil <CONTENT> Jangan pernah berputus asa <CLS> Jika ingin hidup berhasil <EOS>
+<BOS> Jalan-jalan membeli bensin <CLS> Tidak lupa membeli tikar <CONTENT> Belajarlah dengan rajin <CLS> Agar jadi anak yang pintar <EOS>
+<BOS> Pagi-pagi ke sekolah <CLS> Pulangnya naik motor <CONTENT> Bekerjalah tanpa lelah <CLS> Agar hidup tidak longsor <EOS>
+<BOS> Pagi-pagi pergi ke sawah <CLS> Pulangnya membeli tebu <CONTENT> Jika ingin ilmu barokah <CLS> Patutlah selalu kepada guru <EOS>
+<BOS> Ke pasar bersama saudara <CLS> Pulangnya membeli teri <CONTENT> Jangan lupa berbakti kepada orang tua <CLS> Agar sukses di hari nanti <EOS>
+<BOS> Ada saudara berasal dari Bandung <CLS> Namanya Aldo dan Aji <CONTENT> Jika hatimu sedang bingung <CLS> Maka berdoalah dan mengaji <EOS>
+<BOS> Di gedung ada orang menikah <CLS> Juga ada penyanyi <CONTENT> Jangan lupa sedekah <CLS> Agar pahala mengalir tiap hari <EOS>
+<BOS> Bagas belajar setiap hari <CLS> Jangan lupa membaca doa <CONTENT> Jadilah orang yang berbakti <CLS> Agar disayang orang tua <EOS>
+<BOS> Ke warung membeli tahu <CLS> Dan juga membeli buah <CONTENT> Berbaktilah kepada guru <CLS> Agar mendapat ilmu yang berkah <EOS>
+<BOS> Membeli sapu bersama Riki <CLS> Setelah itu membeli pisang <CONTENT> Hilangkan sifat iri dengki <CLS> Agar hidup menjadi tenang <EOS>
+<BOS> Jalan-jalan bersama anya <CLS> Tidak lupa beli teh hangat <CONTENT> Jika boleh saya bertanya <CLS> Hewan apa berkaki empat? <EOS>
+<BOS> Pagi hari lari-lari <CLS> Lari cepat karena semangat <CONTENT> Bacalah buku setiap hari <CLS> Agar mendapat ilmu yang bermanfaat <EOS>
+<BOS> Liburan sekolah pergi ke jogja <CLS> Lupa membawa susu beruang <CONTENT> Sebatang mawar di atas meja <CLS> Hanya untuk dinda tersayang <EOS>
+<BOS> Melihat burung ada di sangkar <CLS> Diberi makan agar kenyang <CONTENT> Kalau janji jangan di ingkar <CLS> Agar hidupmu menjadi tenang <EOS>
+<BOS> Lari pagi rasanya gerah <CLS> Bacalah buku setiap hari <CONTENT> Agar hidupmu menjadi cerah <CLS> Singa putih di tepi sungai <EOS>
+<BOS> Panda besar memakan bambu <CLS> Air sungai untuk minumnya <CONTENT> Jika kamu belum tahu <CLS> Jangan malu untuk bertanya <EOS>
+<BOS> Makan tahu di tanah orang <CLS> Jangan sampai mengganggu <CONTENT> Ingatlah kanda untuk pulang <CLS> Karna dinda sedang menunggu <EOS>
+<BOS> Membeli ikan jagan di tawar <CLS> Karena dari lautan seberang <CONTENT> Ini ada sekuntum mawar <CLS> Hanya untuk dinda seorang <EOS>
+<BOS> Ke Danyang ketemu Taufik <CLS> Naik dokar lambat jalannya <CONTENT> Jadi orang jangan munafik <CLS> Tetapi jujur apa adanya <EOS>
+<BOS> Lihat berita mencari kabar <CLS> Lihatnya sambil rebahan <CONTENT> Belajarlah menjadi orang sabar <CLS> Orang sabar disayang Tuhan <EOS>
+<BOS> Jalan-jalan naik dokar <CLS> Naiknya sama Salsa <CONTENT> Janganlah menangis karena pacar <CLS> Menangislah karena dosa <EOS>
+<BOS> Pergi ke kebun memetik tomat <CLS> Jangan lupa memakai sandal <CONTENT> Janganlah mengumbar aurat <CLS> Sudah dikubur baru menyesal <EOS>
+<BOS> Si Bayu makan kelapa <CLS> Duduknya di atas batu <CONTENT> Kalau kamu mau jumpa <CLS> Jangan lupa wa aku <EOS>
+<BOS> Penjualnya namanya Mamang <CLS> Jadilah orang penyabar <CONTENT> Meski dibenci banyak orang <CLS> Si Siti pergi jamaah bersama <EOS>
+<BOS> Tahun baru lihat Santa <CLS> Jalan-jalan ke Pangkalan Kerinci <CONTENT> Dulu dicinta <CLS> Sekarang malah pergi <EOS>
+<BOS> Pagi-pagi beli itik <CLS> Beli nya di pasar baru <CONTENT> Hey kamu gadis cantik <CLS> Mau kah kamu jadi milikku <EOS>
+<BOS> Buah salak baru dipetik <CLS> Buah duku buah delima <CONTENT> Ada banyak wanita cantik <CLS> Cuma kamu yang aku cinta <EOS>
+<BOS> Jalan-jalan ke pasar beli tomat <CLS> Pulangnya beli buah mangga <CONTENT> Ayo teman-teman mari kita sholat <CLS> Akhir kelak kita masuk surga. <EOS>
+<BOS> Ada kucing sedang mati <CLS> Karena tidak dikasih makan majikannya <CONTENT> Jika anda sakit hati <CLS> Bacalah Al-Qur'an berserta maknanya. <EOS>
+<BOS> Jalan-jalan membeli ketupat <CLS> Tidak lupa membeli jamu <CONTENT> Jika ingin ilmumu bermanfaat <CLS> Maka patuhlah kepada gurumu. <EOS>
+<BOS> Beli cincin di rumah pak Rahmat <CLS> Di rumah pak Rahmat cincinnya tinggal dua <CONTENT> Jika ingin sukses dunia akhirat <CLS> Hendaklah engkau patuhi orang tua <EOS>
+<BOS> Jalan-jalan ke Semarang <CLS> Jangan lupa pergi ke Medan <CONTENT> Percuma aku sayang <CLS> Tapi akhirnya hanya pelampiasan. <EOS>
+<BOS> Pagi hari udara yang segar <CLS> Jangan lupa jalan-jalan dipagi hari <CONTENT> Tetaplah selalu belajar <CLS> Karena otak juga perlu ilmu suatu saat nanti <EOS>
+<BOS> Udara segar di pagi hari <CLS> Berlari-lari di pagi hari dengan cepat <CONTENT> Rajin-rajinlah membaca buku setiap hari <CLS> Agar mendapat ilmu yang bermanfaat <EOS>
+<BOS> Mancing ikan di tepi sungai <CLS> Setelah itu membeli pisang <CONTENT> Hilangkan sifat iri dengki <CLS> Agar hidup selalu menjadi tenang <EOS>
+<BOS> Mencari ikan di tepi sungai <CLS> Tak lupa membawa pancing <CONTENT> Kukira mancing itu mudah dan santai <CLS> Ternyata emosiku juga ikut terpancing <EOS>
+<BOS> Pak Rozzy pergi ke Solo <CLS> Pergi ke solo membeli oleh-oleh <CONTENT> Jika kau mau ke Solo <CLS> Jangan lupa bawa oleh-oleh <EOS>
+<BOS> Pak Rizal pergi ke pantai <CLS> Tak lupa bawa persiapan <CONTENT> Kukira dirimu santai <CLS> Eh tenyata banyak urusan <EOS>
+<BOS> Pergi ke pasar membeli sarapan <CLS> Tak lupa memesan makanan <CONTENT> Jika kau lupa yang apa yang kamu kerjakan <CLS> Maka ingat lah kamu akan menyesal <EOS>
+<BOS> Anak ayam turun sepuluh <CLS> Mati satu tinggal sembilan <CONTENT> Ayo kawan belajar sungguh sungguh <CLS> Jangan sampai ketinggalan <EOS>
+<BOS> Ibuku pergi ke pasar <CLS> Ke pasar naik kuda <CONTENT> Jadilah anak yang pintar <CLS> Agar tidak menyesal di hari tua <EOS>
+<BOS> Bangun pagi tak lupa sholat subuh <CLS> Setelah sholat subuh tak lupa jalan santai <CONTENT> Belajar dengan sungguh sungguh <CLS> Agar kelak menjadi pandai <EOS>
+<BOS> Ke pasar membeli timun <CLS> Setelah membeli timun membeli acar <CONTENT> Ayo kawan belajar dengan tekun <CLS> Kalau ingin menjadi anak pintar <EOS>
+<BOS> Ayahku seorang petani <CLS> Punya sawah punya ladang <CONTENT> Mari belajar hari ini <CLS> Agar masa depan lebih gemilang <EOS>
+<BOS> Ikut lomba tapi kalah <CLS> Lalu pulang dengan hati kesal <CONTENT> Saat muda rajin sekolah <CLS> Saat tua tidak akan menyesal <EOS>
+<BOS> Buah kenari dan buah mangga <CLS> Di dalam karung ada sepuluh <CONTENT> Agar orang tuamu bangga <CLS> Jadilah kamu anak penurut <EOS>
+<BOS> Ada pasir ada pula tanah <CLS> Batang pohon punya dahan <CONTENT> Umur panjang itu amanah <CLS> Tanggung jawabnya kepada Tuhan <EOS>
+<BOS> Akar padi kuat ditanam <CLS> Buah jatuh ke dalam sumur <CONTENT> Budi pekerti hendaklah ditanam <CLS> Agar tak menyesal di dalam kubur <EOS>
+<BOS> Harum bagaikan bunga melati <CLS> Diam terpaku seorang tamu <CONTENT> Andaikan engkau mengerti <CLS> Betapa aku merindukanmu <EOS>
+<BOS> Pergi pagi pulang petang <CLS> Capek di hati capek di badan <CONTENT> Ketika doi datang <CLS> Semua tampak menyenangkan <EOS>
+<BOS> Jalan-jalan naik kuda <CLS> Di pesimpangan bertemu janda <CONTENT> Penderitaan akan selalu ada <CLS> Selama tak ada keikhlasan di dalam dada <EOS>
+<BOS> Berbuatlah baik sebanyak mungkin <CLS> Perbuatan baik mudah di lupa orang <CONTENT> Jauhi keburukan sekecil mungkin <CLS> Perbuatan buruk banyak di kenang orang <EOS>
+<BOS> Hari selasa pergi sekolah <CLS> Pulangnya naik motor <CONTENT> Jangan lah berbuat salah <CLS> Nanti hati bisa kotor <EOS>
+<BOS> Buah durian berduri <CLS> Buah kelapa ada dua <CONTENT> Ilmu apa yang kamu beri <CLS> Hingga aku jatuh cinta <EOS>
+<BOS> Naik sepeda kena paku <CLS> Setelah itu hati hati <CONTENT> Kalo garuda di dadaku <CLS> Kalo kamu dihati <EOS>
+<BOS> Aku suka jerman <CLS> Kamu suka belanda <CONTENT> Aku suka beneran <CLS> Eh kamunya becanda <EOS>
+<BOS> Ke laut kita menyelam <CLS> Ke aceh liat tari saman <CONTENT> Kalo cintaku sudah mendalam <CLS> Jarak jauh tak ku hiraukan <EOS>
+<BOS> Duduk santai baca buku <CLS> Buku cerita cinta <CONTENT> Saat aku ketemu kamu <CLS> Aku langsung jatuh cinta <EOS>
+<BOS> Pergi ke pasar bersama bunda <CLS> Jangan lupa membeli buah <CONTENT> Jika tidak ingin masuk neraka <CLS> Jadilah anak yang rajin beribadah <EOS>
+<BOS> Beli ayam goreng bersama Linda <CLS> Lanjut pergi beli bakso kuah <CONTENT> Tak bisa aku menahan tawa <CLS> Melihat kucing jatuh ke sawah <EOS>
+<BOS> Pergi ke Kudus bersama Indi <CLS> Ke Kudus membeli kayu <CONTENT> Janganlah pergi wahai pujaan hati <CLS> Hidup hampa tanpa adanya dirimu <EOS>
+<BOS> Beli tahu di Balikpapan <CLS> Mampir makan di rumah teguh <CONTENT> Jika ingin sukses di masa depan <CLS> Maka rajinlah belajar dengan sungguh <EOS>
+<BOS> Pergi ke Bandung beli durian <CLS> Tidak lupa beli samyang <CONTENT> Buat apa waja tampan <CLS> Kalau tidak bersembahyang <EOS>
+<BOS> Ke Jakarta beli leci <CLS> Tidak lupa beli nanas <CONTENT> Selamat pagi kawan disini <CLS> Selamat beraktivitas <EOS>
+<BOS> Keliling simpang bersama ayah <CLS> Kita di sana ketemu warga <CONTENT> Jangan lupa beribadah <CLS> Agar kita masuk surga <EOS>
+<BOS> mandi pagi memakai sabun <CLS> Kesekolah tidak lupa meminta uang saku <CONTENT> Belajarlah dengan tekun <CLS> Agar kamu mendapatkan banyak ilmu <EOS>
+<BOS> Beli kurma di Pacitan <CLS> Beli bakwan ke rumah Wawan <CONTENT> Percuma sering chat an <CLS> Kalau cuma dianggap kawan <EOS>
+<BOS> Bermain di taman dengan akur <CLS> Bersama teman naik jungkat-jungkit <CONTENT> Mari kawan kita bersyukur <CLS> Menjaga sehat sebelum sakit <EOS>
+<BOS> Bus salah satu alat transportasi <CLS> Selain bus ada juga perahu <CONTENT> Buku itu sumber informasi <CLS> Semakin dibaca semakin banyak ilmu <EOS>
+<BOS> Nila sedang bermain harpa <CLS> Harpa di petik suaranya merdu <CONTENT> Sudah lama tak bertegur sapa <CLS> Membuat hati ini menjadi rindu <EOS>
+<BOS> Burung beo burung kakatua <CLS> Suaranya menghibur hati <CONTENT> Patuhi nasehat orang tua <CLS> Agar menjadi anak berbakti <EOS>
+<BOS> Tinggi; kokoh berdiri gagah <CLS> Tumbuh besar pohon jati <CONTENT> Lebih baik mencegah <CLS> Dari pada mengobati <EOS>
+<BOS> Jalan-jalan pergi ke rawa <CLS> Cari minum di siang bolong <CONTENT> kami semua Pada tertawa <CLS> Melihat nenek bergigi ompong <EOS>
+<BOS> Si kancil ayo dikejar <CLS> Sudah dikejar lari ke pantai <CONTENT> Masih kecil rajin belajar <CLS> Agar besar menjadi pandai <EOS>
+<BOS> Terbuat dari apa donat <CLS> Kalau bukan dengan terigu <CONTENT> Dengan siapa aku bersahabat <CLS> Kalau bukan dengan kamu <EOS>
+<BOS> Sama-sama belajar lampunya redup <CLS> Setelah redup kembali menyala <CONTENT> Dengan siapa aku hidup <CLS> Kalau bukan dengan dia <EOS>
+<BOS> Jalan jalan bersama teman <CLS> Lihat anjing sedang menggonggong <CONTENT> Suka sekali makan ikan <CLS> Hewan apa yang suka mengeong? <EOS>
+<BOS> Si Ipin naik keledai <CLS> Kakinya keseleo dan terjungkir <CONTENT> Jika kamu ingin pandai <CLS> Jangan lupa berpikir <EOS>
+<BOS> Pergi mengaji dengan baik <CLS> Ngajinya lama <CONTENT> Buatlah hal hal yang baik <CLS> Hanya untuk Allah semata <EOS>
+<BOS> Si Upin belajar dengan giat <CLS> Tidak lupa berdoa <CONTENT> Jadilah orang yang taat <CLS> Agar di sayang ayah bunda <EOS>
+<BOS> Ibuku pergi ke pasar <CLS> Kepasar naik kuda <CONTENT> Jadilah anak yang pintar <CLS> Agar tak menyesal di hari tua <EOS>
+<BOS> Burung emprit burung kenari <CLS> Hinggap di pagar <CONTENT> Berolahragalah setiap hari <CLS> Agar badanmu sehat dan bugar <EOS>
+<BOS> Pergi ke sawah bareng pak Khobar <CLS> Bareng pak Khobar makan ketan <CONTENT> Belajarlah menjadi sabar <CLS> Orang sabar disayang Tuhan <EOS>
+<BOS> Pagi pagi makan nasi <CLS> Nasinya berbentuk hati <CONTENT> Memandang mu bagai bidadari <CLS> Eh ternyata cuma fiksi <EOS>
+<BOS> Rokok habis berbatang batang <CLS> Beli nasgor gak pakai acar <CONTENT> Bulan puasa bentar lagi datang <CLS> Si jomblo merenung ga punya pacar <EOS>
+<BOS> Beli topi di Tanah Abang <CLS> Naruh kacamata di atas pagar <CONTENT> Ngopi dulu bang <CLS> Biar mata yang ngantuk jadi segar <EOS>
+<BOS> Jalan-jalan ke Purwodadi <CLS> Jangan lupa membeli semangka <CONTENT> Ketika kamu lagi sakit hati <CLS> Melakukan sholatlah jawabannya <EOS>
+<BOS> Jalan-jalan ke Surabaya <CLS> Tidak lupa membeli alpukat <CONTENT> Janganlah jadi anak durhaka <CLS> Biar tidak celaka dunia akhirat <EOS>
+<BOS> Hari raya makan ketupat <CLS> Minumannya jus mangga <CONTENT> Kali ingin badan sehat <CLS> Rajinlah berolahraga <EOS>
+<BOS> Ke warung beli bumbu Sasa <CLS> Tidak lupa beli micin <CONTENT> Ketika kamu ingin cepat kaya <CLS> Bekerjalah dengan yang rajin <EOS>
+<BOS> Sama Tono beli itik <CLS> Dan Heri membeli kerang <CONTENT> Jika kamu bersifat baik <CLS> Maka akan disanjung banyak orang <EOS>
+<BOS> Jalan-jalan pakai mobil agya <CLS> Jalannya ke kota Makkah <CONTENT> Jika ingin hidup bahagia <CLS> Perbanyaklah sedekah <EOS>
+<BOS> Buah mangga buah pepaya <CLS> Sudah matang harus dipetik <CONTENT> Ngakunya sih abis dianiaya <CLS> Eh gak tau abis operasi plastik <EOS>
+<BOS> Buah manggis buah durian <CLS> Buah pepaya buah mangga <CONTENT> Jadilah orang teladan <CLS> Agar bisa membanggakan orang tua <EOS>
+<BOS> Si Sisi kerumah Ari <CLS> Beli layangan mainnya ditaman <CONTENT> Chattingan sih setiap hari <CLS> Tapi sayang cuma dianggap teman <EOS>
+<BOS> Pergi ke pasar membeli buah <CLS> Dijual dengan macam-macam harga <CONTENT> Perbanyaklah amal ibadah <CLS> Agar kelak dapat masuk surga. <EOS>
+<BOS> Pagi pagi ibu ke pasar <CLS> Untuk membeli ikan mas <CONTENT> Bersungguh sunggulah belajar <CLS> Agar menjadi juara kelas. <EOS>
+<BOS> Seorang laki-laki dipangil abah <CLS> Punya anak bernama Raka <CONTENT> Jagan sekali melanggar perintah Allah <CLS> Maka akan dapat siksa neraka <EOS>
+<BOS> Hamparan sawah indah dilihat <CLS> Dilihat dari atas bukit <CONTENT> Marilah nak hidup bersih dan sehat <CLS> Agar terhindar dari penyakit <EOS>
+<BOS> Berjalan sambil mengadap <CLS> Tanpa suara mengumpat di balik kendi <CONTENT> Dari mana asal bau tak sedap <CLS> Ternyata dari kamu yang belum mandi. <EOS>
+<BOS> Saya lihat burung kenari <CLS> Saya melihat hinggap di pagar <CONTENT> Berolahragalah setiap hari <CLS> Agar tubuh sehat dan bugar <EOS>
+<BOS> Sore-sore melihat matahari <CLS> Ada orang membuka pagar <CONTENT> Jangan lupa mandi di pagi hari <CLS> Agar badan menjadi segar <EOS>
+<BOS> Ada cowok lagi makan <CLS> Makannya membawa krupuk <CONTENT> Kalo ada tugas langsung dikerjakan <CLS> Biar tugas tidak menumpuk <EOS>
+<BOS> Hari ini mapel akidah akhlak <CLS> Gurunya pak Abu Naim <CONTENT> Sering lah belajar tentang akhlak <CLS> Dan sayangilah anak yatim <EOS>
+<BOS> Pergi ke sekolah di hari rabu <CLS> Mata pelajaran matematika <CONTENT> Jangan coba durhaka pada ibu <CLS> Kelak kau akan masuk neraka <EOS>
+<BOS> Pergi ke mushola <CLS> Membaca ayat-ayat Alquran <CONTENT> Tahu tentang agama <CLS> Tapi kok masih pacaran <EOS>
+<BOS> Pergi ke Indomaret beli es krim <CLS> Jangan lupa mampir ke toko boba <CONTENT> Tau kewajiban seorang muslim <CLS> Tapi kenapa masih meninggalkannya <EOS>
+<BOS> Buaya putih hidup dirawa <CLS> Meronta-ronta terjerat jaring <CONTENT> Perut sakit menahan tawa <CLS> Gigi nenek loncat di piring <EOS>
+<BOS> Buah pisang buah tomat <CLS> Disimpan di lumbung padi <CONTENT> Pantas tercium bau menyengat <CLS> Rupanya kau belum mandi <EOS>
+<BOS> Kapal berlayar di laut Jawa <CLS> Nakhoda mengacungkan jempol <CONTENT> Adik menangis lalu tertawa <CLS> Melihat kakak masih mengompol <EOS>
+<BOS> Jalan-jalan ke Purwodadi <CLS> Jangan lupa beli semangka <CONTENT> Ketika kamu lagi sakit hati <CLS> Melakukan shalat jawabannya <EOS>
+<BOS> Anak kodok lincah melompat <CLS> Lompatnya Dipinggir telaga <CONTENT> Anak baik tidak mengumpat <CLS> Nanti hilang semua pahala <EOS>
+<BOS> Minum kopi di sawah <CLS> Nikmat sekali rasanya <CONTENT> Anak berbakti anak sholehah <CLS> Itulah anak tetangga <EOS>
+<BOS> Ambil air dari perigi <CLS> Untuk mandi terasa dingin <CONTENT> Kalau pohon semakin tinggi <CLS> Kencang pula tiupan angin <EOS>
+<BOS> Di langit berasak awan <CLS> Air beriak yang di telaga <CONTENT> Jika ingin disayang kawan <CLS> Sopan santun yang dijaga <EOS>
+<BOS> Buah stroberi kecil rupanya <CLS> Membuat kita menjadi semangat <CONTENT> Buanglah sampah pada tempatnya <CLS> Agar lingkungan kita sehat <EOS>
+<BOS> Belajar adalah kewajiban <CLS> Jangan menunggu perintah <CONTENT> Hidup sekali jangan jadi beban <CLS> Kalau bisa jangan buat susah <EOS>
+<BOS> Berlari secepat kuda <CLS> Berjalan selangkah demi selangkah <CONTENT> Boleh saja cari pahala <CLS> Jangan lupa berbagi berkah <EOS>
+<BOS> Tali temali di pramuka <CLS> Belajar bersama Kak Ergi <CONTENT> Ayo kawan terus bersama <CLS> Menjaga rasa dan menjaga hati <EOS>
+<BOS> Buah naga buah pepaya <CLS> Dibeli di pasar pagi <CONTENT> Kalau ingin hidup bahagia <CLS> Jangan pelit untuk berbagi <EOS>
+<BOS> Duduk di depan bersama Ahyar <CLS> Sambil menyeruput kopi <CONTENT> Mau pandai harus belajar <CLS> Setiap saat dan tiap hari <EOS>
+<BOS> Kota bandung lautan api <CLS> Ada tangkupan perahu dan kota tua <CONTENT> Berbaik budi jangan ada kata tapi <CLS> Agar hidup selalu bahagia <EOS>
+<BOS> Membeli rambutan di Jepara <CLS> Membeli duku di Palembang <CONTENT> Kalau hidup ingin bahagia <CLS> Pengeluaran harus seimbang <EOS>
+<BOS> Jalan-jalan di jembatan <CLS> Lihat orang mirip kuyang <CONTENT> Walau banyak ada kegiatan <CLS> Jangan lupa untuk sembahyang <EOS>
+<BOS> Minum soda yang berbusa <CLS> Cuaca siang sangat gerah <CONTENT> Jangan gampang putus asa <CLS> Jadilah orang yang selalu tabah <EOS>
+<BOS> Jalan-jalan ke Jakarta <CLS> Ketemu Nagita Slavina <CONTENT> Jangan takut putus cinta <CLS> Takutlah berbuat zina <EOS>
+<BOS> Pengen mawar adanya melati <CLS> Memetiknya ditaman paman <CONTENT> Tetaplah engkau rendah hati <CLS> Walau ada banyak rintangan <EOS>
+<BOS> Jual mangga di gunung Merapi <CLS> Mangga dipetik lalu dikarungi <CONTENT> Jangan terlalu sering membohongi <CLS> Orang jujur banyak yang menemani <EOS>
+<BOS> Pohon kelapa di dekat sumur <CLS> Kelapa muda di belah dua <CONTENT> Tidak ada batasan umur <CLS> Untuk belajar di saat tua <EOS>
+<BOS> Pohon Akasia banyak benalu <CLS> Dicabut selalu sampai akar <CONTENT> Jika rajin membaca buku <CLS> Pasti jadi anak yang pintar <EOS>
+<BOS> Pukul tujuh masuk ke kelas <CLS> Mengerjakan tugas soalnya sulit <CONTENT> Carilah ilmu dengan ikhlas <CLS> Raih cita-cita setinggi langit <EOS>
+<BOS> Hari Minggu membeli bubur <CLS> Penjualnya bernama Pak Ahmad <CONTENT> Perbanyaklah makan sayur <CLS> Agar tubuh tetap sehat dan kuat <EOS>
+<BOS> Saudagar kaya membeli kain <CLS> Jatuh di jalan kaki pun memar <CONTENT> Jangan melihat kesalahan orang lain <CLS> Lihat diri sudahkah berbuat benar <EOS>
+<BOS> Pergi ke pasar membeli buku <CLS> Pulangnya naik delman <CONTENT> Jangan lupa menuntut ilmu <CLS> Supaya sukses di masa depan <EOS>
+<BOS> Daun gugur ditiup angin <CLS> Berserakan di tengah kota <CONTENT> Ayo belajar lebih rajin <CLS> Agar tercapai cita cita <EOS>
+<BOS> Ke perpustakaan mencari buku <CLS> Jangan lupa membaca ilmunya <CONTENT> Hormatilah kedua orang tuamu <CLS> Adalah kekayaan yang paling berharga <EOS>
+<BOS> Jalan-jalan ke desa putad <CLS> Tidak lupa membeli nasi <CONTENT> Lulusan MAN tidak cuma bisa jadi ustad <CLS> Tapi juga bisa jadi kalangan yang berdasi. <EOS>
+<BOS> Beli oleh-oleh di Bekasi <CLS> Tidak lupa mampir ke Maluku <CONTENT> Jika ingin jadi siswa yang berprestasi <CLS> Jangan lupa minta restu dari orang tuamu. <EOS>
+<BOS> Menyembuhkan bahasa Inggrisnya cure <CLS> Kalau shave artinya mencukur <CONTENT> Kalau diri merasa insecure <CLS> Jangan-jangan kurang bersyukur <EOS>
+<BOS> Kakak cantik ke pasar baru <CLS> la pergi bersama pacar <CONTENT> Jika kamu ingin berilmu <CLS> Maka harus giat belajar <EOS>
+<BOS> Abah sedang meminum kopi <CLS> Umi kepasar membeli blewah <CONTENT> Jika kamu pandai mengaji <CLS> Maka hidupmu akan jadi barokah <EOS>
+<BOS> Jalan jalan ke Pasar Minggu <CLS> Ke Pasar Minggu naik kereta <CONTENT> Jangan lupa sholat lima waku <CLS> Agar kita masuk surga <EOS>
+<BOS> Mbak Siska beli cermai <CLS> Pulangnya diantar Rama <CONTENT> Jika kita ingin hidup damai <CLS> Rukunlah dengan sesama <EOS>
+<BOS> Ke pantai mencari udang <CLS> Tak dapat udang nelayan kesal <CONTENT> Jangan gampang percaya omongan orang <CLS> Jika tidak ingin menyesal <EOS>
+<BOS> Raja gagah lagi sakti <CLS> Laksamana pergi berperang <CONTENT> Supaya tidak sesal di hati <CLS> Janganlah kena perdaya <EOS>
+<BOS> Jambu itu jambu Perukal <CLS> Tumbuh subur lebat buahnya <CONTENT> Ilmu itu harta yang kekal <CLS> Penyuluh hidup dalam dunia <EOS>
+<BOS> Tukang becak makan telur dadar <CLS> Telurnya asin rasanya <CONTENT> Ayo kita rajin belajar <CLS> Agar kita sukses kedepannya <EOS>
+<BOS> Pagi cerah di hari selasa <CLS> Sarapannya makan ikan <CONTENT> Jangan lupa untuk membaca <CLS> Agar kita banyak pengetahuan <EOS>
+<BOS> Beli masker di kota Maluku <CLS> Di sana ada panen padi <CONTENT> Walau banyak yang suka padaku <CLS> Tetapi kamu saja yang menarik dihati <EOS>
+<BOS> Jalan jalan ketemu itik <CLS> Itiknya melewati banyak batu <CONTENT> Hai nona cantik <CLS> Mau kah kamu jadi pujaan hatiku <EOS>
+<BOS> Beli kain warna merah <CLS> Dari Kediri membeli kain batik <CONTENT> Digodain jangan marah <CLS> Salah sendiri punya wajah cantik <EOS>
+<BOS> Teman Jungkook bernama Suga <CLS> Hobinya liat orang mati <CONTENT> Cita-citanya masuk surga <CLS> Disuruh sholat jawabnya nanti. <EOS>
+<BOS> Habis mandi pakai sepatu <CLS> Berangkat sekolah nunggu busway <CONTENT> Berikan aku doa restu <CLS> Agar aku menang give away <EOS>
+<BOS> Di jalan raya ada nenek tua <CLS> Minta dibantu sama si santi <CONTENT> Katanya si sayang orang tua <CLS> Tapi disuruh jawabnya nanti <EOS>
+<BOS> Buah mangga jadi acar <CLS> Acar dibeli di toko berkah <CONTENT> Aku bukan nyari pacar <CLS> Tapi nyari yang mau diajak nikah <EOS>
+<BOS> Buah rambutan buah pepaya <CLS> Tumbuh tinggi di atas bukit <CONTENT> Wahai kamu para buaya <CLS> Bisa gak serius dikit <EOS>
+<BOS> Baca koran mancari kabar <CLS> Bacanya sambil rebahan <CONTENT> Kalau kamu mau pintar <CLS> Sekolah di MAN 1 Grobogan <EOS>
+<BOS> Nasi putih sudah basi <CLS> Ayam di rebus jadi rica <CONTENT> Kalau kita mau pandai <CLS> Ya coba belajar dicinta <EOS>
+<BOS> Sendok dapur warnanya hitam <CLS> Ada wortel di dalam kulkas <CONTENT> Kalau kamu ingin hidup trentam <CLS> Cobalah lagi untuk terus ikhlas <EOS>
+<BOS> Ada banyak hewan lebah <CLS> Awan-awannya terlihat mendung <CONTENT> Hidup di bumi memang susah <CLS> Makanya jangan takut kesandung <EOS>
+<BOS> Si Nunung lagi nyapu <CLS> Pas menyapu dia nyanyi <CONTENT> Nengok ke belakang ada tamu <CLS> Dia kaget terus lari <EOS>
+<BOS> Si adik makan benana <CLS> Dan abang lagi nari saman <CONTENT> Segalanya yang ada berguna <CLS> Semua yang diciptakan tidak boleh disiakan: <EOS>
+<BOS> Piring putih dibanting <CLS> Pecah melukai paman <CONTENT> Yang kamu temui itu penting <CLS> Jadi jangan suka menyepelekan <EOS>
+<BOS> Dunia itu tidak sempit <CLS> Isinya juga indah-indah <CONTENT> Apalagi si gadis mata sipit <CLS> Kalau senyum bikin salah tingkah <EOS>
+<BOS> Anak pandai bisa hemat <CLS> Membeli barang yang manfaat <CONTENT> Kepada yang tua harus hormat <CLS> Agar hidup mendapat berkat <EOS>
+<BOS> Beribadah ke kota Mekah <CLS> Pulangnya beli sejadah <CONTENT> Kalau hidup ingin berkah <CLS> Jangan pernah tinggalkan ibadah <EOS>
+<BOS> Cari ikan di tepi danau <CLS> Masaknya dengan kuali <CONTENT> Kalau kamu sudah merantau <CLS> Jangan lupa pulang kembali <EOS>
+<BOS> Bunga mawar merekah-rekah <CLS> Di pandang sangatlah indah <CONTENT> Kalau hidup ingin berkah <CLS> Jangan lupa sempatkan bersedekah <EOS>
+<BOS> Panen pisang di tepi ladang <CLS> Di tebang dengan hati hati <CONTENT> Kalau anda suka bergadang <CLS> Tunggu waktu menghitung hari <EOS>
+<BOS> Pergi ke hutan memanjat pohon randu <CLS> Pergi ke kolam memancing ikan koi <CONTENT> Jikalau engkau merasa rindu <CLS> Hendaknya segeralah kau temui <EOS>
+<BOS> Tukang kayu membeli palu <CLS> Dia membelah kayu dengan belati <CONTENT> Wahai engkau manusia pemalu <CLS> Jangan engkau membohongi hati <EOS>
+<BOS> Makan ayam pakai sambel terasi <CLS> Ayamnya jatuh di bawah kolong <CONTENT> Buat apa sih nurutin gengsi <CLS> Kalo dompet kosong dan bolong <EOS>
+<BOS> Hujan badai si Lastri minum jamu <CLS> Sambil nonton konser Syahrini <CONTENT> Oh betapa bening teduh matamu <CLS> Melahirkan rasa damai dalam hati ini <EOS>
+<BOS> Ke Tawangmangu beli kaktus <CLS> Singgah ke pasar Klewer untuk mampir <CONTENT> Janganlah ngomong ketus-ketus <CLS> Nanti wajahmu seperti nenek lampir <EOS>
+<BOS> Ke gudang ambil karung goni <CLS> Dipakai untuk menangkap belalang <CONTENT> Batapa kacau pikiranku ini <CLS> Bila ku tahu ada yang hilang <EOS>
+<BOS> Si Ijah makan bunga perdu <CLS> Bunga perdunya nyangkut di gusi <CONTENT> Andai kau tau aku rindu <CLS> Tapi rinduku terhalangi gengsi <EOS>
+<BOS> Ada rumah tua tidak dihuni <CLS> Sudah pasti banyak hantu <CONTENT> Betapa cantik bintang malam ini <CLS> Secantik sorot matamu <EOS>
+<BOS> Ke istana menemui raja <CLS> Raja memberi hadiah sebilah belati <CONTENT> Waduh si anak remaja <CLS> Baru mengenal cinta sudah patah hati <EOS>
+<BOS> Ibu bapak sedang bertamu <CLS> Tamunya meminjam modal <CONTENT> Fokus sama masa depanmu <CLS> Ayo hindari hal merusak moral <EOS>
+<BOS> Ibu pergi ke pasar diantar Taufik <CLS> Taufik mampir membeli bubur <CONTENT> Tidak ingin aku menjadi munafik <CLS> Tapi aku takut berbicara jujur <EOS>
+<BOS> Ke hutan liat kunang-kunang <CLS> Tidak sengaja menemukan bahan jamu <CONTENT> Hati ini sudah merasa tenang <CLS> Bila ku tahu barangnya sudah ketemu <EOS>
+<BOS> Di meja ada buku <CLS> Di taman ada bunga <CONTENT> Rajinlah menuntut ilmu <CLS> Agar menjadi orang yang berguna <EOS>
+<BOS> Jalan-jalan ke kota Batu <CLS> Tidak lupa membeli alpukat <CONTENT> Jangan lupa sholat lima waktu <CLS> Agar selamat dunia akhirat <EOS>
+<BOS> Ke toko beli aqua <CLS> Tidak lupa membeli roti <CONTENT> Patuhlah kepada orang tua <CLS> Agar menjadi anak berbakti <EOS>
+<BOS> Ke swalayan beli baju <CLS> Pulangnya membeli buah <CONTENT> Rajinlah menuntut ilmu <CLS> Agar masa depan jadi cerah <EOS>
+<BOS> Ke pasar beli anggur <CLS> Tidak lupa membawa uang <CONTENT> Jadilah orang jujur <CLS> Agar disukai banyak orang <EOS>
+<BOS> Pergi liburan ke kota Banjar <CLS> Tidak lupa membeli ketan <CONTENT> Wahai teman rajin rajinlah belajar <CLS> Supaya sukses di masa depan <EOS>
+<BOS> Putri cantik anak ratu <CLS> Hidup mewah di istana <CONTENT> Kalau kamu tak mau malu <CLS> Ngaca dulu sebelum bergaya <EOS>
+<BOS> Buah jeruk buah mangga <CLS> Belinya di pasar kelaran <CONTENT> Jangan suka pakai narkoba <CLS> Karna nyawa jadi taruhan <EOS>
+<BOS> Ingin minum gunakan gelas <CLS> Minumlah air tawar <CONTENT> Kalau ingin naik kelas <CLS> Maka rajinlah belajar <EOS>
+<BOS> Pohon mangga tumbuh berbuah <CLS> Manislah rasanya <CONTENT> Rajinlah kita beribadah <CLS> Agar kita dapat masuk surga <EOS>
+<BOS> Jalan-jalan ke kota bandung <CLS> Jangan lupa mengisi saku <CONTENT> Kalau kamu sedang bingung <CLS> Jangan lupa membaca buku <EOS>
+<BOS> Walau hitam arang kelapa <CLS> Jika dibakar api membara <CONTENT> Hormati olehmu ibu bapak <CLS> Ridha Allah ada pada ridhanya <EOS>
+<BOS> Minta maaf jika salah <CLS> Anak ayam turun berkotek <CONTENT> Belum mengerjakan PR sekolah <CLS> Pagi-pagi ribut menyontek <EOS>
+<BOS> Sekolah aku sudah tutup <CLS> Semua murid akan raya <CONTENT> Hati-hati guna hidup <CLS> Hidup kita punya harga <EOS>
+<BOS> Daun terlarang di atas dulang <CLS> Anak udang mati di tuba <CONTENT> Dalam kitab ada terlarang <CLS> Yang haram jangan dicoba <EOS>
+<BOS> Pak Amat jualan tomat <CLS> Jangan lupa membeli salam <CONTENT> Wahai siswa yang terhormat <CLS> Jangan lupa mengucap salam <EOS>
+<BOS> Naik bus jalannya mulus <CLS> Sampai halte membeli buku <CONTENT> Jika cintamu tidak begitu tulus <CLS> Lebih baik tinggalkan aku <EOS>
+<BOS> Mas jaenal pergi ke Semarang <CLS> Sampai semarang beli buah siwalan <CONTENT> Tak kenal maka tak sayang <CLS> Setelah sayang ditinggalkan <EOS>
+<BOS> Buah pisang buah tomat <CLS> Disimpan di dalam lumbung padi <CONTENT> Pantas tercium bau menyengat <CLS> Rupanya kamu yang bum mandi <EOS>
+<BOS> Ibu-ibu pergi ke pasar <CLS> Ke pasar untuk membeli perhiasan <CONTENT> Kalau kamu malas belajar <CLS> Akan menyesal kemudian <EOS>
+<BOS> Makan malam lauknya gorengan <CLS> Gorengan dimakan pakai sambal <CONTENT> Hatiku senang bisa berkawan <CLS> Dari Penawangan aku berasal <EOS>
+<BOS> Salat subuh saat fajar <CLS> Berangkat sekolah pagi hari <CONTENT> Jika engkau rajin belajar <CLS> Pastilah engkau bertambah pandai <EOS>
+<BOS> Jalan jalan ke kota Bandung <CLS> Jangan lupa mengisi uang saku <CONTENT> Kalau kamu sedang terasa bingung <CLS> Jangan lupa untuk membaca buku <EOS>
+<BOS> Kain batik untuk kebaya <CLS> Adanya di kota Kediri <CONTENT> Jika kita putus cinta <CLS> Janganlah gantung diri <EOS>
+<BOS> Di Jakarta musim kemarau <CLS> Di Bandung musim hujan <CONTENT> Marilah kita beresenda gurau <CLS> Supaya terjalin keakraban <EOS>
+<BOS> Hari senin selasa rabu <CLS> Setelah hari senin terus selasa <CONTENT> Jadi anak berbakti pada bapak ibu <CLS> Agar kelak kita bisa masuk surga <EOS>
+<BOS> Dua tiga kelereng Rida <CLS> Mainnya di rumah bunda <CONTENT> Jadi anak jangan durhaka <CLS> Supaya hidup tidak sengsara <EOS>
+<BOS> Naik haji ke kota Mekah <CLS> Mengelilingi bukit Sofa dan Marwa <CONTENT> Jangan lah malas malas ke sekolah <CLS> Agar tercapai semua cita-cita <EOS>
+<BOS> Buah delima; durian; dan mangga <CLS> Dimakan bersama keluarga <CONTENT> Kalau bermain jangan lupa <CLS> Sholat mengaji tetap dijaga <EOS>
+<BOS> Pergi ke pasar membeli baju <CLS> Tidak lupa juga membeli gitar <CONTENT> Kalau rajin membaca buku <CLS> Pasti jadi anak yang pintar <EOS>
+<BOS> Putih-putih bunga melati <CLS> Merah-merah buah delima <CONTENT> Bagaimana hati tak geli <CLS> Melihat gajah bermain mata <EOS>
+<BOS> Kupu-kupu terbang melintang <CLS> Hinggap mengisap bunga layu <CONTENT> Hati di dalam menaruh bimbang <CLS> Melihat ikan membaca buku <EOS>
+<BOS> Pagi-pagi makan kuaci <CLS> Jangan dimakan dengan kulitnya <CONTENT> Bagaimana pula kau ini <CLS> Satu tambah satu masa tak bisa <EOS>
+<BOS> Kalau ada sumur di ladang <CLS> Bolehlah kita menggosok gigi <CONTENT> Kalau anda di warung Padang <CLS> Bolehkah kita ditraktir lagi <EOS>
+<BOS> Pegunungan jalan berliku <CLS> Udara pegunungan sungguh enak <CONTENT> Senyuman tampak di wajah kakekku <CLS> Melihat cucu sedang berbedak <EOS>
+<BOS> Burung merpati terbang tinggi <CLS> Terbang tinggi patah sayapnya <CONTENT> Jika kamu ingin pandai <CLS> Belajarlah dengan segiat-giatnya <EOS>
+<BOS> Ke pasar beli babat <CLS> Tidak lupa bawa uang <CONTENT> Rajinlah melaksanakan sholat <CLS> Agar disukai banyak orang <EOS>
+<BOS> Kupu kupu terbang melintang <CLS> Hinggap mengisap bunga layu <CONTENT> Hati di dalam menaruh bintang <CLS> Melihat ikan membaca buku <EOS>
+<BOS> Beli dawet lima ribuan <CLS> Sampai simpang membeli ceri <CONTENT> Jangan takut jadi dermawan <CLS> Karena uang bisa di cari <EOS>
+<BOS> Berangkat sekolah baca bismillah <CLS> Menunggu ojek sambil berdiri <CONTENT> Jika dirimu merasa lelah <CLS> Jangan berpikir untuk bunuh diri <EOS>
+<BOS> Pergi ke Semarang mampir ke Saloka <CLS> Pulangnya membeli roti <CONTENT> Jangan sampai kita durhaka <CLS> Karena azab akan menanti <EOS>
+<BOS> Memetik rambutan di depan rumah <CLS> Kebetulan buahnya tua semua <CONTENT> Masih muda jangan suka marah <CLS> Kalau marah nanti cepat tua <EOS>
+<BOS> Ke Purwodadi beli kacamata <CLS> Belinya di toko ungu <CONTENT> Cintaku padamu terlihat nyata <CLS> Walaupun cintamu padaku terlihat semu <EOS>
+<BOS> Tugas kuliahku meneliti bulus <CLS> Tugas kuliahmu meneliti burung derkuku <CONTENT> Jika cintamu padaku tulus <CLS> Segeralah pinang aku di depan orang tuaku <EOS>
+<BOS> Beli manisan ternyata tipuan <CLS> Jatuh di jalan diejek petani <CONTENT> Agar tidak ada konflik di antara teman <CLS> Jangan ada rasa iri dengki <EOS>
+<BOS> Tuang minum di dalam gelas <CLS> Makan mie instan sampai kenyang <CONTENT> Kalo bicara jangan langsung ngegas <CLS> Agar banyak orang yang sayang <EOS>
+<BOS> Raffi Ahmad pergi ke Yogyakarta <CLS> Ahmad Maulana pergi ke Gujarat <CONTENT> Tuntut lah ilmu sampai ke negeri Cina <CLS> Agar selamat dunia akhirat <EOS>
+<BOS> Pak Jumadi sedang sibuk rapat <CLS> Pak polisi sedang sibuk patroli <CONTENT> Berlatih menjadi orang yang bermanfaat <CLS> Agar bisa menjaga diri sendiri <EOS>
+<BOS> Ikan mas di aquarium <CLS> Ikan lele di rawa rawa <CONTENT> Melihat tata yang sedang tersenyum <CLS> Sampai giginya terlihat semua <EOS>
+<BOS> Hari senin hari selasa <CLS> Setelah hari selasa hari rabu <CONTENT> Jangan jadi anak durhaka <CLS> Berbaktilah pada bapak ibumu <EOS>
+<BOS> Malam minggu pergi jalan-jalan <CLS> Jalan-jalan ke simpang lima <CONTENT> Kalau ingin jadi anak teladan <CLS> Jangan lupa belajar dan berdoa <EOS>
+<BOS> Matahari terbit dipagi hari <CLS> Saat sore matahari tenggelam <CONTENT> Kalau ingin jadi anak pandai <CLS> Rajinlah belajar setiap malam <EOS>
+<BOS> Pergi ke masjid melaksanakan salat <CLS> Dan tidak lupa untuk berdoa <CONTENT> Jika ingin jadi murid yang taat <CLS> Patuhi peraturan yang ada <EOS>
+<BOS> Adik kecil main layang-layang <CLS> Bermainnya di tanah pak Haji <CONTENT> Selagi hidup rajin sembahyang <CLS> Agar tak rugi di akhirat nanti <EOS>
+<BOS> Pak tani mengusir burung <CLS> Boneka sawah boneka mati <CONTENT> Masih kecil rajin menabung <CLS> Sudah besar tak susah nanti <EOS>
+<BOS> Ke pasar membeli meja <CLS> Perut lapar belum sarapan <CONTENT> Masih muda rajin berkerja <CLS> Agar hidup berkecukupan <EOS>
+<BOS> Layangan terbang tertiup angin <CLS> Karena listrik kipas berputar <CONTENT> Teruslah belajar yang rajin <CLS> Agar kau jadi anak pintar <EOS>
+<BOS> Belimbing matang milik pak Maman <CLS> Menyisir rambut sehelai sehelai <CONTENT> Ayo kawan sekolah di MAN <CLS> Agar jadi pelajar pandai <EOS>
+<BOS> Jalan-jalan ke Surabaya <CLS> Ke surabaya membeli salat <CONTENT> Jika ingin kaya raya <CLS> Bekerjalah dengan giat <EOS>
+<BOS> Ikan lele ada di rawa-rawa <CLS> Ikan emas menyangkut dijaring <CONTENT> Perutku sakit menahan canda tawa <CLS> Melihat gigi palsu loncat ke piring <EOS>
+<BOS> Putri cantik anak raja <CLS> Hidup mewah dikerajaan <CONTENT> Jangan suka pakai ganja <CLS> Karena nyawa jadi taruhan <EOS>
+<BOS> Melihat bintang di langit kelam <CLS> Adapun bulan tertutup awan abu <CONTENT> Apa binatang berdarah hitam <CLS> Berjanggut delapan bertulang satu? <EOS>
+<BOS> Dimana ayam hendak bertelur <CLS> Di atas lata dirongga batu <CONTENT> Dimana tuan hendaklah tidur <CLS> Di atas dada di rongga susu <EOS>
+<BOS> Pohon jambu pohon kelapa <CLS> Pohon kelapa dahannya rapat <CONTENT> Jika kamu ingin masuk surga <CLS> Orang tua hendak di hormat <EOS>
+<BOS> Pohon beringin daunnya lebat <CLS> Ada pengembala di bawahnya <CONTENT> Jika engkau ingin jadi pejabat <CLS> Hendaklah jujur dan bijaksana <EOS>
+<BOS> Pergi memancing saat fajar <CLS> Pulang siang membawa ikan <CONTENT> Siapa yang rajin belajar <CLS> Jadi orang sukses di masa depan <EOS>
+<BOS> Aku makan udang <CLS> Kamu makan ikan <CONTENT> Kenapa kembali datang <CLS> Aku sudah tidak menginginkan <EOS>
+<BOS> Pergi ke pasar beli labu <CLS> Pulangnya beli gorengan <CONTENT> Jika engkau patuh kepada ibu <CLS> Akan sukses di masa depan <EOS>
+<BOS> Lisa suka warna kuning <CLS> Jennie suka warna merah muda <CONTENT> Jangan suka menggunjing <CLS> Agar bisa berteman bersama- sama <EOS>
+<BOS> Raflesia bunga terbesar didunia <CLS> Juga termasuk bunga bangkai <CONTENT> Jangan terlalu mengutamakan nikmat dunia <CLS> Hingga nikmat akhirat terbengkalai <EOS>
+<BOS> Bunga di taman sangat indah <CLS> Ada mawar ada kristan <CONTENT> Aku rindu berada di sekolah <CLS> Kembali bertemu dengan teman <EOS>
+<BOS> Pergi ke mall bersama Tulus <CLS> Tidak sengaja bertemu guru <CONTENT> Kalau kamu ingin bermuka mulus <CLS> Rajin-rajinlah berwudhu <EOS>
+<BOS> Berlari cepat mengejar waktu <CLS> Terlambat sudah tertinggal kereta <CONTENT> Pendidikan itu harus nomor satu <CLS> Bagi kemajuan bangsa kita <EOS>
+<BOS> Pukul tujuh pagi masuk kelas <CLS> Kerjakan tugas soalnya rumit <CONTENT> Menuntut ilmu dengan ikhlas <CLS> Untuk cita-cita setinggi langit <EOS>
+<BOS> Ayahku seorang petani <CLS> Punya sawah punya ladang <CONTENT> Mari belajar hari ini <CLS> Agar masa depan lebih gemilang <EOS>
+<BOS> Bunga matahari bunga mawar <CLS> Bau nya sangat wangi <CONTENT> Kata nya mau pintar <CLS> Kok ga belajar mandiri <EOS>
+<BOS> Pagi-pagi nyeruput kopi <CLS> Malam malam makan terong <CONTENT> Hei kamu yang baik hati <CLS> Ajarin aku dong <EOS>
+<BOS> Bangun pagi pergi ke sawah <CLS> Di sawah bertemu dengan pak camat <CONTENT> Ke sekolah bukan cuma cari ijazah <CLS> Melainkan mencari ilmu yang bermanfaat <EOS>
+<BOS> Buah jambu buah durian <CLS> Lebih enak lagi buah duku <CONTENT> Teruslah tambah wawasan <CLS> Dengan belajar dan baca buku <EOS>
+<BOS> Air putih di atas meja <CLS> Duduk diam tidak berkutik <CONTENT> Di dunia hanya sekejap mata <CLS> Jadilah manusia yang berbudi baik <EOS>
+<BOS> Buat apa punya kain jarik <CLS> Kalau tidak ada selendang <CONTENT> Buat apa berparas cantik <CLS> Kalaulah tidak sembahyang <EOS>
+<BOS> Ke pasar memberi tomat <CLS> Tidak lupa membeli gula <CONTENT> Janganlah engkau tinggalkan salat <CLS> Jika tidak mau mendapat dosa <EOS>
+<BOS> Buah jambu buah semangka <CLS> Disimpan di dalam lubang padi <CONTENT> Pantas tercium bau menyenga <CLS> Rupanya kau belum mandi <EOS>
+<BOS> Jalan-jalan di kota tua <CLS> Tidak lupa membeli susu <CONTENT> Jangan bilang kamu orang kota <CLS> Kalau tidak tahu malu <EOS>
+<BOS> Pergi ke kota mencari peluang <CLS> Tidur di bis sambil mendengkur <CONTENT> Katanya mau banyak uang <CLS> Kerjaan kamu aja hanya tidur <EOS>
+<BOS> Jalan-jalan ke kota Palu <CLS> Pulangnya beli roti <CONTENT> Adik manis jangan malu malu <CLS> Kakaknya kan baik hati <EOS>
+<BOS> Aku makan udang <CLS> Kamu makan ikan <CONTENT> Kenapa kembali datang <CLS> Aku sudah tidak menginginkan <EOS>
+<BOS> Belajar bersama Mamat <CLS> Di rumah Salsa <CONTENT> Rajinlah shalat <CLS> Jika tak ingin mendapat dosa <EOS>
+<BOS> Memotong kayu pakai gergaji <CLS> Mencari kayu tak kunjung ketemu <CONTENT> Wahai manusia ayo mengaji <CLS> Agar damai jiwa batin mu <EOS>
+<BOS> Menulis puisi di papan tulis <CLS> Lagi nulis ketiban jambu <CONTENT> Anak manis jangan menangis <CLS> Nanti merah hidungmu <EOS>
+<BOS> Pergi ke pasar beli bambu <CLS> Tidak lupa beli pandan <CONTENT> Jangan lupa cuci bajumu <CLS> Agar tidak bau badan <EOS>
+<BOS> Pergi ke kota ketemu Anya <CLS> Mbak Anya membawakan jambu <CONTENT> Jangan takut bertanya <CLS> Agar tidak tersesat jalanmu <EOS>
+<BOS> Sebelah kanan warung ucup <CLS> Sebelah kiri warung depan <CONTENT> Ayo kita cari bekal hidup <CLS> Agar di akhirat menjadi aman <EOS>
+<BOS> Arang-arang dibakar memanaskan diri <CLS> Tegak-tegak cocokkan panjang <CONTENT> Cermin muka diri sendiri <CLS> Dan jangan mudah menyalahkan orang <EOS>
+<BOS> Anak kambing diam terkurung <CLS> Tidak makan tidak minum <CONTENT> Cari ilmu jangan murung <CLS> Dan jangan lupa tersenyum <EOS>
+<BOS> Ke pasar membeli buah duku <CLS> Pulang nya membeli semangka <CONTENT> Jangan lupa membaca buku <CLS> Karna buku jendela dunia <EOS>
+<BOS> Pergi ke toko membeli benang <CLS> Benangnya harus kuat <CONTENT> Kalau kamu mau menang <CLS> Harus selalu usaha dan semangat <EOS>
+<BOS> Keluar kapal naik kapal <CLS> Warna kuning warna merah <CONTENT> Jadi anak jangan nakal <CLS> Supaya guru tidak marah <EOS>
+<BOS> Hari minggu minum jamu <CLS> Hari senin minum boba <CONTENT> Teruslah menuntut ilmu <CLS> Untuk bekal di masa tua <EOS>
+<BOS> Duduk manis di bibir pantai <CLS> Lihat gadis tiada dua <CONTENT> Masa muda kebanyakan santai <CLS> Sudah renta sulit tertawa <EOS>
+<BOS> Roni pergi berlibur ke Sukabumi <CLS> Bertemu saudara namanya Erik <CONTENT> Marilah bergabung bersama kami <CLS> Demi pendidikan yang lebih baik <EOS>
+<BOS> Ke laut kita berlayar <CLS> Mencari paus dan ikan hiu <CONTENT> Jadi anak harus rajin belajar <CLS> Demi meraih cita-citamu <EOS>
+<BOS> Hari senin selasa rabu <CLS> Setelah hari senin terus selasa <CONTENT> Jadi anak berbakti pada bapak ibu <CLS> Agar kelak kita bisa masuk surga <EOS>
+<BOS> Menjahit baju punya Sasa <CLS> Menjahitnya dirumah pak Koko <CONTENT> Jadi anak jangan durhaka <CLS> Supaya hidup mendapat ridho <EOS>
+<BOS> Naik haji ke kota Mekah <CLS> Mengelilingi bukit Sofa dan Marwa <CONTENT> Janganlah malas-malas ke sekolah <CLS> Agar tercapai semua cita-cita <EOS>
+<BOS> Bumbu dapur ada terasi <CLS> Juga ada rempah rempah <CONTENT> Jangan banyak berorganisasi <CLS> Jika tidak memegang amanah <EOS>
+<BOS> Pergi ke pasar membeli baju <CLS> Tidak lupa juga membeli gitar <CONTENT> Kalau rajin membaca buku <CLS> Pasti jadi anak yang pintar <EOS>
+<BOS> Pergi ke pasar bersama Ainun <CLS> Pulangnya membeli pisang <CONTENT> Tidak hanya cantik dan anggun <CLS> Tapi juga rajin sembahyang <EOS>
+<BOS> Pergi memancing di kala fajar <CLS> Kancil membuat tali anyaman <CONTENT> Membeli buku yang penuh gambar <CLS> Supaya rapi dan juga nyaman <EOS>
+<BOS> Baca koran mencari kabar <CLS> Bacanya sambil rebahan <CONTENT> Belajarlah menjadi sabar <CLS> Orang sabar disayang Tuhan <EOS>
+<BOS> Pak tani menanam padi <CLS> Menanam di sawah pak Wawan <CONTENT> Hidup harus dinikmati <CLS> Walaupun hidup banyak rintangan <EOS>
+<BOS> Tujuh agustus saya lahir <CLS> Lahirnya di Surabaya <CONTENT> Ini pantun yang terakhir <CLS> Tepuk tangan untuk saya <EOS>
+<BOS> Membeli baju di pasar merah: <CLS> Pulangnya membeli terasi. <CONTENT> Belajarlah jangan pasrah. <CLS> Supaya engkau meraih prestasi <EOS>
+<BOS> Baju merah berenda-renda <CLS> Berwarna merah motif melati <CONTENT> Wahai anak pandai bunda <CLS> Jadilah anak yang berbakti <EOS>
+<BOS> Cari ikan di tepi danau <CLS> Masaknya dengan kuali <CONTENT> Kalau kamu sudah merantau <CLS> Jangan lupa pulang kembali <EOS>
+<BOS> Bebek berenang di tepi kali <CLS> Moyet melompat di ranting pohon <CONTENT> Kalau awak suka mengaji <CLS> Jangan lupa selalu memohon <EOS>
+<BOS> Panen pisang di tepi ladang <CLS> Di tebang dengan hati hati <CONTENT> Kalau anda suka bergadang <CLS> Tunggu waktu menghitung hari <EOS>
+<BOS> Sore-sore membeli pare <CLS> Jangan lupa mampir ke Indomaret <CONTENT> Kalo kamu lagi diare <CLS> Jangan lupa minum diapet <EOS>
+<BOS> Kenangan terakhir adalah baju <CLS> Dia sudah menjadi jenazah <CONTENT> Di sekolah mencari ilmu <CLS> Untuk mendapat sebuah jenazah <EOS>
+<BOS> Sang putri cantik lagi sakit <CLS> Laksamana pergi berperang <CONTENT> Supaya tidak sesal hati <CLS> Janganlah kena perdaya orang <EOS>
+<BOS> Kayu dibakar jadi arang <CLS> Arang dibakar memanaskan diri <CONTENT> Jangan mudah meyalahkan orang <CLS> Cermin dulu lihat sendiri <EOS>
+<BOS> Jalan-jalan ke kota Semarang <CLS> Ada domba makan rumput <CONTENT> Anak-anak begitu senang <CLS> Melihat kakek bergoyang dangdut <EOS>
+<BOS> Pergi kemasjid membawa sajadah <CLS> Tidak lupa membaca Al-Qur'an <CONTENT> Rajinlah engkau beribadah <CLS> Supaya kelak menuju kejayaan <EOS>
+<BOS> Buah semangka lebat berdaun <CLS> Lebih enak buah jambu <CONTENT> Belajarlah dengan tekun <CLS> Supaya halumu menjadi nyatamu <EOS>
+<BOS> Pagi-pagi menyiram bunga <CLS> Menyiram bunga di taman <CONTENT> Jadilah rendah hati pada semua <CLS> Maka nanti akan banyak kawan <EOS>
+<BOS> Pergi ke pasar membeli mukena <CLS> Pulangnya membawa baju <CONTENT> Kukira akan menjadi nyata <CLS> Ternyata cuman menjadi halu <EOS>
+<BOS> Bumbu dapur buah pala <CLS> Kearah barat aku berlari <CONTENT> Kalu akibatnya bisa celaka <CLS> Jangan cepat berbangga diri <EOS>
+<BOS> Pergi kebali membeli papan <CLS> Pulangnya membawa berita <CONTENT> Agar hidup aman dan nyaman <CLS> Buanglah sampah pada tempatnya <EOS>
+<BOS> Makan ikan sama nasi <CLS> Belinya di warung bang amat <CONTENT> Perbanyaklah mengingat mati <CLS> Agar beramal untuk akhirat <EOS>
+<BOS> Panda itu keliatan sangat rukun <CLS> Panda memakan banyak daun bambu <CONTENT> Belajarlah dengan tekun <CLS> Agar kamu mendapatkan banyak ilmu <EOS>
+<BOS> Ke mall beli baju <CLS> Jangan lupa mengajak Iwan <CONTENT> Tetaplah mencari ilmu <CLS> Agar sukses dimasa depan <EOS>
+<BOS> Ambil pistol di rumah riki <CLS> Berlatih di rumah pak Memed <CONTENT> Jangan pernah ngaku laki laki <CLS> Kalau nembak cewek lewat sosmed <EOS>
+<BOS> Ke rumah paman untuk bertamu <CLS> Sambil bertemu mengambil kain <CONTENT> Aku akan selalu ada untukmu <CLS> Walau hatimu untuk orang lain <EOS>
+<BOS> Ke sawah membawa pacul <CLS> Tak lupa membawa sepeda <CONTENT> Mari kita saling merangkul <CLS> Bukan untuk saling menghina <EOS>
+<BOS> Tumis kangkung enak rasanya <CLS> Tidak lupa nasinya tambah <CONTENT> jangan lupa belajarnya <CLS> Dan jangan lupa taat ibadah <EOS>
+<BOS> Kipas selalu berputar <CLS> Hidup selalu ada rintangan <CONTENT> Mari kita selalu sabar <CLS> Meski hidup banyak cobaan <EOS>
+<BOS> Buah apel buah salak <CLS> Belinya di pasar raya <CONTENT> Jika kamu lupa ibu bapak <CLS> Kelak kamu jadi anak durhaka <EOS>
+<BOS> Buah duku buah pepaya <CLS> Tidak lupa membeli sepatu <CONTENT> Jika kamu suka membaca <CLS> Jangan lupa membantu ibu <EOS>
+<BOS> Kain beludru untuk bahan <CLS> Dibuat baju sangat mewahnya <CONTENT> Pantun jenaka tentang kebersihan <CLS> Agar bercanda ada manfaatnya <EOS>
+<BOS> Jangan suka cemberut <CLS> Jangan suka kuatir <CONTENT> Itu suara kentut <CLS> Bukan suara petir <EOS>
+<BOS> Pegunungan jalan berliku <CLS> Udara pegunungan sungguh enak <CONTENT> Senyuman tampak di wajah kakekku <CLS> Melihat cucu sedang berbedak <EOS>
+<BOS> Di Jakarta ada kota tua <CLS> Di pasar ada mangga muda <CONTENT> Jangan lupakan orang tua <CLS> Meski jadi orang berada <EOS>
+<BOS> Matahari terbit di langit <CLS> Mbak Lasmi jualan jamu <CONTENT> Tuntutlah ilmu setinggi langit <CLS> Sampai tercapai cita citamu <EOS>
+<BOS> Di rumah Nana sedang belajar <CLS> Pulangnya membaca suratAdh-Dhuha <CONTENT> Jika ingin rezeki lancar <CLS> Rajinlah sholat dhuha <EOS>
+<BOS> Malam minggu ke matahari <CLS> Ke matahari membeli buku <CONTENT> Jika ingin di hargai <CLS> Maka hargailah waktu <EOS>
+<BOS> Ke pasar beli tomat <CLS> Ke masjid mendengarkan dakwah <CONTENT> Belajar lah dengan giat <CLS> Untuk masa depan yang cerah <EOS>
+<BOS> Ke pasar membeli ketela <CLS> Tidak lupa membeli langsat <CONTENT> Janganlah kamu durhaka terhadap orang tua <CLS> Karena itu adalah perbuatan sesat <EOS>
+<BOS> Pergi ngopi bersama teman <CLS> Pulangnya lewat seberang <CONTENT> Janganlah kamu menebang pohon sembarangan <CLS> Agar tidak terjadi banjir bandang <EOS>
+<BOS> Pergi nongkrong di lampu merah <CLS> Jangan lupa membawa chargeran <CONTENT> Janganlah kamu pantang menyerah <CLS> Untuk meraih sebuah kesuksesan <EOS>
+<BOS> Jalan-jalan ke kebun binatang <CLS> Tidak lupa membawa makanan <CONTENT> Jika kamu ingin merasa tenang <CLS> Perbanyak lah membaca Al-Quran <EOS>
+<BOS> Pergi main bola di rumah Ujang <CLS> Salah satu pemain ada yang marah <CONTENT> Janganlah kamu sering begadang <CLS> Agar tidak telat pergi ke sekolah <EOS>
+<BOS> Beli kerupuk di warung tetangga <CLS> Tak lupa juga membeli roti <CONTENT> Jika ingin dianggap berguna <CLS> Berusahalah berbuat baik <EOS>
+<BOS> Pergi ke masjid membawa mukena <CLS> Tak lupa juga mengambil wudhu <CONTENT> Jika engkau wanita muslimah <CLS> Maka laksanakanlah kewajibanmu <EOS>
+<BOS> Ngerujak pakai buah mangga <CLS> Disandingi juga dengan buah manggis <CONTENT> Eh kamu yang di sana <CLS> Jangan terus menerus menangis <EOS>
+<BOS> Jalan jalan ke Surabaya <CLS> Di perjalanan ketemu badut <CONTENT> Niat ketemu keluarga <CLS> Eh malah jadi ribut <EOS>
+<BOS> Mencari ilmu di dalam ruangan <CLS> Ruangan tertutup udara sejuk <CONTENT> Jangan lupakan semua kenangan <CLS> Agar kita semua tidak merajuk <EOS>
+<BOS> Pulang sekolah langsung kerumah <CLS> Di perjalanan turun hujan <CONTENT> Ketika bersama sangat ramah <CLS> Bersama orang lain membicarakan <EOS>
+<BOS> Jika adek hendak makan <CLS> Cucilah tangan agar tiada kuman <CONTENT> Rasa duka yang engkau rasakan <CLS> Pasti berganti dengan senyuman <EOS>
+<BOS> Beli kedondong di buat rujak <CLS> Biar mantap di tambah sambal <CONTENT> Tidur terlentang tidak nyenyak <CLS> Tidur tengkurap ada yang mengganjal <EOS>
+<BOS> Ke Makasar membawa nanas <CLS> Di perjalanan terhembus angin <CONTENT> Hati boleh panas <CLS> Tapi otak harus tetap dingin <EOS>
+<BOS> Mas doi pergi ke Pati <CLS> Pulangnya membawa tinta <CONTENT> Jika kamu tidak ingin sakit hati <CLS> Maka jangan jatuh cinta <EOS>
+<BOS> Ke gunung membawa donat <CLS> Jalannya dengan si raka <CONTENT> Jangan pernah lupakan salat <CLS> Jika tidak mau masuk neraka <EOS>
+<BOS> Kepasar membeli pepaya <CLS> Tidak lupa membeli sayur <CONTENT> Jika kamu ingin kaya <CLS> Maka hendaklah kamu bersyukur <EOS>
+<BOS> Jalan-jalan ke jeju <CLS> Pulangnya membawa roti <CONTENT> Mas Jimin punyaku <CLS> Jadi jangan merasa iri <EOS>
+<BOS> Ke pasar membeli gamis <CLS> Pulangnya lewat Surabaya <CONTENT> Senyum kamu manis <CLS> Membuat aku terpesona <EOS>
+<BOS> Indonesia banyak buah <CLS> Jepang banyak onigiri <CONTENT> Setiap manusia merasa lelah <CLS> Jadi jangan merasa sendiri <EOS>
+<BOS> Yogyakarta Kota Istimewa <CLS> Belanja banyak lalu di ikat <CONTENT> Kamu jangan banyak ketawa <CLS> Nanti aku jadi terpikat <EOS>
+<BOS> Pergi ke pasar membeli udang <CLS> Perginya sama si pacar <CONTENT> Jika tidak ingin jadi pecundang <CLS> Harus rajin semangat belajar <EOS>
+<BOS> Beli buah dipasar baru <CLS> Jangan lupa beli pepaya <CONTENT> Jika mantan jalan sama yang baru <CLS> Kita ikhlasin aja <EOS>
+<BOS> Dari paris minyak wangi <CLS> Cicipi buah ambil satu <CONTENT> Kasihan banget nasibku ini <CLS> Pacar pergi mantan ke penghulu <EOS>
+<BOS> Ke pasar wage beli ikan <CLS> Ikannya didapur mama <CONTENT> Kukira diperjuangkan <CLS> Ternyata dighosting bersama <EOS>
+<BOS> Jalan-jalan ke Karawang <CLS> Sambil melihat bintang di awan <CONTENT> Sukanya ngomongin orang <CLS> Iri bilang karyawan <EOS>
+<BOS> Beli nasi sama tahu <CLS> Minumnya diangkringan <CONTENT> Kalau kamu cinta sama aku <CLS> Jangan lupa diperjuangkan <EOS>
+<BOS> Naik odong odong ketemu si Taufiq <CLS> Odong odong lambat jalannya <CONTENT> Kalau jadi orang jangan munafik <CLS> Lihat saya dong cantik apa adanya <EOS>
+<BOS> Buah kelengkeng bulat rupanya <CLS> Melihatnya menjadi semangat <CONTENT> Buanglah sampah pada tempatnya <CLS> Agar semua bersih dan sehat <EOS>
+<BOS> Pergi ke toko membeli buku <CLS> Pulangnya mampir beli roti <CONTENT> Luangkanlah sholat 5 waktu <CLS> Walau sibuk berhari hari <EOS>
+<BOS> Ke pasar beli salak <CLS> Tidak lupa beli cokelat <CONTENT> Kita harus punya akhlak <CLS> Karena itu penting di akhirat <EOS>
+<BOS> Jalan jalan ke kota Tangerang <CLS> Tak lupa membeli baju <CONTENT> Jika ingin hidupmu tenang <CLS> Sholatlah lima waktu <EOS>
+<BOS> Pergi ke pasar membeli udang <CLS> Tak lupa membeli sayur <CONTENT> Jika ujian terus menerus datang <CLS> Sikapilah dengan bersyukur <EOS>
+<BOS> Makan kedondong di pinggir sungai <CLS> Dengan merasakan sejuknya angin <CONTENT> Jangan sering berandai-andai <CLS> Kalau jatuh sakit batin <EOS>
+<BOS> Menonton bola bersama keluarga <CLS> Jangan lupa siapkan makanan <CONTENT> Raihlah cita-cita setinggi angkasa <CLS> Agar tidak menyesal di kemudian <EOS>
+<BOS> Pergi ke sawah menanam padi <CLS> Sama bapak naik motor baru <CONTENT> Jika ingin jadi anak yang berbakti <CLS> Bahagiakanlah kedua orangtuamu. <EOS>
+<BOS> Pergi ke Bandung bersama Vega <CLS> Pulangnya membeli kawat <CONTENT> Jangan lupa berolahraga <CLS> Agar tubuh tetap sehat <EOS>
+<BOS> Ke pasar baru memakkai kerudung hitam <CLS> Pulangnya memakai kerudung putih <CONTENT> Daripada kita disini diam <CLS> Mending kita bersih bersih <EOS>
+<BOS> Jalan-jalan ke Magelang <CLS> Pulangnya naik motor <CONTENT> Lihatlah rumah yang disebrang <CLS> Bukankah sangat terlihat kotor <EOS>
+<BOS> Hari minggu pergi ke sungai <CLS> Ke sungai mencari ikan <CONTENT> Sholat jangan pernah di lalai <CLS> Karena sholat itu kewajiban <EOS>
+<BOS> Beli jam baru di Pasar Minggu <CLS> Ke Pasar Senin bawa bawang merah <CONTENT> Orang serius jangan di ganggu <CLS> Nanti kamu bisa kena marah <EOS>
+<BOS> Krupuk dimakan bersama nasi <CLS> Nasinya hangat enak rasanya <CONTENT> Gunakan masker lakukan vaksinasi <CLS> Untuk menghalau virus corona <EOS>
+<BOS> Adik mandi menyalakan keran <CLS> Ayah pergi naik kereta <CONTENT> Marilah-mari berjalan-jalan <CLS> Otak segar gembira ria <EOS>
+<BOS> Pergi kepasar uang digenggam <CLS> Untuk membeli berbagai ikan <CONTENT> Budaya indonesia berbagai ragam <CLS> Patutnya kita melestarikan <EOS>
+<BOS> Kotak hadiah ibu berikan <CLS> Aku tak tau apa isinya <CONTENT> Jaga ucapan jaga ketikan <CLS> Kita tak tau apa imbasnya <EOS>
+<BOS> Panas di bukit membuat gerah <CLS> Membuat lagu bunga yang mekar <CONTENT> Meskipun sulit dan tidak mudah <CLS> Berusahalah dalam belajar <EOS>
+<BOS> Pergi mendaki kegunungu tinggi <CLS> Kaki terkilir tak apa-apa <CONTENT> Amatlah rugi diriku ini <CLS> Bila mengubur angan dan cita <EOS>
+<BOS> Buah naga buah semangka <CLS> Enak dimakan kala petang <CONTENT> Tak aku duga tak aku sangka <CLS> Bulan ramadhan segera datang <EOS>
+<BOS> Bangun tidur kubuka jendela <CLS> Melihat merpati hinggap di dahan <CONTENT> Biarlah aku menderita <CLS> Asal jangan engkau tinggalkan <EOS>
+<BOS> Sunyi malam semakin mencekam <CLS> Suara jangkrik terngiang-ngiang <CONTENT> Tiada guna memikirkan siang malam <CLS> Jika bukan diriku yang engkau sayang <EOS>
+<BOS> Meninggalkan sholat dosa hukumnya <CLS> Meninggalkan sahabat itu pengkhianat <CONTENT> Tiada guna kamu menyesalinya <CLS> Jika sudah terlanjur engkau perbuat <EOS>
+<BOS> Pertigaan belok ke kanan <CLS> Lurus sedikit belok ke kiri <CONTENT> Jika tidak mampu bersaingan <CLS> Maka jangan merasa iri <EOS>
+<BOS> Pergi ke Jepang melihat Sakura <CLS> Jangan lupa membeli takoyaki <CONTENT> Bagaimana saya akan bahagia <CLS> Jika selalu engkau sakiti <EOS>
+<BOS> Jalan-jalan ke Surabaya <CLS> Tidak lupa membeli ketupat <CONTENT> Jangan hanya memikirkan dunia <CLS> Tapi juga pikirkan hidup diakhirat <EOS>
+<BOS> Pergi ke Medan membeli jamu <CLS> Tidak sengaja bertemu Hilda <CONTENT> Sayangilah kedua orangtuamu <CLS> Selagi mereka masih ada <EOS>
+<BOS> Apel di meja warnanya merah <CLS> Eh ternyata apelnya ada dua <CONTENT> Kamu jangan suka marah-marah <CLS> Nanti kamu bisa cepat tua <EOS>
+<BOS> Belanjalah sesuai kebutuhan <CLS> Tidak lupa membeli buah manggis <CONTENT> Kalau baper jangan keterlaluan <CLS> Nanti dighosting kamu nangis <EOS>
+<BOS> Bu Shinta melukis awan <CLS> Awannya penuh di angkasa <CONTENT> Janganlah kita berpacaran <CLS> Karna itu perbuatan dosa <EOS>
+<BOS> Jalan-jalan ke Yogyakarta <CLS> Ke Malioboro membeli baju <CONTENT> Jangan terlalu berharap pada manusia <CLS> Tidak semua manusia membalas perasaanmu <EOS>
+<BOS> Si Kancil itu suka mencuri <CLS> Kemudian Pak Tani mengejar dia <CONTENT> Janganlah kamu menyombongkan diri <CLS> Karena semua hanya titipan-Nya <EOS>
+<BOS> Pagi-pagi pergi ke sawah <CLS> Tak lupa sarapan dahulu <CONTENT> Jangan suka bermegah-megah <CLS> Karena dunia tak selalu berpihak padamu <EOS>
+<BOS> Ke pasar bersama Ratih <CLS> Membeli ikan untuk lauknya <CONTENT> Bakat itu perlu dilatih <CLS> Agar berguna untuk kedepannya <EOS>
+<BOS> Ke Semarang bersama kawan <CLS> Membawa dompet lalu diapit <CONTENT> Jangan memberi harapan <CLS> Jika akhirnya pergi tanpa pamit <EOS>
+<BOS> Makan burger dengan sayur <CLS> Pulangnya mampir membeli papan <CONTENT> Jangan lupa hidup bersyukur <CLS> Karena semua orang punya kelebihan <EOS>
+<BOS> Belajar puisi bersama bunda <CLS> Tak lupa juga belajar bernyanyi <CONTENT> Jangan lupa minta restu orang tua <CLS> Agar doanya selalu menyertai <EOS>
+<BOS> Masak angsa di atas kuali <CLS> Makan buah diatas tangga <CONTENT> Jika ingin dihormati <CLS> Berbuat baik pada sesama <EOS>
+<BOS> Pergi berlayar ke tengah laut <CLS> Saat pulang membawa ikan <CONTENT> Agar sedih tidak berlarut <CLS> Mencobalah untuk melupakan <EOS>
+<BOS> Burung bulunya merah <CLS> Minum kopi di pagi hari <CONTENT> Jika kamu memang salah <CLS> Hendaklah mengakui <EOS>
+<BOS> Anak anak pergi ke kali <CLS> Menahan lelah menghilang keringat <CONTENT> Orang tua wajib dihormati <CLS> Agar selamat dunia akhirat <EOS>
+<BOS> Baju merah baju biru <CLS> Stroberi warnanya merah <CONTENT> Jika ingin sehat selalu <CLS> Rajinlah berolahraga <EOS>
+<BOS> Pergi ke taman malam-malam <CLS> Perginya bersama lala <CONTENT> Jatuh cinta jangan terlalu dalam <CLS> Takut nanti bisa gila <EOS>
+<BOS> Ke toko buah membeli alpukat <CLS> Perginya memakai baju merah <CONTENT> Kalau mau senang di akhirat <CLS> Maka harus rajin ibadah <EOS>
+<BOS> Mencari lebah di hutan <CLS> Mencarinya sampai disengat <CONTENT> Kita boleh ingat mantan <CLS> Tapi jangan hilang semangat <EOS>
+<BOS> Siang siang minum es kelapa <CLS> Sambil duduk di depan rumah wati <CONTENT> Aku sungguh bahagia <CLS> Jumpa dia kasih pujaan hati <EOS>
+<BOS> Buang sampah <CLS> Buang mantan <CONTENT> Begitu banyak kenangan terindah <CLS> Seakan sulit tuk dilupakan <EOS>
+<BOS> Istri cantik yang bertaqwa <CLS> Rumah luas rezeki berlimpah <CONTENT> Kalau kamu tidak ingin kecewa <CLS> Jangan percaya pada orang berlimpah-limpah <EOS>
+<BOS> Makan buah buah nanas <CLS> Sambil nonton drama dari Kenya <CONTENT> Siang hari suasananya panas <CLS> Panas melihat engkau dengannya <EOS>
+<BOS> Pergi ke pasar beli kopi <CLS> Jangan lupa beli bawang <CONTENT> Biarkan aku yg tersakiti <CLS> Asal kamu merasa senang <EOS>
+<BOS> Jalan-jalan ke Tawangmangu <CLS> Jangan lupa beli kopi <CONTENT> Ayo kita menuntut ilmu <CLS> Agar kelak bisa meraih mimpi <EOS>
+<BOS> Pergi ke pasar beli nangka <CLS> Habis itu beli buku <CONTENT> Aku sedang tidak bercanda <CLS> Mau ngak jadi tunanganku <EOS>
+<BOS> Indonesia lawan Thailand <CLS> Mainnya di Singapura <CONTENT> Parcuma nonton bersama teman teman <CLS> Kalau cuman juara dua <EOS>
+<BOS> Ke pantai pergi berlayar <CLS> Jangan lupa membawa topi <CONTENT> Kalau kamu pengen pintar <CLS> Jangan lupa berdoa kepada ilahi <EOS>
+<BOS> Minum kopi dicampur gula <CLS> Minumnya bersama sahabat <CONTENT> Ayo kita berolahraga <CLS> Agar tubuh terasa sehat <EOS>
+<BOS> Pergi ke pasar membeli jamu <CLS> Pulangnya jatuh ke parit <CONTENT> Mari kita menuntut ilmu <CLS> Tuntutlah ilmu setinggi langit <EOS>
+<BOS> Satu dua tiga empat <CLS> Setelah empat itu lima <CONTENT> Hey kawan jangan malas sholat <CLS> Karena sholat tiang agama <EOS>
+<BOS> Pergi haji perginya ke Makkah <CLS> Perginya bersama pak Tata <CONTENT> Janganlah kita enggan bersedekah <CLS> Karena sedekah tidak mengurangi harta <EOS>
+<BOS> Buah pepaya di atas genteng <CLS> Robohnya di atas kayu <CONTENT> Hey kamu yang ganteng <CLS> Kapan kamu nikahin aku <EOS>
+<BOS> Pohon kapuk pohon randu <CLS> Pohon berduri berbuah salak <CONTENT> Jika kita mempunyai ilmu <CLS> Juga harus mempunyai akhlak <EOS>
+<BOS> Azan maghrib berkumandang <CLS> Langit kuning cahayanya <CONTENT> Sudah lama dia kupandang <CLS> Ternyata baik tingkah lakunya <EOS>
+<BOS> Beli durian langsung dibelah <CLS> Belinya bersama kamu <CONTENT> Jangan sampai kita lelah <CLS> Lelah dalam menuntut ilmu <EOS>
+<BOS> Ke Purwodadi ke pasar induk <CLS> Untuk membeli buah kiwi dan semangka <CONTENT> Jadi anak haruslah bertunduk <CLS> Dan menghormati ayah dan bunda <EOS>
+<BOS> Beli baju beli permata <CLS> Sungguh menarik di pakai raja <CONTENT> Apa gunanya bermain cinta <CLS> Lebih baik belajar saja <EOS>
+<BOS> Pulau Jawa pulau Kalimantan <CLS> Pulau Bali pulau Sumbawa <CONTENT> Sholat lima waktu ayo tegakkan <CLS> Tiang agama nan utama <EOS>
+<BOS> Buah salak enak rasanya <CLS> Serat tanda pohon berduri <CONTENT> Orang galak seram rupanya <CLS> Tampang saja bukan dari hati <EOS>
+<BOS> Pergi ke pasar membeli tahu <CLS> Tidak lupa membeli terasi <CONTENT> Tuntutlah ilmu sedari dulu <CLS> Agar sukses di kemudian hari <EOS>
+<BOS> Jalan-jalan ke Tawangmangu <CLS> Jangan lupa beli roti <CONTENT> Taatilah gurumu <CLS> Agar berkah selalu memberkati <EOS>
+<BOS> Barang-barang antik <CLS> Luar dalam masih mulus <CONTENT> Kalau ingin cantik <CLS> Punyailah hati yang tulus <EOS>
+<BOS> Hewan belalang bergoyang-goyang <CLS> Angin bertiup ke sana kemari <CONTENT> Mari kita tunaikan sembahyang <CLS> Agar selamat di akhirat nanti <EOS>
+<BOS> Makan buah nangka <CLS> Di depan televisi <CONTENT> Ku kira nyata <CLS> Tetnyata hanya mimpi <EOS>
+<BOS> Dara datang membawa pensil <CLS> Kemudian menulisnya di atas kaleng <CONTENT> Ku tertawa melihat anak kecil <CLS> Yang mengenakan baju rombeng <EOS>
+<BOS> Bunga mawar mekar pada waktunya <CLS> Bunga violet berwarna ungu <CONTENT> Hai nona cantik yang bagus rupa <CLS> Bolehkah aku berkenalan denganmu <EOS>
+<BOS> Jalan-jalan ke negara Korea <CLS> Enak suasana di kala malam <CONTENT> Aduhai; gantengnya dirimu opa <CLS> Memakai kemeja berwarna hitam <EOS>
+<BOS> Pergi berlari menuju taman <CLS> Sambil memakai banyak gelang <CONTENT> Ku tertawa melihat dia berjalan <CLS> Sambil memakai celana belang-belang <EOS>
+<BOS> Sungai terpanjang yaitu sungai Nil <CLS> Bangunan yang terkenal yaitu piramida <CONTENT> Kalau kamu ingin berhasil <CLS> Berusahalah selagi muda <EOS>
+<BOS> Pergi ke pasar membeli kacang polong <CLS> Perginya bersama Mirasih <CONTENT> Kalau kamu sudah ditolong <CLS> Jangan lupa berterima kasih <EOS>
+<BOS> Pergi ke sungai bersama Atik <CLS> Di pinggir sungai melihat buaya <CONTENT> Hati ini terasa sakit <CLS> Melihat dia bersamanya <EOS>
+<BOS> Membeli buah di Mang Dadang <CLS> Membeli timun di Mang Eman <CONTENT> Rajin-rajinlah berbincang <CLS> Maka akan banyak teman <EOS>
+<BOS> Membeli ikan di rumah Pak Fajar <CLS> Membeli minum banyak es <CONTENT> Jika kita rajin belajar <CLS> Maka esok akan menjadi sukses <EOS>
+<BOS> Si Udin pandai berlayar <CLS> Melihat burung terbang di langit <CONTENT> Janganlah lupa belajar <CLS> Kejarlah ilmu setinggi langit <EOS>
+<BOS> Sayur asem rasanya hambar <CLS> Lauknya tempe dan ikan teri <CONTENT> Jika kalau ingin menjadi orang besar <CLS> Jangan pernah berbesar hati <EOS>
+<BOS> Latihan PMR membuat tandu <CLS> Tandu dibuat dengan kokohnya <CONTENT> Bila jarak ciptakan rindu <CLS> Biarkan cinta merekatkannya <EOS>
+<BOS> Siang-siang sudah bertamu <CLS> Tamu di jamu minuman segar <CONTENT> Rajin-rajin kau menuntut ilmu <CLS> Agar jadi orang terpelajar <EOS>
+<BOS> Sepanjang jalan banyak payung berwarna <CLS> Pinggirannya banyak air bergenangan <CONTENT> Setiap temu kau hadirkan tawa <CLS> Lalu mengapa kini hanya sekedar kenangan <EOS>
+<BOS> Sore hari ke pantai Marina <CLS> Pulangnya mampir ke kebun sawo <CONTENT> Walaupun diri sedih galau merana <CLS> Biarkan hati ini happy kiyowo <EOS>
+<BOS> Hari minggu pergi ke pasar <CLS> Kepasar membeli tomat <CONTENT> Jika kamu ingin pintar <CLS> Maka belajarlah dengan giat <EOS>
+<BOS> Ke Purwodadi membeli sepeda <CLS> Pulangnya singgah membeli alpukat <CONTENT> Jika kamu ingin bahagia <CLS> Maka rajinlah menunaikan ibadah sholat <EOS>
+<BOS> Jalan-jalan ke Jepara; <CLS> Pulangnya membawa oleh-oleh <CONTENT> Kita harus senantiasa berdoa'a <CLS> Supaya bisa menjadi anak sholeh <EOS>
+<BOS> Ke pasar membeli buah mangga <CLS> Dan jangan lupa membeli baju <CONTENT> Jika kamu ingin masuk surga <CLS> Maka sholatlah lima waktu <EOS>
+<BOS> Ke Jepara hari minggu <CLS> Pulangnya hari selasa <CONTENT> Mari kita saling membantu <CLS> Agar kita saling bahagia <EOS>
+<BOS> Jalan-jalan sama si Umar <CLS> Jangan lupa membeli rambutan <CONTENT> Jangan pernah sesumbar <CLS> Kalo tidak mau sesat di masa depan <EOS>
+<BOS> Makan roti sama si Heri <CLS> Sambil minum es kelapa <CONTENT> Belajarlah setiap hari <CLS> Agar bisa meraih cita-cita <EOS>
+<BOS> Ke Grobogan beli papan <CLS> Tidak lupa beli kursi <CONTENT> Kalau ingin hidup mapan <CLS> Bekerja keraslah sejak dini <EOS>
+<BOS> Jepara kota ukir <CLS> Jogja kota sejarah <CONTENT> Jika kamu berzikir <CLS> Hidup mu akan terarah <EOS>
+<BOS> Burung lovebird burung kenari <CLS> Burung kenari berwarna putih <CONTENT> Kalau ingin pandai menari <CLS> Maka ranjinlah untuk berlatih <EOS>
+<BOS> Pergi keluar bersama Maria <CLS> Di tengah jalan menginjak batu <CONTENT> Kalau ingin hidup bahagia <CLS> Jangan tinggalkan salat lima waktu <EOS>
+<BOS> Ke pasar beli buah sirkaya <CLS> Siangnya makan buah kedondong <CONTENT> Jika kamu ingin dipercaya <CLS> Maka jangan suka berbohong <EOS>
+<BOS> Siang-siang membeli es <CLS> Beli es bersama Pranaja <CONTENT> Jika kamu ingin sukses <CLS> Maka rajinlah bekerja <EOS>
+<BOS> Bangun pagi menyiram bunga <CLS> Bunga pagar dimakan lembu <CONTENT> Banyak-banyaklah membaca <CLS> Agar otak penuh ilmu <EOS>
+<BOS> Minum teh dicampur madu <CLS> Sambil dengar kicauan kenari <CONTENT> Ingin daku bermain salju <CLS> Namun harus ke luar negeri <EOS>
+<BOS> Pagi-pagi makan bakwan <CLS> Bakwan dimakan dengan sup kerang <CONTENT> Hai gadis cantik nan menawan <CLS> Maukah engkau daku pinang? <EOS>
+<BOS> Jalan-jalan ke kota Semarang <CLS> Berdoa dulu sebelum berangkat <CONTENT> Jangan pernah lupa sembahyang <CLS> Agar selamat dunia akhirat <EOS>
+<BOS> Bahasa Inggris pisang adalah banana <CLS> Mari beli di warung sana <CONTENT> Sudah pandai akhlak mulia <CLS> Itulah idaman orang tua <EOS>
+<BOS> Pergi ke pasar beli ceri <CLS> Makannya satu biji <CONTENT> Bersihkan diri sucikan hati <CLS> Jauhkan sifat iri dan dengki <EOS>
+<BOS> Di malam hari ada bulan <CLS> Senang sekali melihatnya <CONTENT> Anak baik anak teladan <CLS> Jadi kebanggaan keluarga <EOS>
+<BOS> Pergi ke pasar beli bunga <CLS> Jalannya melawan arus <CONTENT> Betapa hati sangat gembira <CLS> Nilai ujian dapat seratus <EOS>
+<BOS> Pagi hari sarapan nasi <CLS> Makan ikan ada duri <CONTENT> Senyummu indah menarik hati <CLS> Sampai terbawa ke alam mimpi <EOS>
+<BOS> Ke pasar membeli teokbokki <CLS> Pulangnya membawa sayur <CONTENT> Mas Kenan gak bisa dimiliki <CLS> Apakah aku harus mundur? <EOS>
+<BOS> Jalan-jalan ke Blora <CLS> Pulangnya membawa duku <CONTENT> Ada orang yang berjasa <CLS> Dia adalah seorang ibu <EOS>
+<BOS> Jalan-jalan ke taman <CLS> Lampu tamannya lagi redup <CONTENT> Hai kamu yang berstatus teman <CLS> Kapan mau jadi teman hidup? <EOS>
+<BOS> Beli buku di kantin <CLS> Perginya sama danis <CONTENT> Selamat hari senin <CLS> Buat kamu yang manis <EOS>
+<BOS> Sekarang hari jumat <CLS> Besoknya hari sabtu <CONTENT> Kalau kamu umat Nabi Muhammad <CLS> Jangan lupa shalat lima waktu <EOS>
+<BOS> Ke pasar beli buah <CLS> Pulangnya mampir ke rumah mama <CONTENT> Tahun sudah berubah <CLS> Tapi diri ini masih suka orang yang sama <EOS>
+<BOS> Pergi ke Surabaya <CLS> Bersama papa <CONTENT> Percuma kaya <CLS> Tapi lupa bersedekah <EOS>
+<BOS> Ke pasar pasarnya tutup <CLS> Akhirnya ke toko saja <CONTENT> Kirain jadi baik aja cukup <CLS> Ternyata harus good looking juga <EOS>
+<BOS> Ke sekolah berangkat pagi <CLS> Di jalan ketemu orang sinting <CONTENT> Kalau emang mau benar-benar pergi <CLS> Setidaknya kami jangan ghosting <EOS>
+<BOS> Panda itu suka makan bambu <CLS> Kelelawar itu suka makan buah <CONTENT> Jangan lupa belajar selalu <CLS> Akan mendapat hasil yang wah <EOS>
+<BOS> Siang siang minum es kelapa <CLS> Sambil duduk di depan rumah Wati <CONTENT> Aku sungguh bahagia <CLS> Jumpa dia kasih pujaan hati <EOS>
+<BOS> Buang sampah <CLS> Buang mantan <CONTENT> Begitu banyak kenangan terindah <CLS> Seakan sulit tuk dilupakan <EOS>
+<BOS> Istri cantik yang bertaqwa <CLS> Rumah luas rezeki berlimpah <CONTENT> Kalau kamu tidak ingin kecewa <CLS> Jangan percaya pada orang berlimpah-limpah <EOS>
+<BOS> Makan buah buah nanas <CLS> Sambil nonton drama dari Kenya <CONTENT> Siang hari suasananya panas <CLS> Panas melihat engkau dengannya <EOS>
+<BOS> Makan seblak di Seblak Juragan <CLS> Rasanya enak dan isinya banyak <CONTENT> Tak hanya berangan-angan <CLS> Tapi juga harus bertindak <EOS>
+<BOS> Jalan-jalan ke taman <CLS> Jangan lupa ikut bergabung <CONTENT> Ayo para teman-teman <CLS> Jangan lupa untuk menabung <EOS>
+<BOS> Makan roti minum jus mangga <CLS> Jangan lupa cari tempat duduk <CONTENT> Sakit hati boleh saja <CLS> Asal jangan sampai terpuruk <EOS>
+<BOS> Beli buku untuk digunakan <CLS> Digunakan untuk belajar <CONTENT> Marilah kawan-kawan <CLS> Hidup ke jalan yang benar <EOS>
+<BOS> Naik delman ke kota Batu <CLS> Jangan lupa untuk beli oleh-oleh <CONTENT> Jangan sampe menyiakan waktu <CLS> Karena waktu sulit diperoleh <EOS>
+<BOS> Buah apel dari taman <CLS> Jangan lupa untuk membeli manggis <CONTENT> Boleh saja mengenang mantan <CLS> Tapi jangan sampai menangis <EOS>
+<BOS> Pergi sekolah untuk masa depan <CLS> Sampai di sekolah langsung ke kelas <CONTENT> Masih kecil tidak usah pacaran <CLS> Agar dewasa menjadi orang yang berkelas <EOS>
+<BOS> Beli makan di tempat angkringan <CLS> Tidak lupa mampir ke pasar <CONTENT> Boleh saja bergandeng tangan <CLS> Asal bersama dengan pacar <EOS>
+<BOS> Pagi-pagi membeli kopi <CLS> Tidak lupa membeli bakwan <CONTENT> Orang tua wajib dihormati <CLS> Jadi jangan suka melawan <EOS>
+<BOS> Buah kudu di pasar minggu <CLS> Buah nangka di pasang kencana <CONTENT> Kawan-kawan yang suka merindu <CLS> Tolong jangan sampai merana <EOS>
+<BOS> Buka telpon buat belajar <CLS> Tidak lupa mengerjakan tugas bersama <CONTENT> Kesalahan dijadikan pembelajar <CLS> Agar hidup tidak sia-sia <EOS>
+<BOS> Apel malang rasanya manis <CLS> Buah kedondong rasanya masam <CONTENT> Hidup jangan sampai bengis <CLS> Agar tidak kena hukum alam <EOS>
+<BOS> Naik perahu bersama pacar <CLS> Duduk di depan bahagia hati <CONTENT> Mari kawan terus belajar <CLS> Sukses masa depan nanti <EOS>
+<BOS> Semarang kota industri <CLS> Blora kota mustika <CONTENT> Mari terus mengukir prestasi <CLS> Agar orang tua menjadi bangga <EOS>
+<BOS> Daratan penuh bukit berduri <CLS> Lautan penuh karang <CONTENT> Jangan menunda kebaikan hati <CLS> Agar hidup jadi senang <EOS>
+<BOS> Nasi putih nasi kuning <CLS> Dimakan bersama mama tercinta <CONTENT> Berbagi kesenangan kalau bisa sering <CLS> Kebaikan bertabur pahala <EOS>
+<BOS> Menepi di laut raja ampat <CLS> Bersama teman namanya Feri <CONTENT> Jika ingin hidup manfaat <CLS> Hargai waktu setiap hari <EOS>
+<BOS> Beli pedang di Jepang <CLS> Beli Senapan di kota Bali <CONTENT> Boleh saja sering berdendang <CLS> Asal jangan saling menyakiti <EOS>
+<BOS> Tanjung Mas di pulau jawa <CLS> Tanah Lot di pulau Bali <CONTENT> Ayo kawan berbaik sangka <CLS> Agar hidup selalu berarti <EOS>
+<BOS> Sana mendung di sini bingung <CLS> Mendengar Doni jatuh ke parit <CONTENT> Jangan hanya mau di sanjung <CLS> Berbagi kebaikan jangan pelit <EOS>
+<BOS> Madrsah tempat belajar <CLS> MAN Grobogan tempat terindah <CONTENT> Hidup jangan selalu berkelakar <CLS> Agar hidup mendapah rahmah <EOS>
+<BOS> Parang Tritis pantai selatan <CLS> Pantai Bandengan di Jepara <CONTENT> Mari kawan bergadengan <CLS> Belajar dan selalu berkarya <EOS>
+<BOS> Jakarta Ibu kota negara <CLS> Surakarta kota serabi <CONTENT> Berbuat baik itu utama <CLS> Jalan pahala selalu menanti <EOS>
+<BOS> Membaca quran setiap hari <CLS> Memaknai setiap saat <CONTENT> Terus berkarya setiap hari <CLS> Agar hidup jadi manfaat <EOS>
+<BOS> Surabaya kota Pahlawan <CLS> Pekalongan kota santri <CONTENT> Hidup sekali harus beriman <CLS> Untuk bekal di akhirat nanti <EOS>
+<BOS> Pedih hati tengok orang <CLS> Jatuh motor rusak parah <CONTENT> Apa guna hidup sekarang <CLS> Jika lupa ukiran sejarah <EOS>
+<BOS> Pandang laut temu pari <CLS> Bawa pulang oleh malik <CONTENT> Henti ubah dirimu sendiri <CLS> Bangun pola pikir lebih baik <EOS>
+<BOS> Kapal berlayar di laut jawa <CLS> Nahkoda lewat acungkan jempol <CONTENT> Adik menangis lalu tertawa <CLS> Lihat kakak masih mengompol <EOS>
+<BOS> Makan nasi pakai acar <CLS> Duduk bersila di kondangan <CONTENT> Andai kita semangat belajar <CLS> Pasti cerdas bagai ilmuan <EOS>
+<BOS> Madrasah tempat pencari ilmu <CLS> Ilmu sains dan agama selalu di damba <CONTENT> Mari asah tekad mencari yang bermutu <CLS> Untuk kehidupan dan meraih cita <EOS>
+<BOS> Joging enaknya di pagi hari <CLS> Dengan semangat empat lima <CONTENT> Jadilah orang yang selalu berbudi <CLS> Agar menjadi orang yang berwibawa <EOS>
+<BOS> Penuh berkah di hari Jumat <CLS> Berbagi sedekah tanpa tapi <CONTENT> Carilah bekal untuk di akhirat <CLS> Agar tidak sesat di kemudian nanti <EOS>
+<BOS> Hari Sabtu kami pergi <CLS> Tak lupa membawa mangga <CONTENT> Jangan lupa mengaji <CLS> Agar kita masuk surga <EOS>
+<BOS> Sungguh indah nisan dipahat <CLS> Burung burung terlihat diatas dahan <CONTENT> Kalau hidup hendak selamat <CLS> Taatilah selalu perintah tuhan <EOS>
+<BOS> Buah durian buah jambu <CLS> Tidak kalah enak dengan buah duku <CONTENT> Teruslah tambah wawasanmu <CLS> Dengan belajar dan mencari ilmu <EOS>
+<BOS> Dari dahan sampai akar <CLS> Pohon kelapa jadi rebutan <CONTENT> Bila tak tahan lelahnya belajar <CLS> Kan menanggung perihnya kebodohan <EOS>
+<BOS> Pergi ke mall bareng Bayu <CLS> Tidak lupa ngajak Mbak Mumun <CONTENT> Rajin rajinlah kalian membaca buku <CLS> Agar tua nanti tak mudah pikun <EOS>
+<BOS> Ke perpustakaan membaca buku <CLS> Bersama teman duduk berdua <CONTENT> Semangatlah mencari ilmu <CLS> Meski harus ke negeri Cina <EOS>
+<BOS> Pergi ke warung membeli spaghetti <CLS> Roti dimakan bersama teman <CONTENT> Jika kita hanya berdiam diri <CLS> Tidak akan sukses dimasa depan <EOS>
+<BOS> Jalan jalan ke kota Malang <CLS> Jangan lupa membeli buku <CONTENT> Jika kamu beneran sayang <CLS> Janganlah menyakiti hatiku <EOS>
+<BOS> Ke warung beli bihun <CLS> Pulangnya ketemu bunda <CONTENT> Hei Ulya yang ulang tahun <CLS> Semoga sehat selalu bahagia <EOS>
+<BOS> Pergi ke pasar beli mangga <CLS> Pas nyampe malah beli sepatu <CONTENT> Pacarannya sih udah lama <CLS> Tapi sayang belum dapet restu <EOS>
+<BOS> Kembali merantau ke kota Palu <CLS> Setelah sekian lama di Balikpapan <CONTENT> Ambillah pelajaran di masa lalu <CLS> Persiapkan diri tuk masa depan <EOS>
+<BOS> Hai gadis berkerudung merah <CLS> Maukah engkau jadi kekasihku <CONTENT> Jalan jalan ke Karanganyar <CLS> Jangan lupa membeli baju <EOS>
+<BOS> Ke Semarang beli lumpia <CLS> Minumnya beli kopi <CONTENT> Janganlah kamu terlalu percaya <CLS> Agar tidak sakit hati <EOS>
+<BOS> Beli paku untuk si Ratu <CLS> Beli jamu ketemu si Anya <CONTENT> Cintaku cukup satu <CLS> Untuk kamu selamanya <EOS>
+<BOS> Berakit rakit ke hulu <CLS> Berenang renang kemudian <CONTENT> Aku suka kamu <CLS> Mau gak kita jadian? <EOS>
+<BOS> Tahun baru melihat santa <CLS> Jalan jalan ke pangkalan kerinci <CONTENT> Dulu dicinta <CLS> sekarang malah pergi <EOS>
+<BOS> Membeli buku di Jogja <CLS> Di jalan bertemu tukang urut <CONTENT> Mari kawan bersuka ria <CLS> Putus cinta sedih jangan berlarut <EOS>
+<BOS> Langit sore indah warnanya <CLS> Hujan panas mengundang pelangi <CONTENT> Ayo kawan lima waktunya <CLS> Agar selamat di hari nanti <EOS>
+<BOS> Gadis cantik berkulit sawo matang <CLS> Bila tersenyum manis wajahnya <CONTENT> Nasihat ibu jangan di tentang <CLS> Bila ingin dapat ridhonya <EOS>
+<BOS> Ke pasar menjual gerabah <CLS> Mampir dulu membeli sawi <CONTENT> Mengambil keputusan jangan gegabah <CLS> Agar tidak menyesal di hari nanti <EOS>
+<BOS> Masih kecil sudah rajin mengaji <CLS> Untuk bekal di akhirat <CONTENT> Naik sepeda belok kiri <CLS> Berhenti untuk memetik buah naga <EOS>
+<BOS> Rajin buka jendela waktu pagi <CLS> Hanya untuk melihat tetangga <CONTENT> Minum es teh hanya sendiri <CLS> Makannya Indomie gelas <EOS>
+<BOS> Membaca koran sambil minum teh <CLS> Menanti ibu pulang dari pasar <CONTENT> Bercanda itu boleh <CLS> Namun ingat waktu belajar <EOS>
+<BOS> Ke sekolah naik sepeda <CLS> Di timpa musibah harus tabah <CONTENT> Jika ingin menggapai ridhoNya <CLS> Jangan lupa perintah Allah <EOS>
+<BOS> Jalan jalan di hari minggu <CLS> Udara sejuk dan langit cerah <CONTENT> Ada saat kita bertemu <CLS> Janganlah sedih saat kita berpisah <EOS>
+<BOS> Nona Robin berbibir ranum <CLS> Pangeran tampan tertarik denganmu <CONTENT> Jika ingin masa depan harum <CLS> Jangan lupakan menimba ilmu <EOS>
+<BOS> Beli baju di Tanah Abang <CLS> Pulangnya lewat Surakarta <CONTENT> Anak katak di pinggir sawah <CLS> Anak lembu di depan taman <EOS>
+<BOS> Di rumahku ada tamu <CLS> Ku buatkan sepotong roti <CONTENT> Mari kita menuntut ilmu <CLS> Agar kelak berguna nanti <EOS>
+<BOS> Jalan-jalan keragunan <CLS> Tidak lupa membawa tas <CONTENT> Boleh saja berpacaran <CLS> Tapi tidak melampaui batas <EOS>
+<BOS> Ke warung membeli gas <CLS> Dititipi kakak bawang merah <CONTENT> Saya sudah mengerjakan tugas <CLS> Jadi bunda jangan marah <EOS>
+<BOS> Ke pasar beli kerang <CLS> Tidak lupa membeli selai <CONTENT> Kalau ingin dihargai orang <CLS> Kita juga harus menghargai <EOS>
+<BOS> Naik motor melihat hewan <CLS> Juga melihat burung di sangkar <CONTENT> Empat kali empat <CLS> Sama dengan enambelas <EOS>
+<BOS> Bersenang senang dahulu <CLS> Urusan naik sekilo belakangan <CONTENT> Pergi ke kantor minum susu <CLS> Pulangnya main paralayang <EOS>
+<BOS> Ke Pasar Senen di hari sabtu <CLS> Tidak lupa membeli batik <CONTENT> Jadi orang harus saling bantu <CLS> Kelak jadi orang yang baik <EOS>
+<BOS> Makan roti waktu fajar <CLS> Ditemani lauk bakwan <CONTENT> Jadi anak yang rajin belajar <CLS> Kelas sukses di masa depan <EOS>
+<BOS> Jalan-jalan ke kota Paris <CLS> Di sana awak membaca koran <CONTENT> Saat dirimu tersenyum manis <CLS> Hati berdetak tak karuan <EOS>
+<BOS> Pergi berkencan dengan Tomi <CLS> Lalu belanja ke Tanah Abang <CONTENT> Jadi wanita yang berani <CLS> Agar tidak sering dibuang <EOS>
+<BOS> Bunga kecil banyak dihambur <CLS> Tidak sembahyang juga puasa <CONTENT> Tersiksa mayat di alam kubur <CLS> Kera besar mengambil nangka <EOS>
+<BOS> Pergi ke pasar membeli selai <CLS> Membeli baju berwarna merah <CONTENT> Masa mudamu terlalu santai <CLS> Jika gagal janganlah marah <EOS>
+<BOS> Jalan-jalan ke Cappadocia <CLS> Jangan lupa beristirahat <CONTENT> Buanglah sampah pada tempatnya <CLS> Agar lingkungan menjadi sehat <EOS>
+<BOS> Menonton film Aladin dan Jin <CLS> Setelah itu pergi ke pasar <CONTENT> Teruslah belajar yang rajin <CLS> Supaya menjadi anak yang pintar <EOS>
+<BOS> Minum kopi di malam hari <CLS> Minumnya bersama kawan <CONTENT> Kalu sudah kau berjanji <CLS> Janganlah kau melupakan <EOS>
+<BOS> Buah stroberi warnanya merah <CLS> Jika dimakan asam rasanya <CONTENT> Pergi ke toko membeli buah <CLS> Pulangnya naik sepeda <EOS>
+<BOS> Janganlah engkau banyak berulah <CLS> Kelak menjadi pemuda bijaksana <CONTENT> Ke pasar beli anggur merah <CLS> Besoknya pergi ke Sleman <EOS>
+<BOS> Makan nasi dengan sambal <CLS> Hingga habis lima piring <CONTENT> Mulut yang selalu menggombal <CLS> Tidak pernah sampai ke hati <EOS>
+<BOS> Mata memandang sebuah lampu <CLS> Semua terlihat berwarna putih <CONTENT> Jika memang kau menyukai ku <CLS> Datanglah dengan hati yang bersih <EOS>
+<BOS> Pagi hari pergi ke sawah <CLS> Sambil membawa sebuah cangkul <CONTENT> Untuk apa rumah yang mewah <CLS> Kalau nanti masuk ke kubur <EOS>
+<BOS> Membaca buku di bawah pohon <CLS> Dengan membawa sebotol air <CONTENT> Jika ada seorang pemohon <CLS> Janganlah engkau menjadi kikir <EOS>
+<BOS> Ke toko membeli selai <CLS> Tidak lupa membeli roti dan arang <CONTENT> Kalau sudah berani mencintai <CLS> Harus berani disakiti orang <EOS>
+<BOS> Di lapangan siang bolong <CLS> Membeli micin merk Sasa <CONTENT> Janganlah sering berbohong <CLS> Jika tidak mau mendapat dosa <EOS>
+<BOS> Bermain layangan di kota tua <CLS> Pulangnya membeli tirai <CONTENT> Berbuat baiklah kepada sesama <CLS> Agar hidup aman dan damai <EOS>
+<BOS> Siang hari minum es <CLS> Pergi ke warung membeli tikar <CONTENT> Jika ingin menjadi orang sukses <CLS> Harus perbanyak doa dan ikhtiar <EOS>
+<BOS> Susah senang kita barengan <CLS> Agar bahagia hidup semati <CONTENT> Si Olivia pergi ke pasar <CLS> Pasar pagi buka setiap hari <EOS>
+<BOS> Harta benda hanya titipan Yang Maha Esa <CLS> Kita tak pantas iri dan dengki <CONTENT> Si Julia anaknya ceria <CLS> Suka bermain di Taman Safari <EOS>
+<BOS> Kita semua bangun dan tergerak <CLS> Untuk melanjutkan hidup menggapai mimpi <CONTENT> Pergi sekolah minta diantar <CLS> Hati-hati jalan licin <EOS>
+<BOS> Sungguh bahagia aku rasa <CLS> Jika kita selalu bersama <CONTENT> Lebar-lebar daun talas <CLS> Untuk membungkus nasi ketan <EOS>
+<BOS> Saat aku bertemu kamu <CLS> Eh. aku langsung jatuh cinta <CONTENT> Sebelah kanan warung Ucup <CLS> Sebelah kiri warung Tarwa <EOS>
+<BOS> Jalan jalan ke taman bunga <CLS> Bunga anggrek memukau mata <CONTENT> Selalu nyakin dan percaya <CLS> Pasti bisa meraih cita cita <EOS>
+<BOS> Anak rusa ke pematang <CLS> Induknya pergi hampir hilang <CONTENT> Tak terasa hari sudah petang <CLS> Usai kerja; ayo kita pulang <EOS>
+<BOS> Jangan pernah bermain api <CLS> Api itu berbahaya <CONTENT> Hiduplah seperti kopi <CLS> Selalu tampil apa adanya <EOS>
+<BOS> Jalan jalan ke kota Bandung <CLS> Jangan lupa mengisi saku <CONTENT> Kalau kmu sedang bingung <CLS> Jangan lupa membaca buku <EOS>
+<BOS> Pergi ke Lawu naik kendaraan umum <CLS> Di jalan tiba tiba sesak dada <CONTENT> Jika kamu tidak mau dihukum <CLS> Patuhilah peraturan yang ada <EOS>
+<BOS> Ke pasar dengan si Teguh <CLS> Di pasar membeli pita <CONTENT> Belajarlah dengan sungguh <CLS> Agar bisa menggapai cita cita <EOS>
+<BOS> Pagi hari ketemu orang jenius <CLS> Orangnya sudah tua <CONTENT> Jika kamu memang serius <CLS> Bawalah aku ke KUA <EOS>
+<BOS> Pagi hari bersama mentari <CLS> Sore hari bersama senja <CONTENT> Kaulah gadis yang aku cintai <CLS> Maukah kamu menjadi kekasihku selamanya <EOS>
+<BOS> Naik mobil ke Pekanbaru <CLS> Tidak lupa beli mentega <CONTENT> Kerjakanlah sholat lima waktu <CLS> Tidak lupa berdzikir juga <EOS>
+<BOS> Kue coklat rasanya manis <CLS> Belinya di Pasar Waru <CONTENT> Jadilah pemuda yang optimis <CLS> Agar cerah masa depanmu <EOS>
+<BOS> Naik kapal melihat jangkar <CLS> Di sebelahnya terdapat palu <CONTENT> Rajinlah membersihkan kamar <CLS> Agar tidur nyenyak selalu <EOS>
+<BOS> Makan nasi pakai lauk <CLS> Lauknya berjumlah empat <CONTENT> Jika kau berbuat buruk <CLS> Keburukan pula yang kau dapat <EOS>
+<BOS> Jalan jalan ke taman <CLS> Sambil minum le mineral <CONTENT> Jika ingin hidup aman <CLS> Hiduplah dengan netral <EOS>
+<BOS> Di saat petir menyambar <CLS> Hujan pun turun <CONTENT> Jika hidupmu hambar <CLS> Carilah harta karun <EOS>
+<BOS> Ke pasar beli baju <CLS> Pulangnya makan soto babat <CONTENT> Jika anda ingin maju <CLS> Bekerjalah dengan giat <EOS>
+<BOS> Kalau punya gigi ompong <CLS> Cepat cepat ke dokter gigi <CONTENT> Kalau jadi anak sombong <CLS> Pasti nanti jadi rugi <EOS>
+<BOS> Dari pada kita bersahabat <CLS> Lebih baik kita pacaran <CONTENT> Minum teh rasanya hambar <CLS> Minumnya sambil baca koran <EOS>
+<BOS> Kamu itu cantik sayang <CLS> Kalo kamu jadi anak penurut <CONTENT> Jalan jaln ke Canada <CLS> Pulangnya membeli buku <EOS>
+<BOS> Kain putih bukanlah kain kafan <CLS> Dibuat baju bukan bungkus jenazah <CONTENT> Sekolah untuk masa depan <CLS> Bukan sekadar dapat ijazah <EOS>
+<BOS> Jalan-jalan ke Kota Baru <CLS> Siangnya ketemu pak mamat <CONTENT> Jika kamu semakin berilmu <CLS> Janganlah menjadi gila hormat <EOS>
+<BOS> Ada tetangga namanya pak Maman <CLS> Pak maman banyak kebunnya <CONTENT> Jangan salah memilih teman <CLS> Pilihlah teman yang baik hatinya <EOS>
+<BOS> Hujan turun di pagi hari <CLS> Bikin dingin udara sekitaran <CONTENT> Belajar materi setiap hari <CLS> Jangan lupa belajar Qur'an <EOS>
+<BOS> Jalan-jalan ke kota Purwodadi <CLS> Sambil menikmati kulineran <CONTENT> Jadi orang harus berbakti <CLS> Supaya kelak jadi dermawan <EOS>
+<BOS> Hari minggu ibu pergi ke pasar <CLS> Pulangnya membawa gorengan <CONTENT> Kita harus banyak ikhtiar <CLS> Supaya hidup menjadi nyaman <EOS>
+<BOS> Beli geprek di Depok <CLS> Sampai sana kehabisan <CONTENT> Jangan senang banyak cowok <CLS> Kalau akhirnya di tinggalkan: <EOS>
+<BOS> Pagi hari ibu membeli salat <CLS> Salatnya berisi buah <CONTENT> Mari kita menunaikan shalat <CLS> Supaya hidup menjadi berkah <EOS>
+<BOS> Ayo kita rajin ibadah <CLS> Supaya hidup bahagia <CONTENT> Pergi ke pasar membeli sajadah <CLS> Sajadah dipakai sholat <EOS>
+<BOS> Ke Palembang naik sedan <CLS> Jangan lupa lewat Ampera <CONTENT> Sungguh malang nasib badan <CLS> Insan kupuja sudah berpunya <EOS>
+<BOS> Burung merpati <CLS> Hinggap di jendela <CONTENT> Ada yang bilang makasi <CLS> Aku jawab sama sama <EOS>
+<BOS> Pulang TPQ makan soto babat <CLS> Makannya sambil goreng kentang <CONTENT> Katanya kerabat beneran kerabat <CLS> Tapi kok nusuk dari belakang <EOS>
+<BOS> Dari mana buah salak <CLS> Dari kebun jatuh diudik <CONTENT> Dari mana paham akhlak <CLS> Dari guru yang mendidik <EOS>
+<BOS> Jika kita tidak bersama <CLS> Janganlah engkau bersedih hati <CONTENT> Jalan jalan ke Panarukan <CLS> Tidak lupa membeli kemiri <EOS>
+<BOS> Menghayati senja di sore hari <CLS> Ketika serangkai langit menyapa <CONTENT> Cinta tetap dalam qolbi <CLS> Tuk menyeru sang maha kuasa <EOS>
+<BOS> Air laut yang menggenang <CLS> Kabut pagi menyertai <CONTENT> Tiada hari yang dikenang <CLS> Tanpa ada syukur dalam diri <EOS>
+<BOS> Rintik-rintik air berjatuhan <CLS> Disertai partikel besar <CONTENT> Jangan lupa selalu berbuat kebaikan <CLS> Agar iman terarah dengan benar <EOS>
+<BOS> Berjalan jalan di tepi pantai <CLS> Ada ombak datang menggiring <CONTENT> Bagaimana bisa memperbaiki diri <CLS> Jika akhlak tak lagi penting <EOS>
+<BOS> Akar tunggang lurus tebal <CLS> Bentuk runcing tumbuh erat <CONTENT> Buah pala buah kelapa <CLS> Ditaman kota tumbuh berjajar <EOS>
+<BOS> Jika ingin jadi juara <CLS> Selalu berdoa dan rajin belajar <CONTENT> Minum es degan di atas nampan <CLS> Makannya soto babat sama tempe dua <EOS>
+<BOS> Siapa bilang sekolah MAN itu kampungan <CLS> Nyatanya pendidikan dan prestasinya mendunia <CONTENT> Buah duku buah rambutan <CLS> Kupetik satu tinggal sembilan <EOS>
+<BOS> Cintaku bukan cinta buatan <CLS> Bagaikan paku menempel dipapan <CONTENT> Pergi ke taman banyak bunganya <CLS> Paritnya mewah dikelilingi kanal <EOS>
+<BOS> Tahun baru ramai terlihat mata <CLS> Terlihat sepeda mengangkut panci <CONTENT> Kita takkan tahu rasanya cinta <CLS> Jika hati masih ada rasa benci <EOS>
+<BOS> Berjalan tenang di atas aspal <CLS> Jalannya datar seperti kertas <CONTENT> Rajin giatlah belajar banyak hal <CLS> Sukses tak datang dari rasa malas <EOS>
+<BOS> Bulan purnama indah ronanya <CLS> Bintang-bintang indah di malam hari <CONTENT> Baiknya diri tampak dari sifatnya <CLS> Baiknya hati tampak budi pekerti <EOS>
+<BOS> Anak itik turun sepuluh <CLS> Mati satu tinggal sembilan <CONTENT> Bangun pagi sembahyang subuh <CLS> Minta doa pada Tuhan <EOS>
+<BOS> Masuk hutan untuk berkelana <CLS> Keluar hutan pindah ke bukit <CONTENT> Natrium hidroksida bertemu asam sulfat <CLS> Bertemunya dalam titrasi <EOS>
+<BOS> Teman Jungkook bernama suga <CLS> Setiap malam main petasan <CONTENT> Katanya pengen masuk surga <CLS> Disuruh sholat banyak alasan <EOS>
+<BOS> Pergi ke sungai melihat buaya <CLS> Berenang cuma keliatan ikan teri <CONTENT> Tak peduli tampan atau kaya <CLS> Kalau cinta pasti bertemu nanti <EOS>
+<BOS> Ayam jago berdiri berjajar <CLS> Akan di tangkap oleh Maman <CONTENT> Guru harus pandai megajar <CLS> Supaya jadi suri teladan <EOS>
+<BOS> Pergi ke taman indah nan permai <CLS> Di jalan kebanjiran <CONTENT> Hidup tentram aman damai <CLS> Jalani hidup dengan kebaikan <EOS>
+<BOS> Setelah hujan ada pelangi <CLS> Indahnya warna warna <CONTENT> Guru memberi ilmu karna menyangi <CLS> Bercucur keringat hingga pipi merona <EOS>
+<BOS> Beli kado sama Mamat <CLS> Kadonya buat Nunu <CONTENT> Perbaikilah ucapan dan sifat <CLS> Agar selaras dengan tingkah dan laku <EOS>
+<BOS> Ikan pari terdampar ke darat <CLS> Susah bernafas akan mati <CONTENT> Punya hati jangan berkarat <CLS> Karna hidup tidak akan berarti <EOS>
+<BOS> Ibu beti belanja di pasar <CLS> Tomatnya jatuh dijalan <CONTENT> Orang yang sedang belajar <CLS> Pastilah banyak halangan <EOS>
+<BOS> Pergi jalan jalan sendiri <CLS> Di jalan ketemu wanita cantik <CONTENT> Berperilaku terpuji membangun diri <CLS> Agar menjadi diri yang lebih baik <EOS>
+<BOS> Ibu Andi cari menantu <CLS> Senang hati dapat yang cantik nan baik <CONTENT> Jadilah anak yang senang membantu <CLS> Agar kamu jadi anak yang baik <EOS>
+<BOS> Jalan jalan bersama sari <CLS> Hujan deras badai angin <CONTENT> Perilaku adalah contoh diri <CLS> Berbaik hati pada orang lain <EOS>
+<BOS> Nonton bola bareng Roma <CLS> Berebut bola berlari lari <CONTENT> Orang ganteng banyak di dunia <CLS> Orang berbudi susah dicari <EOS>
+<BOS> Si Devi keluar rumah <CLS> Mencari kucing yang tak pulang pulang <CONTENT> Jadilah orang yang ramah <CLS> Agar hidup sesalu dikenang <EOS>
+<BOS> Putus cinta hanya di kenang <CLS> Putusnya karna orang ketiga <CONTENT> Hidup harus penuh kasih sayang <CLS> Karna kepercayaan adalah hal utama <EOS>
+<BOS> Beli baju tawar menawar <CLS> Dengan ibu sedang beradu <CONTENT> Budi pekerti dapat dari belajar <CLS> Belajar jangan suka mengadu <EOS>
+<BOS> Buah pepaya cantik warna nya <CLS> Buah pepaya bentuknya lonjong <CONTENT> Sopan santun sangat berguna <CLS> Jangan lupa juga selalu menolong <EOS>

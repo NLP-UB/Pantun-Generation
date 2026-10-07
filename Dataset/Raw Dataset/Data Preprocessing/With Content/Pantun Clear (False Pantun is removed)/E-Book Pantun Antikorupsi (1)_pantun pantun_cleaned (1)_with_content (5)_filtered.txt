@@ -1,0 +1,313 @@
+<BOS> Sore-sore hujan gerimis <CLS> nikmatnya makan kue pukis <CONTENT> Jangan kendor tetap optimis <CLS> agar korupsi tetap terkikis <EOS>
+<BOS> Minum susu pagi- pagi <CLS> makan Roti Siang Hari <CONTENT> Mari kita ikuti materi ini <CLS> agar kita mengerti bahaya korupsi <EOS>
+<BOS> Mari sambut cerah pagi hari ini <CLS> bersama terang terbitnya mentari <CONTENT> Perkenalkan saya yang akan menemani <CLS> pada sesi para penyuluh berkolaborasi <EOS>
+<BOS> Cantik sungguh bunga dahlia <CLS> walau dekat jangan di sentuh <CONTENT> Selamat pagi para master semua <CLS> Assalamualaikum Warahmatullahi Wa Barakatuh <EOS>
+<BOS> Daun keladi di pinggir telaga <CLS> tertimpa embun di pagi hari <CONTENT> Ijinkan kami mengantar sapa <CLS> dengan salam semangat pagi <EOS>
+<BOS> Beli buah duku di pasar jumat <CLS> Jangan lupa beli juga buah Pala <CONTENT> Bacalah buku ini sampai tamat <CLS> Agar pantunnya di luar kepala <EOS>
+<BOS> Berbalas pantun alangkah indahnya <CLS> Tradisi nusantara kita lestarikan <CONTENT> Nama saya Lisa dari Jakarta <CLS> Salam kenal mas mba sekalian <EOS>
+<BOS> Buah Jambu Buah Mangga <CLS> Dibuat Rujak Makan Bersama <CONTENT> Perkenalkan Nama Saya Rika <CLS> Penyuluh Antikorupsi Jenjang Muda <EOS>
+<BOS> Ke Madura pingin makan Soto <CLS> Suramadu lancar tapi rame <CONTENT> Saya, Aryani Soenarto <CLS> Yang biasa dipanggil Ade <EOS>
+<BOS> Satu dua tiga delapan <CLS> Beli ayam harga seringgit <CONTENT> Kalau mau kita berkawan <CLS> Panggil saja aku Khamid <EOS>
+<BOS> Jalan jalan ke kota Surabaya <CLS> Jangan lupa lontong balapnya <CONTENT> Salam kenal master Hanifah <CLS> Dengan saya Sayekti dari komunitas APA YA <EOS>
+<BOS> Menulis pendapat dalam opini <CLS> untuk memberikan edukasi <CONTENT> Perkenalkan saya Thoni <CLS> salam antikorupsi <EOS>
+<BOS> Senang hati melihat Bunga mawar bunga melati <CLS> Semilir angin membuat bunga bergoyan <CONTENT> Perkenalkan saya lin purwanti <CLS> Salam cinta dan kasih sayang <EOS>
+<BOS> covid 19 akan tetap ada <CLS> dari pandemi akan menjadi endemi <CONTENT> salam kenal Indonesia <CLS> saya dina indriyanti; penyuluh antikorupsi <EOS>
+<BOS> Dari raja Ampat ke Senggigi <CLS> Memandang Bunga Lili Berwarna Merah Harum Mewangi <CONTENT> Semangat Pagi untuk hari ini <CLS> Perkenalkan Saya Haeli Orangnya Ramah dan Baik Hati <EOS>
+<BOS> Kebenaran hakiki harus dibela <CLS> agar hidup tidak sia-sia <CONTENT> Perkenalkan nama saya Jamila <CLS> dari Yogyakarta untuk Indonesia <EOS>
+<BOS> Ayo kita berlibur ke Surabaya <CLS> Bersama teman, naik pedati <CONTENT> Kenalkan, Hanifah nama saya <CLS> Saya penyuluh yang baik hati <EOS>
+<BOS> Memetik harpa bergaung lagu <CLS> Menata huruf jadi bait puisi <CONTENT> Selamat berjumpa wahai kawanku <CLS> Kenalkan saya yusuf yang baik hati <EOS>
+<BOS> Kuda sumbawa kencang berlari <CLS> kasuari papua pandai menari <CONTENT> Saya arifin perkenalkan diri <CLS> siap beraksi ber pantun antikorupsi <EOS>
+<BOS> Jalan jalan ke Samarinda <CLS> Singgah sebentar di Balik papan <CONTENT> Perkenalkan saya Diana <CLS> PAKSI asal Kota Tarakan <EOS>
+<BOS> Pergi Menyuluh Anti Korupsi <CLS> Jangan Lupa Memakai Rompi <CONTENT> Perkenalkan Saya Sipemikat Hati <CLS> Imbangan Putra Rifai <EOS>
+<BOS> Kicau burung-burung di pagi hari <CLS> Lantunkan indahnya harmonisasi <CONTENT> Perkenalkan saya Asri <CLS> Bagimu negeri kuteguhkan antikorupsi <EOS>
+<BOS> jalan-jalan ke Sumatera <CLS> jangan Iupa singgah di Medan <CONTENT> salam kenal saya Ainun Mardhiah <CLS> salam sayang dari kota durian <EOS>
+<BOS> Indonesia bangsa yang besar <CLS> Rakyatnya ramah bukan basa basi <CONTENT> Perkenalkan saya liz dari Makassar <CLS> Yang selalu siap beraksi lawan korupsi <EOS>
+<BOS> Indonesia penuh pesona keindahan <CLS> Beraneka rupa budaya dan tradisi <CONTENT> Perkenalkan saya master intan <CLS> Salam integritas dan Antikorupsi <EOS>
+<BOS> Mari hindarkan dan cegah budaya mencuri <CLS> Demi Indonesia bebas dari korupsi <CONTENT> Perkenalkan saya Indah Puspita Sari <CLS> Salam antikorupsi <EOS>
+<BOS> Bunga Sekuntum bukan kabar angin <CLS> Buluh berisi kue serabi <CONTENT> Assalamualaikum kenalkan saya zulkarnain <CLS> Penyuluh antikorupsi provinsi jambi <EOS>
+<BOS> Jalan-jalan ke Jakarta <CLS> Mampir ke Kota Bekasi <CONTENT> Perkenalkan nama saya Wayan Nurata <CLS> Sebagai Koordinator Paksi Bali <EOS>
+<BOS> Gadis cantik menjajakan kue di tenong berjalan kaki <CLS> Kue laris terjual dompet pun penuh terisi <CONTENT> Perkenalkan saya Nenong Fauziah Dasuki <CLS> Dengan pantun kita membangun semangat antikorupsi <EOS>
+<BOS> Jalan jalan kesukabumi <CLS> hendak pentas dikedai kopi <CONTENT> Kenalkan saya salmi <CLS> mari Memberantas Korupsi <EOS>
+<BOS> Bunga mawar bunga melati <CLS> Daunny hijao segar sekali <CONTENT> Perkenankan saya memperkenalkan diri <CLS> Saya moyo penyuluh antikorupsi <EOS>
+<BOS> Dimalam hari Terang rembulan <CLS> Duduk manis di sepan Kantor <CONTENT> Wahai PAKSI yang memang jempolan <CLS> Lanjukan Perjuangan brantas Koruptor <EOS>
+<BOS> Pergi memancing di pagi hari <CLS> Ikan dipancing dapatnya aligator <CONTENT> Mari PAKSI berjuang sepenuh hati <CLS> Berjuang keras melawan Koruptor <EOS>
+<BOS> Ikut undian dapatkan hadiah <CLS> Hadiah istimewa mobil limosin <CONTENT> Perkenalkan nama saya rofiah <CLS> Penyuluh antikorupsi dari Banjarmasin <EOS>
+<BOS> Makan sambal pakai terasi <CLS> Perut kenyang datangkan inspirasi <CONTENT> Mari bersama meningkatkan kompetensi <CLS> Untuk menjadi penyuluh antikorupsi <EOS>
+<BOS> Hp menjadikan orang makin mager <CLS> tinggal pencet apa saja sudah ada <CONTENT> Saya imam dari kementerian naker <CLS> tugas saya sebagai widyaiswara <EOS>
+<BOS> Marilah kita jalin persahabatan <CLS> Satukan tujuan, korupsi kita berantas <CONTENT> Perkenalkan nama saya Sahlan <CLS> Satu Aksi kita bangun; salam integritas <EOS>
+<BOS> Pagi-pagi sarapan bubur kacang ijo <CLS> Lebih enak ditambah roti <CONTENT> Perkenalkan saya, Master Jo <CLS> Salam antikorupsi <EOS>
+<BOS> Satu ditambah sepuluh, sama dengan sebelas <CLS> satu ditambah satu, sama dengan dua <CONTENT> Salam kenal, saya rizki wibias <CLS> mari berantas korupsi bersama-sama <EOS>
+<BOS> Kita harus menjalin chemistry <CLS> agar bisa berkolaborasi <CONTENT> Perkenalkan saya Sandri <CLS> Salam antikorupsi <EOS>
+<BOS> Janji manis didalam hati <CLS> pagi pagi masak Nasi <CONTENT> Saya Retno Indrawati <CLS> maju bersama lawan korupsi <EOS>
+<BOS> Jalan-jalan keliling Asia <CLS> Sambil liburan belajar toleransi <CONTENT> Perkenalkan saya Luthfia <CLS> Seorang Penyuluh Antikorupsi <EOS>
+<BOS> Mari sambut cerah pagi hari ini <CLS> bersama terang terbitnya mentari <CONTENT> Perkenalkan saya yang akan menemani <CLS> pada sesi para penyuluh berkolaborasi <EOS>
+<BOS> Cantik sungguh bunga dahlia <CLS> walau dekat jangan disentuh <CONTENT> Selamat pagi para master semua <CLS> assalamualaikum warahmatullahi wa barakatuh <EOS>
+<BOS> Mari bersama tegakkan hukum <CLS> mari patuhi untuk ketertiban <CONTENT> Saya ucapkan assalamu'aikum <CLS> semoga kita dalam keselamatan <EOS>
+<BOS> Ingatlah pesan nasihat orang tua <CLS> saling menyayangi dengan saudara <CONTENT> Salam kasih sayang untuk kita semua <CLS> semoga Indonesia segera sejahtera <EOS>
+<BOS> Teruslah berbagi dalam peduli <CLS> bangunlah simpati menuju empati <CONTENT> Ayo kita bersama memulai <CLS> dengan awali Semangat Pagi <EOS>
+<BOS> Tabah dan sabar <CLS> melawan korupsi! tetap bersyukur, telaten dan berjaya <CONTENT> Hai Master, apa kabar <CLS> master siap beraksi! Jujur Kompeten Berdaya <EOS>
+<BOS> Tak ada nasi makanlah sagu <CLS> enak dinikmati bersama ubi talas <CONTENT> Ayo sahabat penyuluh semua bersatu <CLS> dengan berdaya dan menjaga integritas <EOS>
+<BOS> Pergi ke pulau nikmati pantai <CLS> pasirnya indah berwarna-warni <CONTENT> Mari bertekad membangun kompetensi <CLS> untuk menjadi penyuluh antikorupsi <EOS>
+<BOS> Budaya antikorupsi harus digelorakan <CLS> dengan menaati hukum secara utuh <CONTENT> Salam pembuka saya haturkan <CLS> assalamualaikum warrahmatullahi wabarakatuh <EOS>
+<BOS> Ada kudapan dimakan di lesehan <CLS> sambalnya pedas diberi terasi <CONTENT> Ada materi dalam pembelajaran <CLS> untuk membangun unit kompetensi <EOS>
+<BOS> Nonton tivi sambil baca berita <CLS> isinya wabah pandemi dimana-mana <CONTENT> Mari kita bangun komitmen bersama <CLS> menuju kompetensi agar berdaya <EOS>
+<BOS> Bulan Januari tinggal beberapa minggu <CLS> berdebar menanti harapan naik gaji <CONTENT> Inilah yang telah kita tunggu-tunggu <CLS> master. yang akan menebarkan inspirasi <EOS>
+<BOS> Buah matoa enak rasanya <CLS> Jayapura ibukota Papua <CONTENT> Salam jumpa kitorang semua <CLS> untuk bersama menjadi berdaya <EOS>
+<BOS> Anak kecil berkata manja <CLS> mengajak makan paman dan bibi <CONTENT> Salam jumpa untuk semua <CLS> salam kita semangat pagi <EOS>
+<BOS> Ke lapangan menggembala keledai <CLS> bawa unta ke tengah gurun <CONTENT> Sebelum acara kita mulai <CLS> izinkan saya membawakan pantun <EOS>
+<BOS> Belajar dengan guru matematika <CLS> setelah itu pulang ke rumah <CONTENT> Sebelum acara di buka <CLS> mari bersama ucapkan bismillah <EOS>
+<BOS> Sarapan pagi dengan ketan <CLS> setelah itu mencuci kain <CONTENT> Dengan senang hati saya ucapkan <CLS> selamat datang para hadirin <EOS>
+<BOS> Air mata jatuh berderai <CLS> karena menonton drama Korea <CONTENT> Karena sesi telah siap dimulai <CLS> alangkah baiknya mari kita awali saja <EOS>
+<BOS> Pergi bekerja memakai batik <CLS> warisan kebanggaan Indonesia <CONTENT> Menjumpai bapak tampan ibu cantik <CLS> salam semangat dan selalu bahagia <EOS>
+<BOS> Semburat matahari mengawali hari <CLS> pagi disambut dengan senyum dikulum <CONTENT> Selamat pagi para calon pemimpin negeri <CLS> sudah sarapan atau belum <EOS>
+<BOS> Roti bakar dan secangkir kopi <CLS> untuk sarapan enak rasanya <CONTENT> Assalamualaikum selamat pagi <CLS> sukses selalu untuk kita semua <EOS>
+<BOS> Pelayan publik profesi idaman <CLS> berintegritas dan antikorupsi <CONTENT> Selamat datang kami ucapkan <CLS> semangat beraktifitas dan saling berbagi <EOS>
+<BOS> Gratifikasi tolak dan laporkan <CLS> bukti integritas di dalam diri <CONTENT> Salam hormat saya sampaikan <CLS> kepada bapak ibu yang baik hati <EOS>
+<BOS> Tingginya gunung puncaknya tinggi <CLS> terbentang lautan amatlah luas <CONTENT> Selamat datang pejuang antikorupsi <CLS> tegakkan integritas tanpa batas <EOS>
+<BOS> Dari Jakarta ke kota Tarakan <CLS> transit sejenak di Balikpapan <CONTENT> Para peserta diklat hadirin sekalian <CLS> telah siap narasumber yang sangat menawan <EOS>
+<BOS> Banyak bunga tumbuh di taman <CLS> harum semerbak aroma baunya <CONTENT> Mari kawan kita bersama dengarkan <CLS> para narasumber yang keren luar biasa <EOS>
+<BOS> Selamat pagi, pagi, pagi <CLS> tetap semangat dan luar biasa <CONTENT> Mari kita ikuti kegiatan seminar ini <CLS> semoga menarik untuk kita semua <EOS>
+<BOS> Bunga sekuntum mekar sehari <CLS> tangkainya kering lalu terjatuh <CONTENT> Selamat berjumpa bersama kami <CLS> assalamualaikumwarahmatullahi wabarakatuh <EOS>
+<BOS> Ahli biologi belajar anatomi <CLS> ahli hukum memberi contoh patuh <CONTENT> Sebelum mulai belajar antikorupsi <CLS> assalamualaikum warahmatullahiwabarakatuh <EOS>
+<BOS> Paling terasa sakitnya geraham gigi <CLS> baru tumbuh tidak bisa ditahan <CONTENT> Saya ucapkan selamat pagi <CLS> untuk para peserta sekalian <EOS>
+<BOS> Adik suka materi biologi <CLS> dari dulu sampai kemarin <CONTENT> Selalu semangat seperti pagi <CLS> hormat untuk semua hadirin <EOS>
+<BOS> Sarapan kari di pagi hari <CLS> enak dimakan di belantara <CONTENT> Selamat datang master kemari <CLS> kita bersua seperti saudara <EOS>
+<BOS> Jalan-jalan ke kutub takut beruang <CLS> jalan jalan ke sungai takut buaya <CONTENT> Terimakasih pada peserta yang telah datang <CLS> ayo kita mulai acara diklatnya <EOS>
+<BOS> Cuaca cerah udara nyaman <CLS> musimnya panas udara kering <CONTENT> Semoga sesi ini berlangsung aman <CLS> karena kita terapkan safety briefing <EOS>
+<BOS> Nelayan di laut menangkap ikan ayam-ayam <CLS> ikan dijual di pasar Senen Jakarta <CONTENT> Ijinkan saya ucapkan salam <CLS> assalamu'alaikum warahmatullahi wabarakatuh pada semua peserta <EOS>
+<BOS> Buah manggis rasanya manis <CLS> kulit manggis jangan dimakan <CONTENT> Untuk peserta diklat yang hebat dan manis <CLS> salam hangat saya ucapkan <EOS>
+<BOS> Kalau sudah namanya cinta <CLS> berbunga-bunga rasanya hati <CONTENT> Kalau mau menjadi penyuluh berdaya <CLS> ayo master belajar dengan master Sari <EOS>
+<BOS> Bunga melati harum mewangi <CLS> semerbak meluas ke bumi ini <CONTENT> Ingin Indonesia bersih dari korupsi <CLS> ayo gabung segera beraksi <EOS>
+<BOS> Kutitipkan rinduku pada angin <CLS> untuk yang jauh namun dekat di hati <CONTENT> Belajar hargai hak orang lain <CLS> agar kelak tidak korupsi <EOS>
+<BOS> Beli besi ke pasar Jarak <CLS> pulang siang lewat jalan Dupak <CONTENT> Jika korupsi semakin marak <CLS> ayo PAK beraksi yang kompak <EOS>
+<BOS> Hendak ke pasar beli terasi <CLS> jangan lupa beli lemari <CONTENT> Jika ingin Indonesia bersih dari korupsi <CLS> ayo gabung penyuluh antikorupsi <EOS>
+<BOS> Bunga seroja untuk sang kekasih <CLS> gadis jelita tinggi semampai <CONTENT> Ayo bangun generasi tanpa korupsi <CLS> Indonesia jaya pasti tercapai <EOS>
+<BOS> Satu-satu aku sayang ibu <CLS> dua-dua aku sayang ayah <CONTENT> Ayo kawan beraksi menggebu <CLS> Indonesia pasti jaya <EOS>
+<BOS> Berwisata santai ke pulau Bali <CLS> melewati indahnya kota Banyuwangi <CONTENT> Telah berbagi ilmunya yang bernilai <CLS> hormat dan apresiasi narasumber hari ini <EOS>
+<BOS> Makan nasi pakai teri <CLS> belinya di warung Mbak Sri <CONTENT> Master Sandri mah, juara aksi <CLS> selamat datang untuk berbagiiiii <EOS>
+<BOS> Pagi hari jogging di taman <CLS> lihat tukang bubur jadi mau <CONTENT> Jika ada yang ditanyakan <CLS> Silakah sebelum habis waktu <EOS>
+<BOS> Tugas polisi jaga kedamaian <CLS> agar negara tetap aman <CONTENT> Terimakasih kami ucapkan <CLS> atas materi yang di sampaikan <EOS>
+<BOS> Jika hendak naik sampan <CLS> siapkan bekal untuk perjalanan <CONTENT> Terimakasih kami ucapkan <CLS> untuk ilmu yang diberikan <EOS>
+<BOS> Dari Jakarta ke Surabaya <CLS> lewatnya jalur Pantura <CONTENT> Materinya sungguh membahana <CLS> dan kita sungguh terpesona <EOS>
+<BOS> Pilkada langsung butuh integritas <CLS> pilih yang jujur, yang jujur dipilih <CONTENT> Ayo kolaborasi dan libas tuntas <CLS> korupsi diberantas tanpa belas kasih <EOS>
+<BOS> Minum susu pagi-pagi <CLS> makan roti di siang hari <CONTENT> Mari kita ikuti materi ini <CLS> agar kita mengerti bahaya korupsi <EOS>
+<BOS> Libur panjang waktunya tamasya <CLS> lantas pergi ke Kualanamu <CONTENT> Sudah di beri materi yang luar biasa <CLS> Terimakasih narasumber, kita kagum kepadamu <EOS>
+<BOS> Lihat langit di sore hari <CLS> sangat indah dipandang mata <CONTENT> Di pagi hari yang bahagia ini <CLS> telah hadir narasumber yang luarbiasa <EOS>
+<BOS> Jalan-jalan ke Jakarta <CLS> mampir stasiun Manggarai <CONTENT> Mari bulatkan tekad kita <CLS> maju terus berantas korupsi <EOS>
+<BOS> Malam hari angin berhembus dingin sekali <CLS> karena hujan turun deras di sore hari <CONTENT> Terima kasih kesediaan master mengisi sesi ini <CLS> semoga kita mendapat manfaat dari materi <EOS>
+<BOS> Burung kausari asal dari Papua <CLS> bulunya cantik hinggap di pohon jati <CONTENT> Banyak materi yang sudah disampaikan darinya <CLS> ucapan terimakasih untuk narasumber yang baik hati <EOS>
+<BOS> Sore-sore baca buku di teras rumah <CLS> sambil minum kopi dan makan cemilan <CONTENT> Cukup sekian para narasumber yang keren yah <CLS> atas kebaikannya terima kasih saya ucapkan <EOS>
+<BOS> Ayo kita ambil pena <CLS> pena diambil dari dalam tas <CONTENT> Ayo kita perdalam materinya <CLS> kita masuk ke acara Breakout Class <EOS>
+<BOS> Tuban terkenal dengan legennya <CLS> sungguh rugi jika tak mencobanya <CONTENT> Selamat datang master yang bersahaja <CLS> yang akan berbagi materi pada kita semua <EOS>
+<BOS> Jalan-jalan ke kota Surabaya <CLS> beli durian Jepara hanya dua <CONTENT> Selamat berjumpa master Baginda <CLS> yang akan berbagi materi pada kita semua <EOS>
+<BOS> Ke Yogyakarta beli bakpia <CLS> jangan lupa ke museum Yogya <CONTENT> Terima kasih master atas materinya <CLS> semoga master senantiasa bahagia <EOS>
+<BOS> Sore hari hujannya deras <CLS> enaknya makan bakso yang pedas <CONTENT> Sungguh hebat master yang bergas <CLS> atas paparan materi yang lugas <EOS>
+<BOS> Jalan-jalan ke Kota Jember <CLS> makan siangnya pakai ikan teri <CONTENT> Kepada bapak/ibu narasumber <CLS> dipersilakan menyampaikan materi <EOS>
+<BOS> Makan nasi di rumah Rahmat <CLS> lauknya pakai sambal ikan <CONTENT> Mari kita mulai dengan semangat <CLS> agar seminar ini terasa menyenangkan <EOS>
+<BOS> Terasa segar di pinggir sungai <CLS> bunga-bunga mekar berseri <CONTENT> Sesi pertama segera dimulai <CLS> kita sambut Bapak/Ibu pemateri <EOS>
+<BOS> Berbicara harus sopan santun <CLS> semangat jangan pernah tergoyahkan <CONTENT> Kepada Master Rofie sang master pantun <CLS> sharing materi kami persilakan <EOS>
+<BOS> Nilai-nilai antikorupsi perlu aktualisasi <CLS> agar menjadi budaya kehidupan <CONTENT> Teruskan hidup dengan ber-antikorupsi <CLS> agar Indonesia semakin terdepan <EOS>
+<BOS> Kue talam ketan manis rasanya <CLS> beraroma gula merah berlapis santan <CONTENT> Tak berlama-lama teman-teman semua <CLS> kepada narasumber kami persilakan <EOS>
+<BOS> Bersama orang tercinta naik sepeda <CLS> hati senang wajahpun cerah ceria <CONTENT> Tak salah mendamba hidup serba ada <CLS> jangan korupsi agar tidak celaka <EOS>
+<BOS> Minum es alpukat sambil duduk santai <CLS> ditambah semangkuk puding sutera <CONTENT> Ayo terus semangat melawan korupsi <CLS> agar rakyat hidup makmur sejahtera <EOS>
+<BOS> Minum sirup belewah duduk di kursi <CLS> rasanya sirnakan dahaga <CONTENT> Buat apa hidup mewah dari korupsi <CLS> kelak malu diri dan keluarga <EOS>
+<BOS> Jalan ke pelabuhan membawa tas <CLS> terlihat kapal di samudera <CONTENT> Ayo semaikan tanamkan integritas <CLS> untuk wujudkan negara sejahtera <EOS>
+<BOS> Gadis cilik kini tumbuh dewasa <CLS> memakai gaun dari kain sutera <CONTENT> Lawan korupsi pantang putus asa <CLS> agar kita semua hidup sejahtera <EOS>
+<BOS> Dengan cinta keluarga jadi harmonis <CLS> keluarga sehat makannya ikan <CONTENT> Master Sahlan yang senyumnya manis <CLS> terimakasih sharing yang diberikan <EOS>
+<BOS> Tahu bulat digoreng dadakan <CLS> harganya lima ratusan <CONTENT> Lawan korupsi tak bisa dihentikan <CLS> pantun korupsi perlawanan lisan <EOS>
+<BOS> Jalan-jalan bareng Bu Lurah <CLS> menyusuri sawah dan kolam ikan <CONTENT> Kepada Master Toni bertopi merah <CLS> waktu dan layar dipersilakan <EOS>
+<BOS> Sore-sore ke Purwodadi <CLS> beli kupat ditaburi terasi <CONTENT> Walau apapun yang terjadi <CLS> tetap semangat melawan korupsi <EOS>
+<BOS> Siang ini aku bernyanyi <CLS> nyanyi untuk sang kekasih <CONTENT> Selamat datang master Reni <CLS> dan kami ucapkan terima kasih <EOS>
+<BOS> Jangan bilang tidak bisa <CLS> bisa biasa tak pernah rugi <CONTENT> Ayuk mari kita bekerja sama <CLS> bareng-bareng berantas korupsi <EOS>
+<BOS> Hari gini kok masih kuper <CLS> gak tau nama-nama ikan <CONTENT> Selamat datang bapak narasumber <CLS> waktu dan layar saya berikan <EOS>
+<BOS> Upacara rapi dalam barisan <CLS> setelah itu makan bakwan <CONTENT> Hadirin yang punya pertanyaan <CLS> silakan menulis atau menyampaikan <EOS>
+<BOS> Ada pantun tentang ikat sepat <CLS> ada tebakan nama-nama ikan <CONTENT> Selamat datang narasumber hebat <CLS> waktu dan layar saya berikan <EOS>
+<BOS> Lihat anak sangat berbakat <CLS> bisa membuat terinspirasi <CONTENT> Tak lelah tetap semangat <CLS> ayo tetap bersikap antikorupsi <EOS>
+<BOS> Gunung Merapi sedang erupsi <CLS> erosinya sampai di Tebing Breksi <CONTENT> Sungguh tinggi biaya sosial korupsi <CLS> sampai merusak beragam segi <EOS>
+<BOS> Makan sambel pakai terasi <CLS> makin enak ditambah santan <CONTENT> Berapa jumlah nilai antikorupsi <CLS> bener banget ada sembilan <EOS>
+<BOS> Kokohnya kursi berbahan besi <CLS> bahannya kuat tidak karatan. <CONTENT> Salah satu penyebab korupsi <CLS> karena ada niat dan kesempatan. <EOS>
+<BOS> Sudah sore mentari meredup <CLS> jelang malam perlu nambah nutrisi <CONTENT> Berharap dapat pendamping hidup <CLS> pasangan sejati pasti antikorupsi <EOS>
+<BOS> Daun yang jatuh dipungut teman <CLS> dikumpulkan di plastik jadi hiasan <CONTENT> Para koruptor ayo kita lawan <CLS> tak layak hidup, jadi cacian <EOS>
+<BOS> Wangi sedap mawar rupawan <CLS> di vas bunga dekat halaman. <CONTENT> Terima kasih saya ucapkan <CLS> atas segala perhatian <EOS>
+<BOS> Burung merpati terbang meninggi <CLS> terbangnya sepasang seperti kekasih <CONTENT> Saya ucapkan sekali lagi <CLS> mohon maaf dan terima kasih <EOS>
+<BOS> Nonton tivi, baca berita <CLS> berita covid di sana-sini <CONTENT> Tak muluk-muluk, target kita. <CLS> raih predikat, birokrasi bersih dan melayani <EOS>
+<BOS> Menunggu kabar info mutasi <CLS> kalau promosi; jabatannya naik <CONTENT> Zona Integritas wilayah bebas dari korupsi <CLS> menuju kantor pelayanan terbaik <EOS>
+<BOS> Terasa kenyang makan nasi <CLS> apalagi nasinya nasi biryani <CONTENT> Wilayah bebas dari korupsi <CLS> wilayah birokrasi bersih dan melayani <EOS>
+<BOS> Benang jahit disulam bak permata <CLS> benang kapas dipintal bak sutra <CONTENT> Pandemi Covid-19 adalah nyata <CLS> korupsi merajalela adalah fakta <EOS>
+<BOS> Mempelai membawa Roti Buaya <CLS> jalan seirama musik Tanjidor <CONTENT> Korupsi sangatlah berbahaya <CLS> berdampak masif di segala sektor <EOS>
+<BOS> Tumpeng kuning menjulang di nampan <CLS> ditemani Urap dan Sambal Terasi <CONTENT> Korupsi mempersulit pembangunan <CLS> lesukan ekonomi dan investasi <EOS>
+<BOS> Pilu nian hidup sebatang kara <CLS> emak-bapak tiada, juga kerabat <CONTENT> Korupsi menggerogoti uang negara <CLS> pengentasan kemiskinan menjadi lambat <EOS>
+<BOS> Duduk di teras dekat garasi <CLS> baca berita malagizi alias nutrient <CONTENT> Korupsi bikin kacau birokrasi <CLS> layanan publik jadi tidak efisien <EOS>
+<BOS> Biasanya lantang bercuap-cuap <CLS> saat datang musuh, bergegas tengkurup <CONTENT> Konstituen didapat karena suap <CLS> alhasil, muncullah kepemimpinan korup <EOS>
+<BOS> Minum kelapa muda pakai sirup <CLS> saat berbuka di bulan Ramadhan <CONTENT> Bila lembaga peradilan korup <CLS> lembaga negara kehilangan kepercayaan <EOS>
+<BOS> Burung mengoceh di pohon akasia <CLS> lalu terbang ke udara <CONTENT> Korupsi melemahkan alutsista <CLS> karna anggarannya menguap sia-sia <EOS>
+<BOS> Meski bukan sulap, bukan pula ilusi <CLS> ulahnya mampu menggemparkan dunia <CONTENT> Ilegal loging itu korupsi <CLS> pencipta bencana buatan manusia <EOS>
+<BOS> Lengan gempal berkat angkat beban <CLS> berlatih ajeg sejak usia dini <CONTENT> Gegara korupsi kita jadi korban <CLS> yuk, enyahkan korupsi dari negeri ini <EOS>
+<BOS> Bianglala indahnya tiada tara <CLS> menyenangkan hati yang memandangnya <CONTENT> Koruptor tak hanya rampas uang negara <CLS> lingkungan alam rusak karna ulahnya <EOS>
+<BOS> Berbuat baik sepanjang hayat <CLS> seimbangkan selalu jiwa dan raga <CONTENT> Korban korupsi adalah rakyat <CLS> hidupnya merana tak sejahtera <EOS>
+<BOS> Menyelam di laut sambil rekreasi <CLS> menikmati keindahan bahari <CONTENT> Barang mahal, rakyat tak mampu beli <CLS> tanda korupsi menggerogoti ekonomi <EOS>
+<BOS> Biar aku tak semanis gula <CLS> namun percayalah aku baik hatinya <CONTENT> Korupsi meningkat, kriminalitas merajalela <CLS> kasihan rakyat menanggung akibatnya <EOS>
+<BOS> Bubur manado tabur ikan cakalang <CLS> ditambah sambal pedasnya dahsyat <CONTENT> Kalau korupsi pejabat terus berulang <CLS> bisa-bisa hilang kepercayaan rakyat <EOS>
+<BOS> Datang ke Jogja makannya gudeg <CLS> rasanya enak tak terlupakan <CONTENT> Banyak sekolah misinya mandeg <CLS> imbas korupsi anggaran pendidikan <EOS>
+<BOS> Sore-sore hujan gerimis <CLS> enaknyoo ngemil kue pukis <CONTENT> Jangan kendor terus optimis <CLS> biar korupsi segera terkikis <EOS>
+<BOS> Jalan-jalan ke puncak Gunung Merapi <CLS> jangan lupa kita pakai rompi biru <CONTENT> Perampas uang rakyat, pantas dihukum mati <CLS> agar tidak tumbuh lagi koruptor-koruptor baru <EOS>
+<BOS> Pergi ke kota membayar pajak <CLS> dana pajak jangan dikebiri <CONTENT> Pembangunan yang mangkrak <CLS> karena besar biaya sosial korupsi <EOS>
+<BOS> Gunung Merapi sedang erupsi <CLS> erosinya sampai di tebing breksi <CONTENT> Sungguh tinggi biaya sosial korupsi <CLS> sampai merusak beragam segi <EOS>
+<BOS> Buku tulis dimasukkan lemari <CLS> semakin ditumpuk semakin tinggi <CONTENT> Setiap detik kita harus atur strategi <CLS> bagaimana cara berantas korupsi <EOS>
+<BOS> Bunga hidup bukan bunga kertas <CLS> dijual di laman dunia maya <CONTENT> Menjalani hidup berintegritas <CLS> membuat semua bahagia <EOS>
+<BOS> Koruptor harus dilawan <CLS> korupsi harus diberantas <CONTENT> Belajarlah dari para pahlawan <CLS> jaga Integritas sampai tuntas <EOS>
+<BOS> Makan pagi sarapan ikan teri <CLS> pepaya mentah dicampur kopi <CONTENT> Mari terapkan nilai antikorupsi <CLS> supaya negeri ini bebas korupsi <EOS>
+<BOS> Senyum manis tersungging di pipi <CLS> bak pesona mawar di pagi hari <CONTENT> Semangat pagi pejuang antikorupsi <CLS> kuatkan integritas, beraksi sepenuh hati <EOS>
+<BOS> Membawa berkas jangan kehujanan <CLS> guyuran airnya meluluh lantakkan <CONTENT> Ayo budayakan nilai keberanian <CLS> dengan mempertahankan kebenaran <EOS>
+<BOS> Kalau ke Jogja lihatlah candi <CLS> sambil belanja kerajinan seni <CONTENT> Kalau ingin negeri bebas korupsi <CLS> ingat selalu terapkan sembilan nilai <EOS>
+<BOS> Hujan melanda kota Jakarta <CLS> angin topan berasa ngeri <CONTENT> Tuluskan jiwa iklas semata <CLS> luruskan hati pada kejujuran hakiki <EOS>
+<BOS> Durian Medan juara dalam selera <CLS> dibelikan bibi hadiah berprestasi <CONTENT> Jadikan diri agar bermakna berdaya <CLS> jadikan mandiri sebagai solusi <EOS>
+<BOS> Jalan berliku ke pasar pagi <CLS> jalan berbatu di pinggiran sungai <CONTENT> Jangan malu menyebarkan empati <CLS> jangan ragu membudayakan peduli <EOS>
+<BOS> Merdukan bernyanyi suara tifa <CLS> ceriakan bercanda mencari gembira <CONTENT> Berlakukan tindakan yang seharusnya <CLS> tentukan putusan yang nilai seadil-adilnya <EOS>
+<BOS> Pergi wisata jangan lupa bawa jajanan <CLS> menjadi senang hatipun kegirangan <CONTENT> Mari biasakan mengikuti kepatutan <CLS> sederhana dalam keseharian <EOS>
+<BOS> Bunga bergayut di pohon hutan <CLS> rona warnanya memberi keindahan <CONTENT> Karya berlanjut dalam kesungguhan <CLS> tanggungjawab berbuah kenyataan <EOS>
+<BOS> Membawa berkas jangan kehujanan <CLS> guyuran airnya meluluh lantakkan <CONTENT> Ayo budayakan nilai keberanian <CLS> dengan mempertahankan kebenaran <EOS>
+<BOS> Tak ada nasi makanlah sagu <CLS> dimakan juga si ubi talas <CONTENT> Hallo, para paksi sahabatku <CLS> yuk, terus jaga integritas <EOS>
+<BOS> Beli durian di pinang baris <CLS> enak dimakan beramai-ramai <CONTENT> Jangan lupa biasakan antri berbaris <CLS> agar hidup bisa berdamai <EOS>
+<BOS> Ada kudapan makan di lesehan <CLS> sambalnya pedas sambal terasi <CONTENT> Sembilan nilai harus diwujudkan <CLS> tuk bangun negeri tanpa korupsi <EOS>
+<BOS> Siapa bertanya dia menjawab <CLS> jangan sampai salah prediksi <CONTENT> Ini bentuk tanggung jawab <CLS> salah satu nilai antikorupsi <EOS>
+<BOS> Lihat anak sangat berbakat <CLS> bisa membuat terinspirasi <CONTENT> Tak lelah, tetap semangat <CLS> ayo tetap bersikap antikorupsi <EOS>
+<BOS> Makan sambel, pakai terasi <CLS> makin enak, ditambah santan <CONTENT> Berapa jumlah nilai antikorupsi <CLS> bener banget, ada sembilan <EOS>
+<BOS> Jalan-jalan ke pantai Sanur <CLS> jangan lupa mampir ke Bedugul <CONTENT> Berbudi pekerti Luhur <CLS> benteng tangguh generasi unggul <EOS>
+<BOS> Ingat si Kangmas, hati kangen rasanya <CLS> kudatangi dia naik sepeda motor <CONTENT> Jangan mengambil yang bukan haknya <CLS> agar kelak tak menjadi koruptor <EOS>
+<BOS> Nilai-nilai antikorupsi perlu aktualisasi <CLS> agar menjadi budaya kehidupan <CONTENT> Teruskan hidup dengan ber-antikorupsi <CLS> agar Indonesia semakin terdepan <EOS>
+<BOS> Kutitipkan rinduku pada angin <CLS> untuk yang jauh namun dekat di hati <CONTENT> Belajarlah hargai hak orang lain <CLS> agar kelak tidak korupsi <EOS>
+<BOS> Pergi ke Malioboro bersama saudara <CLS> asik dengan naik becak bermotor <CONTENT> Hai semua saudaraku se Indonesia Raya <CLS> jagalah dirimu jangan sampai menjadi koruptor <EOS>
+<BOS> Bersama orang tercinta naik sepeda <CLS> hati senang wajah pun cerah ceria <CONTENT> Tak salah mendamba hidup serba ada <CLS> jangan korupsi agar tidak celaka <EOS>
+<BOS> Sore hari waktunya liat televisi <CLS> jangan lupa liat sinetron <CONTENT> Ayuk terus kita berantas korupsi <CLS> jangan hanya jadi penonton <EOS>
+<BOS> Minum sirup belewah duduk di kursi <CLS> rasanya sirnakan dahaga <CONTENT> Buat apa hidup mewah dari korupsi <CLS> kelak malu diri dan keluarga <EOS>
+<BOS> Jangan bilang tidak bisa <CLS> bisa biasa tak pernah rugi <CONTENT> Ayuk mari kita bekerja sama <CLS> bareng-bareng berantas korupsi <EOS>
+<BOS> Cik Siti mudik ke Tembesi <CLS> memancing ikan dapat Tenggiri <CONTENT> Mari kita mencegah korupsi <CLS> walau godaan silih berganti <EOS>
+<BOS> Pagi pagi sarapan, nasinya basi <CLS> nasi basi dibuang di tempat kotor <CONTENT> Ayo kita semua bersama-sama berantas korupsi <CLS> supaya sel-sel penjaranya ramai dengan koruptor <EOS>
+<BOS> Pilkada langsung butuh integritas <CLS> pilih yang jujur, yang jujur dipilih <CONTENT> Ayo Kolaborasi dan libas tuntas <CLS> korupsi diberantas tanpa belas kasih <EOS>
+<BOS> Pejabat tinggi ada pula yang korupsi <CLS> tega gerogoti anggaran negeri <CONTENT> Agen AKSI harus terus membumi <CLS> cegah korupsi dari tikus berdasi <EOS>
+<BOS> Indonesia kaya akan budaya <CLS> adat dan bahasa beraneka rupa <CONTENT> Master penyuluh tunjukkan AKSI nyata <CLS> negeri tanpa korupsi adalah tujuannya <EOS>
+<BOS> Dari banyak pulau membentang <CLS> lahirkan generasi tanah pertiwi <CONTENT> Daya kami tak kan patah arang <CLS> dengan AKSI cegah korupsi <EOS>
+<BOS> Daun yang jatuh dipungut teman <CLS> dikumpulkan di plastik jadi hiasan <CONTENT> Para koruptor ayo kita lawan <CLS> tak layak hidup, jadi cacian <EOS>
+<BOS> Bersama kekasih jalani hari <CLS> berbunga-bunga rasa di hati <CONTENT> Tak pernah habis semangat ini <CLS> untuk berantas korupsi dari negeri <EOS>
+<BOS> Tahu bulat digoreng dadakan <CLS> harganya lima ratusan <CONTENT> Lawan korupsi tak bisa dihentikan <CLS> pantun korupsi perlawanan lisan <EOS>
+<BOS> Minum es alpukat sambil duduk santai di kursi <CLS> ditambah semangkuk puding sutera <CONTENT> Ayo terus semangat melawan korupsi <CLS> agar rakyat hidup makmur sejahtera <EOS>
+<BOS> Gadis cilik kini tumbuh dewasa <CLS> memakai gaun dari kain sutera <CONTENT> Lawan korupsi pantang putus asa <CLS> agar kita semua hidup sejahtera <EOS>
+<BOS> Gunung puncaknya tinggi <CLS> tertutup hutan belantara <CONTENT> Mari bersihkan negeri dari korupsi <CLS> agar rakyat bahagia dan sejahtera <EOS>
+<BOS> Pagi hari olah raga lari <CLS> istirahat sebentar duduk di kursi <CONTENT> Bersama kita membangun negeri <CLS> berani tolak gratifikasi <EOS>
+<BOS> Ungkapkan cerita lewat puisi <CLS> puisi ditulis di atas kertas <CONTENT> Para master yuk kita beraksi <CLS> dengan berbekal nilai Integritas <EOS>
+<BOS> Ikan gabus ikan teri <CLS> dimakan dengan sayur asam <CONTENT> Mari tumbuhkan antikorupsi <CLS> agar negeri yang subur tetap aman <EOS>
+<BOS> Bunga melati harum mewangi <CLS> semerbak meluas ke bumi ini <CONTENT> Ingin Indonesia bersih dari korupsi <CLS> ayo gabung segera beraksi <EOS>
+<BOS> Hendak kepasar beli terasi <CLS> jangan lupa beli lemari <CONTENT> Jika ingin Indonesia bersih dari korupsi <CLS> ayo gabung penyuluh antikorupsi <EOS>
+<BOS> Belok kiri ke Indonesia <CLS> belok kanan ke Amerika <CONTENT> Kita bisa menjadi bangsa berdaya <CLS> jika rakyatnya makmur sejahtera <EOS>
+<BOS> Duduk sila di atas sajadah <CLS> merenung lelaku selama usia <CONTENT> Korupsi bisa diberantas dengan mudah <CLS> asal kita lakukan bersama-sama <EOS>
+<BOS> Lampu merah tanda berhenti <CLS> lampu hijau waktunya jalan lagi <CONTENT> Buat apa kita korupsi <CLS> dosanya dibawa mati <EOS>
+<BOS> Naik bis patas ke Semanggi <CLS> bisnya melaju langsung meluncur <CONTENT> Jika integritas bangsa semakin tinggi <CLS> negara maju rakyatpun makmur <EOS>
+<BOS> Simpan mobil di garasi <CLS> kiranya sial lupa mengunci <CONTENT> Jangan ambil gratifikasi <CLS> karena awal dari korupsi <EOS>
+<BOS> Lemari kaca di dalam ruangan <CLS> menata pakaian rapi-rapi <CONTENT> Marilah kita bergandengan tangan <CLS> bersama menyuarakan antikorupsi <EOS>
+<BOS> Pergi ke Bandung membeli tas <CLS> berbekal nasi yang masih panas <CONTENT> Jadi pimpinan harus berintegritas <CLS> agar organisasi tetap berkualitas <EOS>
+<BOS> Pergi ke Jakarta makan bubur <CLS> beli gulali di pasar Bekasi <CONTENT> Jadi pemimpin harus jujur <CLS> menuju Indonesia bebas korupsi <EOS>
+<BOS> Abunawas mandi di sumur <CLS> sambil membawa roti di dalam tas <CONTENT> Jadikan Indonesia adil makmur <CLS> hentikan korupsi bangun integritas <EOS>
+<BOS> Jalan kaki sampai ke Medan <CLS> sepatu bola beli di Bekasi <CONTENT> Para PAK harus menjadi teladan <CLS> agar Indonesia bebas korupsi <EOS>
+<BOS> Ke kutub naik beruang <CLS> beruang lari naik taksi <CONTENT> Penyuluh antikorupsi terus berjuang <CLS> demi Indonesia bebas korupsi <EOS>
+<BOS> Berjalan-jalan di sepanjang tegalan <CLS> disengat matahari sampai berkeringat <CONTENT> Selamat pagi para master sekalian <CLS> semoga semua sehat dan semangat <EOS>
+<BOS> Jalan-jalan pagi di perkampungan <CLS> dari kejauhan terlihat kabut pekat <CONTENT> Selamat pagi master sekalian <CLS> semoga semua sehat dan semangat <EOS>
+<BOS> Nikmatnya pagi minum kopi pekat <CLS> ditemani cemilan dan perut terisi <CONTENT> Senang berjumpa para master hebat <CLS> kawan gelorakan antikorupsi <EOS>
+<BOS> Pagi lapar pengen makan nasi <CLS> nasi dibeli di warung mpok Nenah <CONTENT> Ayo kita terus lawan korupsi <CLS> biar hidup bisa amanah <EOS>
+<BOS> Duduk sila di atas sajadah <CLS> merenung lelaku selama usia <CONTENT> Korupsi bisa diberantas dengan mudah <CLS> asal kita lakukan bersama-sama <EOS>
+<BOS> Makan pisang minumnya selasih <CLS> pisangnya direbus di dapur bibi <CONTENT> Cukup sekian dan terima kasih <CLS> kebersamaan kita di pagi ini <EOS>
+<BOS> Dua jam kita bertemu dari tadi <CLS> waktu berlalu terus tak berhenti <CONTENT> Terima kasih para narasumber yang baik hati <CLS> semoga jadi amal jariyah di hari nanti <EOS>
+<BOS> Burung merpati terbangnya tinggi <CLS> burung dara dimasak dengan lada <CONTENT> Terima kasih ilmunya telah berbagi <CLS> sampai berjumpa di lain acara <EOS>
+<BOS> Biar segar minum es selasih <CLS> tidak ketinggalan makan kue putu <CONTENT> Demikian terima kasih <CLS> sampai jumpa di lain waktu <EOS>
+<BOS> Kota Ampenan kota tua <CLS> pelabuhan indah dipandang mata <CONTENT> Kesempatan ini kita bersua <CLS> pantang terlupa sepanjang usia <EOS>
+<BOS> Jalan-jalan pergi ke pantai <CLS> beli ketupat dimakan berempat <CONTENT> Capek lelah tidak terbeli <CLS> dengan ilmu yang bermanfaat <EOS>
+<BOS> Olahraga di sore hari <CLS> jangan lupa beristirahat <CONTENT> Materi ini sangat menarik sekali <CLS> mudah-mudahan selalu teringat <EOS>
+<BOS> Menikmati indahnya semesta <CLS> anugerah Yang Mahakuasa <CONTENT> Terima kasih para peserta <CLS> berkat Anda acara jadi luar biasa <EOS>
+<BOS> Mengagumi indahnya alam semesta <CLS> akui kebesaran Yang Mahakuasa <CONTENT> Berkat semangat Anda peserta <CLS> acara ini jadi luar biasa <EOS>
+<BOS> Sore-sore hujan gerimis <CLS> nikmatnya makan kue pukis <CONTENT> Jangan kendor tetap optimis <CLS> agar korupsi tetap terkikis <EOS>
+<BOS> Jalan-jalan ke pasar pagi <CLS> jangan lupa membeli ikan <CONTENT> Demikian materi kami sampai di sini <CLS> jika ada salah khilaf mohon dimaafkan <EOS>
+<BOS> Bermain pantun ada di sini <CLS> sambil ngemil keripik ubi <CONTENT> Saatnya kita tutup sesi ini <CLS> kalau ketemu tuntas rindu di sini <EOS>
+<BOS> Banyak ikan berenang di kali <CLS> bernama gurami dan ikan sepat <CONTENT> Indahnya kebersamaan hari ini <CLS> banyak pengetahuan yang didapat <EOS>
+<BOS> Master Reny pelihara burung Kenari <CLS> burung dijemur di ayunan <CONTENT> Workshop ini berakhir sampai di sini <CLS> salah kata mohon dimaafkan <EOS>
+<BOS> Sungguh indah mawar di taman <CLS> bisa dibawa untuk orang terkasih <CONTENT> Semoga materi menambah pengetahuan <CLS> saya ucapkan terima kasih <EOS>
+<BOS> Banyak belajar banyak yang didapat <CLS> bila kita bersungguh-sungguh hati <CONTENT> Semoga yang disampaikan bermanfaat <CLS> untuk bahan nanti kita berbagi <EOS>
+<BOS> Tak lihat adek abang resah <CLS> duduk melamun di bangku kursi <CONTENT> Jangan sedih walau berpisah <CLS> para master semua selalu di hati <EOS>
+<BOS> Kakak nakal jangan dibilang <CLS> mungkin alpa karena lupa <CONTENT> Walau jaringan selalu hilang <CLS> tetap semangat demi bangsa <EOS>
+<BOS> Hidup harus penuh dengan cita-cita <CLS> dicapai dengan perjuangan dan airmata <CONTENT> Sampai di sini pertemuan kita <CLS> kita akhiri dengan penuh sukacita <EOS>
+<BOS> Hari terik di pantai berkacamata <CLS> minumnya yang dingin es kelapa <CONTENT> Sampai di sini pertemuan kita <CLS> terima kasih dan sampai jumpa <EOS>
+<BOS> Jalan-jalan di taman melati <CLS> tak terasa matahari meninggi <CONTENT> Usai sudah kegiatan kita hari ini <CLS> sampai jumpa di esok pagi <EOS>
+<BOS> Siang hari cuaca panas nian <CLS> minum es degan enak rasanya <CONTENT> Terima kasih kami ucapkan <CLS> atas kehadiran semuanya <EOS>
+<BOS> Buah naga manis rasanya <CLS> buah semangka berat timbangannya <CONTENT> Sampai nanti di acara yang sama <CLS> dengan agenda yang lebih membahana <EOS>
+<BOS> Saat hujan terasa dingin <CLS> maka hindari jalan yang licin <CONTENT> Materi telah diikuti dengan disiplin <CLS> alhamdulillahirobbil alamiin <EOS>
+<BOS> Indahnya burung cendrawasih <CLS> serta bunga yang ada di taman <CONTENT> Demikian diucapkan terima kasih <CLS> sampai jumpa di lain kegiatan <EOS>
+<BOS> Apalah arti sebuah penyuluhan <CLS> jika tidak dilanjutkan dengan renaksi <CONTENT> Sebelum saya melakukan penutupan <CLS> ayo tetap semangat melawan korupsi <EOS>
+<BOS> Kalau hidup bukan sekedar hidup <CLS> maka cinta bukan sekedar cinta <CONTENT> Sebelum materi ini saya tutup <CLS> mohon maaf bila ada salah kata <EOS>
+<BOS> Lawan korupsi haruslah berani <CLS> berani juga harus dengan mandiri <CONTENT> Dengan berakhirnya paparan ini <CLS> mari kita berdiskusi terkait materi <EOS>
+<BOS> Antikorupsi menjadi indikator mutu <CLS> integritas harus selalu dirawat <CONTENT> Walau paparan ini dibatasi waktu <CLS> namun aksi berlanjut sepanjang hayat <EOS>
+<BOS> Indahnya alam pagi berseri <CLS> banyak burung bernyanyi lagu <CONTENT> Terima kasih para master disini <CLS> kita telah bersama berbagi ilmu <EOS>
+<BOS> Sungguh indah mawar di taman <CLS> bisa dibawa untuk orang terkasih <CONTENT> Semoga pembelajaran menyenangkan <CLS> Tak lupa ucapkan banyak terima kasih <EOS>
+<BOS> Banyak belajar banyak juga yang didapat <CLS> bila kita serius dan bersungguh-sungguh <CONTENT> Semoga apa-apa yang disampaikan bisa bermanfaat <CLS> saya tutup assalamualaikum warahmatullahi wa barakatuh <EOS>
+<BOS> Bermain pantun ada disini <CLS> Sambil ngemil keripik ubi <CONTENT> Saatnya kita tutup sesi ini <CLS> kalau ketemu tuntas rindu di sini <EOS>
+<BOS> Banyak ikan berenang di kali <CLS> bernama gurami dan ikan sepat <CONTENT> Indahnya kebersamaan hari ini <CLS> banyak pengetahuan yang didapat <EOS>
+<BOS> Sungguh indah mawar di taman <CLS> bisa dibawa untuk orang terkasih <CONTENT> Semoga materi menambah pengetahuan <CLS> saya ucapkan terima kasih <EOS>
+<BOS> Banyak belajar banyak yang didapat <CLS> bila kita bersungguh-sungguh hati <CONTENT> Semoga yang disampaikan bermanfaat <CLS> untuk bahan nanti kita berbagi <EOS>
+<BOS> Sakit demam sejak kemarin <CLS> sampai terasa sakit kepala <CONTENT> Terima kasih para hadirin <CLS> telah berkenan mendengarkan saya <EOS>
+<BOS> Siang hari ke tempat jahit Pak Kodir <CLS> tak lupa membawa peniti <CONTENT> Terima kasih sudah hadir <CLS> semoga ilmunya berkenan di hati <EOS>
+<BOS> Ke laut memancing ikan <CLS> perginya bersama kawan <CONTENT> Sekian ilmu yang dapat saya bagikan <CLS> terima kasih telah memperhatikan <EOS>
+<BOS> Bangun datar banyak bentuknya <CLS> salah satunya jajar genjang <CONTENT> Jangan takut bila ingin bertanya <CLS> sebab saya tidak makan orang <EOS>
+<BOS> Bunga mawar bunga melati <CLS> indah dipandang di pagi hari <CONTENT> Saya pamit undur diri <CLS> jika rindu panggil saya lagi <EOS>
+<BOS> Air pancuran segar rasanya <CLS> berwarna bening diminum bersih <CONTENT> Cukup sekian para master semua <CLS> teriring ucapan terima kasih <EOS>
+<BOS> Kalau makan jangan kekenyangan <CLS> nanti lupa semua teman <CONTENT> Terima kasih atas perhatian <CLS> mohon maaf atas kekhilafan <EOS>
+<BOS> Buah mangga dikeringkan <CLS> jadi rebutan sejadinya <CONTENT> Segala salah mohon dimaafkan <CLS> kita bertemu di waktu berikutnya <EOS>
+<BOS> Ada kuda memakai poni <CLS> Poninya indah tidak khawatir <CONTENT> Sekian acara hari ini <CLS> karena waktu sudah berakhir <EOS>
+<BOS> Indah nian bintang di angkasa <CLS> lewati bukit di Ciamis <CONTENT> Kegiatan ini luar biasa <CLS> sayangnya waktunya habis <EOS>
+<BOS> Wangi sedap mawar rupawan <CLS> di vas bunga dekat halaman <CONTENT> Terima kasih saya ucapkan <CLS> atas segala perhatian <EOS>
+<BOS> Burung merpati terbang meninggi <CLS> terbangnya sepasang seperti kekasih <CONTENT> Saya ucapkan sekali lagi <CLS> mohon maaf dan terima kasih <EOS>
+<BOS> Beli batik di Pekalongan <CLS> kainnya halus, cocok untuk kado mutasi <CONTENT> Jaga integritas, hindari benturan kepentingan <CLS> sucikan hati, tolak gratifikasi <EOS>
+<BOS> Beli bubur dikasih terasi <CLS> jangan lupa ditambah ikan <CONTENT> Saya penyuluh antikorupsi mohon diri <CLS> kalau ada yang salah mohon dimaafkan <EOS>
+<BOS> Pak Bajuri jualan madu <CLS> jangan lupa masukkan panci <CONTENT> Penyuluh antikorupsi bersatu padu <CLS> perkuat barisan lawan korupsi <EOS>
+<BOS> Ada polisi memakai dasi <CLS> di meja persegi mengetik kuitansi <CONTENT> Hari ini pendidikan antikorupsi <CLS> besok berjuang dalam sinergi <EOS>
+<BOS> Pak Bahuri makan roti <CLS> pergi ke masjid jalan kaki <CONTENT> Hari ini saya mohon diri <CLS> jabat erat cegah korupsi <EOS>
+<BOS> Pergi ke kantor membawa berkas <CLS> untuk menyusun data revisi <CONTENT> Penyuluh berjuang menjaga integritas <CLS> demi Indonesia tanpa korupsi <EOS>
+<BOS> Pandemi covid masih merebak <CLS> kenakan masker dan jauhi kerumunan <CONTENT> Saya mohon undur diri, Bu, Pak <CLS> bertemu lagi di lain kesempatan <EOS>
+<BOS> Makin berisi si butir padi <CLS> makin merunduk ia ke bawah <CONTENT> Mohon maaf atas khilaf diri <CLS> karena manusia tak luput dari salah <EOS>
+<BOS> Berpagi hari dengan syukur <CLS> atas segala nikmat dariNya <CONTENT> Tiba saatnya saya pamit mundur <CLS> terima kasih atas partisipasinya <EOS>
+<BOS> Indonesia negeri yang kucinta <CLS> walau korupsi masih merajalela <CONTENT> Mohon dimaafkan atas salah kata <CLS> tetap semangat dan jangan lupa bahagia <EOS>
+<BOS> Jalan-jalan ke Pantai Sentani <CLS> indahnya pasir akan ditemui <CONTENT> Jangan lupa makna materi <CLS> teriring doa dan salam kompetensi <EOS>
+<BOS> Tutuplah buku semai di meja <CLS> lipatlah baju seusai disetrika <CONTENT> Cukuplah waktu sampai di sini saja <CLS> sampai bertemu di waktu berkarya <EOS>
+<BOS> Ikan bakar sambelnya terasi <CLS> sayur asam lauknya ikan <CONTENT> Enak dimakan di siang hari <CLS> salah dan khilaf mohon dimaafkan <EOS>
+<BOS> Buah cempedak rasanya manis <CLS> dibeli dari Kota Balikpapan <CONTENT> Wahai peserta waktunya kita sudah habis <CLS> jumpa lagi di lain kesempatan <EOS>
+<BOS> Burung Jalak hinggap di kayu <CLS> makan unggas di waktu siang <CONTENT> Jika peserta seminar datang rindu <CLS> sebutlah namaku di hatimu sayang <EOS>
+<BOS> Pisang goreng enak rasanya <CLS> dijual di Pasar Batu <CONTENT> Mari kawan kita saling memaafkannya <CLS> jumpa lagi di lain waktu <EOS>
+<BOS> Mari kita wujudkan Integritas <CLS> perjuangan tanpa batas <CONTENT> Selamat jalan wahai peserta yang cerdas <CLS> libas koruptor, libatkan komunitas <EOS>
+<BOS> Rujak Aceh rujak kueni <CLS> enak dimakan dingin di siang hari <CONTENT> Karena waktu terbatas maka diklat sampai di sini <CLS> semoga besok kita bertemu di diklat lain lagi <EOS>
+<BOS> Di hutan jati banyak sekali pohon jati <CLS> kayu jati dicari untuk dibuat meja <CONTENT> Diklat sudah ujung acara ijinkan saya undur diri <CLS> Terima kasih para peserta semua atas partisipasinya <EOS>
+<BOS> Jalan-jalan di taman kota ini <CLS> bau harum bunga mawar melati <CONTENT> Ijinkan kami menutup acara ini <CLS> terima kasih sudah mengikuti diklat ini <EOS>
+<BOS> Biar segar minum es selasih <CLS> tidak ketinggalan makan kue putu <CONTENT> Demikian terima kasih <CLS> sampai jumpa di lain waktu <EOS>
+<BOS> Jalan-jalan pergi ke pantai <CLS> beli ketupat dimakan berempat <CONTENT> Capek lelah tidak terbeli <CLS> dengan ilmu yang bermanfaat <EOS>
+<BOS> Belanja sayur di pasar pagi <CLS> beli sawi hasil Bumi Jawa <CONTENT> Telah sehari sesi kita lalui <CLS> tiba waktunya kita jeda ishoma <EOS>
+<BOS> Olah raga di sore hari <CLS> jangan lupa beristirahat <CONTENT> Materi ini sangat menarik sekali <CLS> mudah mudahan selalu teringat <EOS>
+<BOS> Bagaimana mau ke pelaminan <CLS> kalau tidak punya kekasih <CONTENT> Acara cukup sampai sekian <CLS> saya haturkan terima kasih <EOS>
+<BOS> Jika kamu orangnya perhatian <CLS> tidak akan sulit mendapatkan kekasih <CONTENT> Dari kami cukup sekian <CLS> tak lupa menghaturkan banyak terima kasih <EOS>
+<BOS> Akulah rindu yang selalu hujan di hatimu <CLS> kamu yang kurindukan semoga bukan ilusi <CONTENT> Sampai jumpa untuk nanti kita bertemu <CLS> bertemu dalam gerakan antikorupsi <EOS>
+<BOS> Mari kita berantas korupsi <CLS> agar Indonesia menjadi hebat <CONTENT> Sekian sesi kita hari ini <CLS> semoga memberikan manfaat <EOS>
+<BOS> Master Reny pelihara burung Kenari <CLS> burung dijemur di ayunan <CONTENT> Workshop ini berakhir sampai di sini <CLS> salah kata mohon dimaafkan <EOS>
+<BOS> Jelang lebaran masak ketupat <CLS> dimakan bersama teman-teman <CONTENT> Kalau ada ilmu yang tersirat <CLS> mohon untuk segera diamalkan <EOS>
+<BOS> Pergi memancing ke Danau Toba <CLS> eh dapatnya malah ikan nila <CONTENT> Salam undur diri dari saya <CLS> terima kasih dan sampai jumpa <EOS>
+<BOS> Janda bolong lagi ngetren <CLS> dirawat seperti kekasih <CONTENT> Master..sungguh keren <CLS> izinkan saya ucapkan terima kasih <EOS>
+<BOS> Dari Banjar ke Klaten saja <CLS> naiknya Kereta Sanjaya <CONTENT> Materinya sungguh membahana <CLS> ilmunya sangat mempesona <EOS>
+<BOS> Ayam Bangkok dibawa ananda <CLS> hati khawatir tiada tara <CONTENT> Jangan risau master semua <CLS> ada fasil yang selalu setia <EOS>
+<BOS> Padang terbuka berangin kencang <CLS> membuat daun terbang ke awan <CONTENT> Jaga hidup selalu berimbang <CLS> agar bahagia bersama pasangan <EOS>
+<BOS> Bunga mawar tangkai berduri <CLS> bersemi indah di taman hati <CONTENT> Semangat bertahan di masa pandemi <CLS> patuhi protokol dan menjaga diri <EOS>
+<BOS> Tampak indah bintang kejora <CLS> di gelap malam setia menyala <CONTENT> meski pandemi di depan mata <CLS> tetap produktif dan selalu berdoa <EOS>
+<BOS> Senyum manis dara jelita <CLS> tebarkan pesona panah asmara <CONTENT> Di manapun kita berada <CLS> gelorakan cinta untuk negeri sejahtera <EOS>
+<BOS> Hutan jati banyak yang erosi <CLS> karena kolusi mengelola alih fungsi <CONTENT> Berdayakan nyali percaya diri <CLS> karena benar berani menghadapi <EOS>
+<BOS> Burung kenari indah warnanya <CLS> Suaranya enak juga rupanya <CONTENT> Nilai antikorupsi sembilan jumlahnya <CLS> Untuk dipahamkan para peserta <EOS>
+<BOS> Tiada guna menahan asa <CLS> jika tak segera berjumpa <CONTENT> Tujuh delik tindak pidana <CLS> gratifikasi salah satunya (... coba sebutkan lainnya) <EOS>
+<BOS> Walau masih ada corona <CLS> tetap semangat patuhi aturan <CONTENT> Untuk menyegarkan suasana <CLS> mari kita pantun berbalasan <EOS>
+<BOS> Baca buku cerita misteri <CLS> jangan lupa pakai kacamata <CONTENT> Saat lelah fokus materi <CLS> silakan master punya cerita <EOS>
+<BOS> Liat barongsai bikin girang <CLS> karena sambil makan getuk <CONTENT> Jangan melamun siang-siang <CLS> nanti bisa mengantuk <EOS>
+<BOS> Sore-sore hujan gerimis <CLS> nikmatnya makan kue pukis <CONTENT> Jangan kendor tetap optimis <CLS> agar korupsi tetap terkikis <EOS>
+<BOS> Minum susu pagi-pagi <CLS> makan roti di siang hari <CONTENT> Mari kita ikuti materi ini <CLS> agar kita mengerti bahaya korupsi <EOS>
+<BOS> Mari sambut cerah pagi hari ini <CLS> bersama terang terbitnya mentari <CONTENT> Perkenalkan saya yang akan menemani <CLS> pada sesi para penyuluh berkolaborasi <EOS>
+<BOS> Cantik sungguh bunga dahlia <CLS> walau dekat jangan disentuh <CONTENT> Selamat pagi para master semua <CLS> assalamualaikum warahmatullahi wa barakatuh <EOS>

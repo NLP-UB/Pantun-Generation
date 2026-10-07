@@ -1,0 +1,461 @@
+<BOS> Sore-sore hujan gerimis Pusat <CLS> Pergi ke hotel menunggu di lobbi Edukasupsi <CLS> nikmałnya makan kue Pukis Tidak sendiri berteman harian Pagi <CLS> Jangan kendor tetap optimis Perkenalkan (nama adalah saya <EOS>
+<BOS> Minum Susu <CLS> Pagi- Pagi <CLS> makan Roti <CLS> Siang Hari. <EOS>
+<BOS> mengerti bersama terang terbitnya mentari <CLS> bahaya korupsi I Perkenalkan say0 yan9 akan menemani <CLS> Pada sesi para penyuluh berkolaborasi <CLS> Cantik sungguh bunga dahlia <EOS>
+<BOS> valau dekat jangan di sentuh <CLS> Selamat Pagi Para master semua <CLS> Assalamualaikum Warahmatullahi <CLS> Wa Barakatuh <EOS>
+<BOS> PANTUN BERAKSI MELAWAN KORUPSI <CLS> 2022 Komunitas Penyantun Cakep <CLS> Desain Sampul: Muhammad Rafly <CLS> Tata Letak: Muhammad Rafly <EOS>
+<BOS> Ilustrator Isi: Khasanatur Rosyidah <CLS> llustrator Sampul: Khasanatur Rosyidah <CLS> Penyunting: Imran Laha & Gusti Maria Azzahra <CLS> Supervisi: <EOS>
+<BOS> Diterbitkan oleh: <CLS> Direktorat Diklat Antikorupsi <CLS> Deputi Bidang Pendidikan dan Peran Serta Masyarakat <CLS> Komisi Pemberantasan Korupsi <EOS>
+<BOS> Dari Warisan Nusantara Menjadi Warisan Dunia 1 <CLS> Pantun Meraih The Intangible Cultural Heritage 2021 <CLS> Pantun dan Tips Penyuluhan Antikorupsi di Indonesia, 7 <CLS> Berdampakkah? <EOS>
+<BOS> Kiat Praktis Merangkai Pantun Antikorupsi 13 <CLS> Berkenalan dengan Penyantun Cakep 17 <CLS> Pantun Pembuka 29 <CLS> Pantun Pengantar dan Terima Kasih 37 <EOS>
+<BOS> Prakała/Prolog <CLS> Daun keladi di pinggir telaga <CLS> tertimpa embun di pagi hari <CLS> Ijinkan kami mengantar sapa <EOS>
+<BOS> dengan salam semangat pagi <CLS> Seperti halnya karya sastra lain; pada dasarnya pantun- sebagai suatu karya sastra lisan; <CLS> juga membawa ekspresi olah rasa dalam pertalian, Yang tak cukup tersampaikan apabila <CLS> diutarakan dengan kata yang biasa. Dipandang sebagai suatu media, pantun nyatanya <EOS>
+<BOS> mencerminkan ke- dapat mengungkapkan dan menggambarkan keselarasan dalam harmoni kata Yang Dan <CLS> entah sejak kapan; pantun telah menjadi trademark atau tradisi dlam dunia penyuluhan 'sambungrasa-än dan keramahan dalam keberagaman makna: <CLS> antikorupsi. Nyatanya pantun hidup dan dihidupkan serta terus mengalir deras mewarnai <CLS> pada setiap ajang para penyuluh dan penggiat antikorupsi. <EOS>
+<BOS> Seiring berjalannya dinamika komunikasi dan teknologinya, media pantun ternyata termasuk pada misi edukasi dalam <CLS> dapat menjadi daya penguat dalam berbagai 'BeYvansfmasasi <CLS> mer mbangun negeri anti-korupsi; Pantun telah menjadi ikon wajib <CLS> pada setiap derap tahap pembelajaran yang sekaligus pantun sepertinya ikut berperan <EOS>
+<BOS> mewarnai penguatan dan pengayaan bagi learning process; learning output atau bahkan <CLS> hingga learning outcome. <CLS> bergeser menjadi Teairinf bargese karnjsaksłigusaenganaRe nergitan kata krnxa bermain ungkap kata belaka Remggknaanlaagaun kehilangan fungsi <CLS> dan maknanya; melainkan pantun dapat menguatkan makna ajar dalam harmoni nilai- <EOS>
+<BOS> nilai luhur bangsa: Pantun menjadi pengisi ruang yang kosong pada kalimat yang berjejer Dan pantun adalah <CLS> rapi. Pantun menjadi penggenap menuju kesempurnaan tampilan. <CLS> setia yang menemani pemiliknya. <CLS> Selamat berpantun dan selamat merasakan dinamika ekspresi keberagaman dalam <EOS>
+<BOS> Kała Penganłar <CLS> SEMANGAT PAGI!!! <CLS> Beli daun salam di pasar jumat <CLS> Kalau nasi jamblang pasar pagi <EOS>
+<BOS> Saya ulang sekali lagi. Jawab salamnya kurang semangat <CLS> Ini adalah pantun yang biasa saya sampaikan saat mengawali acara. Bisa saja audiens benar-benar tidak semangat meskipun sudah diberikan pantun yang menarik seperti di <CLS> atas; Itu bukan karena pantunnya tidak bagus; lebih karena pantun ini sudah bisa ditebak <CLS> sejak bait pertama. Apalagi bagi yang sudah sering mendengarkan saya menyampaikan <EOS>
+<BOS> Tak heran jika banyak yang menghafal pantun ini di luar kepala. Terlebih lagi; pantun ini <CLS> punya serangkaian pantun berikutnya; <CLS> Beli daun salam di pasar jumat <CLS> Pulangnya ketemu Raisa Jawab salamnya sudah semangat <EOS>
+<BOS> Semoga tidak terpaksa <CLS> Hal yang sama juga mungkin diawali para master Paksi lainnya saat mengawali acara Jjadi biasa <CLS> dengan pantun. Awalnya mempesona; tapi lama-lama <CLS> Bisa dibayangkan apa respon audiens ketika berulangkali bertemu dengan pantun yang <EOS>
+<BOS> sudah bisa ditebak; Sementara dalam memberikan penyuluhan; khususnya Pendidikan <CLS> antikorupsi; hal-hal yang mengikat audiens; fleksibel; menyenangkan; dan menghibur <CLS> penyuluh Perlu kreativitas tersendiri untuk hal ini. Para penyuluh harus mengkreasikan sangat diperlukan sebelum para peserta masuk ke materi yang lebih dalam. Tentu para <CLS> salam pembuka yang mengikat audiens, harus mengkreasikan sesuatu yang memecah <EOS>
+<BOS> merasa kebekuan; harus membangun situasi yang menyenangkan sehingga para pembelajar <CLS> belajar itu menyenangkan. <CLS> Nah, buku ini menyediakan banyak pantun pembuka; Penyuupenaecah kebekuan; pantun-pantun <CLS> menghibur yang cocok untuk digunakan para dalam memandu audiens. Dengan <EOS>
+<BOS> buku ini; setidaknya para penyuluh tidak mengulang pantun Yang sudah bisa ditebak. <CLS> Layaknya sebuah kamus yang menyediakan pelihan kata; buku iní hadir menyediakan <CLS> antikorupsi. Kita bisa memodifikasinya sesuai dengan konteks dan situasi di kelas. ragam pantun yang menarik dan tentu berkaitan dengan materi-materi pembelajaran <CLS> Setidaknya bisa memberikan ide dan inspirasi dalam berpantun. <EOS>
+<BOS> Tentu ini sangat membantu para penyuluh. <CLS> Saya berharap para master PAKSI untuk menyusun buku lanjutannya berdasarkan <CLS> pengalamannya berpantun dengan referensi buku ini. <CLS> Kita langsung saja, Ya: <EOS>
+<BOS> Beli buah duku di pasar jumat <CLS> Jangan lupa beli juga buah Pala <CLS> Bacalah buku ini sampai tamat <CLS> Agar pantunnya di luar kepala <EOS>
+<BOS> Dari Warisan Nusantara <CLS> Ke Warisan Dunia <CLS> pantun, Tbe Intangible <CLS> Culłural Heritage <EOS>
+<BOS> Penghujung tahun 2020 diwarnai dengan kabar membanggakan <CLS> bagi Indonesia yaitu ditetapkannya Pantun sebagai Warisan Budaya <CLS> Takbenda (the Intangible Cultural Heritage) oleh United Nations for <CLS> Educational Scientific and Cultural Organization (UNESCO) pada di <EOS>
+<BOS> Paris, Perancis pada 17 Desember 2020- Pengakuan internasional <CLS> terhadap Pantun menyusul Wayang (2008), Keris (2008) Batik <CLS> (2009) Pendidikan dan Pelatihan Batik (2009) Angklung (2010) <CLS> Tari Saman (2011) Noken tas rajut multifungsi Papua (2012) Tiga <EOS>
+<BOS> genre tari tradisional Bali (2015) Kapal Pinisi (2017) dan Pencak <CLS> Silat (2019) Ini kali pertama pengajuan nominasi bersama Indonesia <CLS> dan Malaysia, dua bangsa serumpun dengan kedekatan identitas, <CLS> budaya; dan tradisi Melayu. Segenap kolaborasi ikhtiar Pemerintah <EOS>
+<BOS> Pusat; pemerintah daerah-daerah, komunitas-komunitas pantun dan <CLS> LSM-LSM dalam proses dokumentasi; inventaris dan persiapan <CLS> pengajuan nominasi; akhirnya sukses memenuhi kriteria <CLS> agar Pantun masuk dalam Representative List of <EOS>
+<BOS> Wengaka Pantun mewpakan <CLS> Wauisan Budaua 7ak Benda? <CLS> Suatu budaya dikatakan sebagai warisan jika diturunkan dari generasi <CLS> terdahulu; dipelihara di masa sekarang, dan dilestarikan untuk generasi <EOS>
+<BOS> mendatang. UNESCO membagi tiga jenis warisan budaya yaitu: <CLS> 1 warisan budaya benda (tangible cultural) <CLS> seperti bangunan; monumen; koleksi buku; karya seni; <CLS> dan artifak <EOS>
+<BOS> 2 warisan alam (natural heritage) <CLS> seperti pemandangan alamllanskap mencirikan budaya <CLS> 3 warisan budaya takbenda (intangible cultural heritage) <CLS> ekspresi non fisik seperti tradisi lisan; seni; adat istiadat; <EOS>
+<BOS> pengetahuan dan kebiasaan perilaku lokal terkait alam; <CLS> kemahiran tradisional. <CLS> maka pantun termasuk jenis budaya tak benda. Karena sifatnya <CLS> yang abstrak, maka budaya tak benda akan mudah berlalu dan hilang <EOS>
+<BOS> ditelan waktu jika tak ada upaya untuk mewariskannya turun- temurun <CLS> secara kontinyu; termasuk menciptakan kreasi-kreasi untuk beradaptasi <CLS> dengan perubahan jaman: Demikian pula dengan Pantun, perlu dijaga <CLS> keberlangsungannya sebagai warisan budaya yang hidup (living cultural <EOS>
+<BOS> Bagaimana Pantun menjadi identitaa dan <CLS> tıadisi Qudaua Yelaqu? <CLS> Ciri khas syair Pantun ialah mengekspresikan pikiran dan perasaan yang rumit <CLS> dengan seni penyampaian bahasa kiasan yang halus dan tak langsung; melalui perulangan <EOS>
+<BOS> bunyi yang teratur dan terpola sehingga terdengar indah. Kekuatan Pantun tidak hanya <CLS> pada barisan katanya, namun pada feksistensinya sebagai representasi budaya; fungsi <CLS> sosial dan panduan moral masyarakat Melayu. Budaya Melayu ditampilkan melalui bahasa <CLS> yang indah, ekspresi kesantunan, nilai-nilai kebaikan dalam harmonisasi hubungan antar <EOS>
+<BOS> manusia maupun kecintaan terhadap alam semesta Syair yang seringkali menyentuh nilai- <CLS> nilai relijius ketenangan; rasa hormat; kebaikan dan kerendahan hati menjadi panduan <CLS> moral- Sebagai alat komunikasi sosial, Pantun dilantunkan dalam upacara ritual adat, <CLS> pernikahan, dan upacara resmi, dan festival budaya. Keindahan bahasa pantun kemudian <EOS>
+<BOS> menginspirasi orang untuk membawakannya dalam seni pertunjukan musik dan lagu; <CLS> tarian, drama tradisional, maupun dalam tulisan di televisi, media sosial maupun media <CLS> cetak. Tradisi Pantun sungguh memberikan ruang kreatifitas yang luas. <CLS> Pantun menjadi tradisi dan identitas budaya karena ada banyak pihak yang <EOS>
+<BOS> peduli, berkomitmen; dan mau mempraktikkannya. Praktisi Pantun diantaranya yaitu <CLS> pemantun (narator pantun) penyanyi Pantun, musisi tradisional; pemangku adat; praktisi <CLS> ritual, artis seni, dan komunitas-komunitas pantun yang tumbuh di kalangan orang Melayu <CLS> di Riau dan kepulauan Riau, masyarakat Betawi; Peranakan Tionghoa; Menado; Ambon, <EOS>
+<BOS> Ternate, Tidore, Minangkabau; Banjar; Sambas, dan Sintang: Merekalah yang mendorong <CLS> penyebaran Pantun Melayu hingga ke Sumatra (Minangkabau; Kampar; kaum Melayu di <CLS> Tanjung Pinang dan Lingga); Kalimantan (Banjar; Kutai); Sulawesi (Manado, Gorontalo; <CLS> Makassar); Maluku (Ambon; Ternate; Tidore); Jawa (Melayu Betawi, Peranakan Tionghoa). <EOS>
+<BOS> Baqaimana " radisi Pantun Dilestarikan? <CLS> Tradisi Pantun dipelihara melalui upaya-upaya inventaris, dokumentasi, <CLS> transmisi (penularan) dan edukasi. Pemerintah pusat dan daerah terus <CLS> melakukan inventarisasi Pantun; para Pemantun melakukan riset dokumentasi <EOS>
+<BOS> keragaman tradisi Pantun, merekam dan mempublikasikan pantun dalam video <CLS> dan buku-buku_ Disisi lain; transmisi Pantun diupayakan melalui beberapa jalur. <CLS> Pantun yang secara tradisional dinarasikan dalam upacara perkawinan; ritual <CLS> adat; selama proses penyembuhan, atau pertunjukan seni, ditularkan melalui <EOS>
+<BOS> kegiatan keseharian masyarakat sedangkan dalam komunitas adat pantun <CLS> diajarkan oleh para pemangku adat yang lebih tua kepada pemuda-pemuda <CLS> dan anak-anak pemagang: Sayangnya metode transmisi ini melemah seiring <CLS> perubahan sosial yang mengikis ritual-ritual lokal dan praktik-praktik adat <EOS>
+<BOS> acara resmi seminar; workshop juga pantun-pantun jenaka yang makin populer <CLS> mengisi sesi-sesi santai. Pantun pun mulai sering digunakan untuk menjual <CLS> produk-produk di televisi, radio, dan media cetak. <CLS> Upaya edukasi digencarkan melalui penyelenggaraan berbagai seminar <EOS>
+<BOS> dan workshop Pantun menjadikan Pantun sebagai media belajar di semua <CLS> tingkat pendidikan; dan pembuatan film dokumenter tradisi Pantun. Secara <CLS> informal, Pantun diajarkan melalui studio, radio, dan media sosial, yang <CLS> mendorong lahirnya komunitas - komuntas Pantun di media sosial. Festival dan <EOS>
+<BOS> penyebanran Qudaua <CLS> Pantun? What next? <CLS> Selama 500 tahun tradisi Pantun Akci <CLS> menyebar di sejumlah wilayah dengan <EOS>
+<BOS> komunitas Melayu di Asia Tenggara, membeıdayakan <CLS> terutama di Indonesia; Malaysia, <CLS> Brunei; Singapura dan Thailand. Dalam Pantun <CLS> berbagai bentuk, Pantun menjadi <EOS>
+<BOS> budaya bersama yang disampaikan Meraih pengakuan internasional <CLS> dalam 35 bahasa dan 30 dialek bukanlah capaian akhir. Justru ini <CLS> Melayu di Asia Tenggara. Di Indonesia titik baru komitmen bangsa untuk <CLS> sendiri ada jenis Panton (Aceh) semakin menguatkan eksistensi Pantun <EOS>
+<BOS> Umpasa (Batak), Pantun (Betawi) sebagai budaya anak negeri; Yang <CLS> Parikan (Jawa Timur) Kentrung (Jawa akan terus disaksikan oleh dunia. <CLS> Tengah) Kias (Lampung) Rancak Siapa yang terlibat; apa yang harus <CLS> (Jakarta) dan lainnya. Di tingkat lokal; dilakukan? Semua elemen masyarakat <EOS>
+<BOS> Pantun diwariskan antar generasi tanpa batasan usia; gender; <CLS> dalam berbagai cara Di tingkat profesi, sudah saatnya urun tangan <CLS> regional, festival-festival dan pertukaran memberdayakan pantun. Kompetensi <CLS> budaya merupakan wujud dialog antar berpantun bisa dibangun; jalur dan <EOS>
+<BOS> komunitas Pantun berbagai negara_ cara bisa dipilih; tinggal kepintaran <CLS> Mengejutkan bahwa di tingkat global memfungsikan pantun pada konteks <CLS> ternyata banyak syair-syair Pantun yang relevan. Pantun kekinian tidak <CLS> sudah diterjemahkan antara lain ke akan menghilangkan kesejatian pantun <EOS>
+<BOS> bahasa Belanda, Perancis, Italia, Czech, sebagai tradisi lisan dan ekspresi. <CLS> dan Mandarin, bahkan ditulis dalam Komitmen dan konsistensi aksi <CLS> bahasa Perancis dan bahasa Inggris, bersama akan melanggengkan Pantun <CLS> dan konon sudah disusun dalam lebih sebagai warisan nusantara maupn <EOS>
+<BOS> up,i Ann 1 Convention For The Safeguarding <CLS> Of The Intangible Cultural Heritage, <CLS> Fifteenth session; UNESCO Headquarters <CLS> 14-19 December 2020, Nomination File <EOS>
+<BOS> No_ 01613 for Inscription in 2020 on the <CLS> Representative List of the Intangible <CLS> Cultural Heritage of Humanity: <CLS> 2 Decision of the Intergovernmental <EOS>
+<BOS> Pantun dan Tips <CLS> Penyuluhan Antikorupsi <CLS> di inDoNesia; <CLS> Berdampakkah? <EOS>
+<BOS> Yenuuluh dengan Pantun <CLS> Saya meyakini setiap Penyuluh Antikorupsi (PAKSI) memiliki <CLS> rencana aksi selepas sertifikasi . Salah satunya adalah melakukan <CLS> penyuluhan: Namanya penyuluh apapun jenis penyuluhnya_pasti <EOS>
+<BOS> tugas utamanya dalah menyuluh. Menurut KBBI; penyuluhan berarti <CLS> (n) prosesı cara, perbuatan menyuluh. (n) penerangan dan (n) kI <CLS> pengintaian; penyelidikan. Saya melakukan sintesa dari beragam <CLS> pengertian para ahli tentang penyuluhan; bahwa penyuluhan itu <EOS>
+<BOS> adalah suatu usaha untuk menyebarluaskan sesuatu agar audiens <CLS> tertarikı berminat, mau, tahu dan melaksanakannya dalam <CLS> kehidupan sehari-hari. Seperti pembelajaran pada umumnya, tujuan <CLS> penyuluhan adalah terjadi perubahan perilaku. <EOS>
+<BOS> Untuk menuju ke arah perubahan perilaku tersebut tentu tidak <CLS> mudah: Hal ini karena berhubungan dengan banyak variabel lain <CLS> yang berkaitan misalnya lingkungan; dukungan, motivasi, nilai yang <CLS> diyakini, dan lain-lain. Salah satu faktor penting untuk perubahan <EOS>
+<BOS> perilaku adalah penyuluhan yang berdampak. Tentu perlu usaha <CLS> keras agar penyuluhan dapat mencapai hasil (output maupun <CLS> outcome) tertentu. <CLS> Penyuluh Antikorupsi harus merumuskan, melakukan pemilihan <EOS>
+<BOS> dan menetapan metode dan langkah-langkah pembelajaran Yang <CLS> interaktif sesuai dengan tujuan, materi; dan kelompok sasaran. <CLS> Sebagai PAKSI, insting untuk mengoptimalkan semua perangkat <CLS> penyuluhan; berupa media dan metode yang tepat untuk materi <EOS>
+<BOS> Yang tepat; akan sangat dibutuhkan. Penggunaan 3M (materi, <CLS> media dan metode) penyuluhan akan memengaruhi pencapaian hasil <CLS> penyuluhan: <CLS> Penyuluhan akan berhasil jika penyuluh dapat menyiasati <EOS>
+<BOS> semua hal yang terkait dengan penyuluhan; termasuk melakukan <CLS> inovasi dan kreatifitas untuk menunjang kegiatan penyuluhan itu <CLS> sendiri. Salah satu kreatifitas yang dapat dilakukan adalah dengan <CLS> menciptakan strategi penyuluhan yang tepat. Strategi ini melukiskan <EOS>
+<BOS> Salah satu teknik yang dapat diterapkan pada penyuluhan agar <CLS> berdampak adalah menggunakan pantun. Penggunaan pantun sudah <CLS> dikenal luas di Indonesia bahkan mancanegara. Bentuk karya sastra <CLS> ini berkembang di masyarakat dan dipergunakan secara luas. Bukan <EOS>
+<BOS> hanya pada momen-momen kultural tertentu; namun juga pada <CLS> berbagai kesempatan termasuk saat penyuluhan. <CLS> Awalnya pantun memang digunakan untuk menyampaikan suatu <CLS> maksud tertentu atau ide dalam bentuk kiasan atau sindiran. <EOS>
+<BOS> Belakangan penggunaannya meluas untuk berbagai kepentingan: <CLS> Pantun menjadi wujud interaksi sosial Yang menentukan kualitas <CLS> penyuluhan. Penyuluh Antikorupsi tanpa pantun ibarat sayur tanpa <CLS> garam. Hambar. <EOS>
+<BOS> Manfaat Menyuluh dengan Pantan <CLS> 1. Pantun sebagai media komunikasi <CLS> Komunikasi merupakan proses interaksi antara pihak pertama <CLS> penyuluh /komunikator dengan pihak kedual peserta penyuluhan/ komunikan <EOS>
+<BOS> menghubungkan antara dua pihak dalam komunikasi. Untuk mencapai komunikasi <CLS> yang efektif harus ada umpan balikl feed back <CLS> dari komunikan. Umpan balik ini bisa berupa <CLS> komentar; bahasa tubuh (senyuman; tepuk <EOS>
+<BOS> tangan gerakan tubuh dll.); pernyataan; <CLS> pertanyaan dan sebagainya yang diungkapkan <CLS> oleh komunikan. <CLS> 2. Pantun memudahkan pemahaman <EOS>
+<BOS> materi penyuluhan <CLS> Materi penyuluhan antikorupsi terdiri dari materi dasar dan materi lanjutan. <CLS> Terdapat materi yang mudah disampaikan dengan tingkat kesulitan yang rendah; <CLS> namun terdapat materi yang perlu pendalaman <EOS>
+<BOS> dengan tingkat kesulitan penyampaian materi yang <CLS> tinggi. Untuk hal-hal seperti ini, maka pantun bisa <CLS> menjadi alternatif strategi penyampaian materi <CLS> agar bisa lebih mudah diterima kelompok sasaran _ <EOS>
+<BOS> menggunakan konsep pembawa acara; moderator dan narasumber; maka akan <CLS> ada sesi-sesi oleh masing-masing pihak. <CLS> Pantun dapat digunakan pada berbagai situasi dan konsep <CLS> penyuluhan tersebut sehingga ada pantun untuk <EOS>
+<BOS> pembukaan; pantun perkenalan, pantun untuk <CLS> mengantarkan narasumber; pantun penutup; pantun <CLS> filler; dan sebagainya. Karena letaknya yang <CLS> fleksibel, maka pantun bisa ditemukan pada <EOS>
+<BOS> berbagai sesi penyuluhan dari awal sampai akhir. <CLS> 4. Pantun sebagai ice breaking <CLS> Penyuluhan antikorupsi tentu harus memiliki citra positif melalui konsep <CLS> penyuluhan yang interaktif efektif; menarik namun tetap berdampak. Untuk <EOS>
+<BOS> mewujudkan hal tersebut; penyuluhan menggunakan <CLS> beragam media dan metode penyuluhan: Di sela-sela <CLS> pemaparan materi; pantun dihadirkan untuk membuat <CLS> suasana penyuluhan menjadi lebih cair. Penyuluh dapat <EOS>
+<BOS> menghidupkan suasana penyuluhan melalui pantun. <CLS> Situasi ceria dan menyenangkan dapat diwujudkan <CLS> melalui pantun-pantun jenaka; pantun tebak-tebakan, <CLS> pun pantun substansi materi dan sebagainya. <EOS>
+<BOS> Vuk Bevantun <CLS> Mengingat beberapa manfaat pantun di atas, maka seorang <CLS> penyuluh Antikorupsi diharapkan memiliki keterampilan untuk <CLS> membuat; menyampaikan; dan menyajikan pantun yang tepat <EOS>
+<BOS> kepada audiensnya. Pantun bukan hanya salah satu jenis karya <CLS> sastra, tetapi pantun dapat dijadikan sebagai salah satu tips <CLS> penyuluhan. Interaksi antara penyuluh dan peserta penyuluhan yang <CLS> erat dapat terjalin melalui pantun:. <EOS>
+<BOS> Tujuan penyuluhan adalah terjadinya perubahan ke arah yang <CLS> lebih, misalnya perubahan perilaku dari yang tidak baik menjadi <CLS> baik, dari baik menjadi lebih baik. Di samping mengandung <CLS> keindahan karya sastra berupa pantun memiliki nilai manfaat bagi <EOS>
+<BOS> pendengarnya. Dengan nilai manfaat itulah diharapkan perubahan <CLS> perilaku dapat terjadi. <CLS> Pantun dapat menjadi sarana untuk menyampaikan sindiran; <CLS> gurauan, nasihat, wawasanı dan lain-lain. Bahasa yang terkandung <EOS>
+<BOS> dalam pantun menunjukkan kepiawaian seseorang Orang yang <CLS> bijak menggunakan bahasa kias dalam pantun bisa dikatakan orang <CLS> itu orang bijak pula. Seberapa bijaknya master? Tunjukkan bahwa <CLS> master piawai menggunakan pantun dalam penyuluhan antikorupsi <EOS>
+<BOS> = Anłikorupsi <CLS> Muflih Fathoniawan <CLS> PAK 915.1.00216 2019 <CLS> PANTuN PanTun <EOS>
+<BOS> Buat Pantun itu Wludah <CLS> Pada dasarnya untuk membuat pantun sangat mudah Tidak perlu <CLS> sertifikasi dan kompetensi tertentu agar seseorang dapat membuat pantun. <CLS> Tips yang disampaikan master Rofie Hariyanto adalah cukup dengan percaya <EOS>
+<BOS> diri. Modal ini penting agar pesan yang akan disampaikan melalui rima kata <CLS> yang indah_ Menurutnya; yang tak kalah penting dari isi pantun sebenarnya <CLS> adalah keceriaan dan semangat saat menyampaikannya . Pendengar akan <CLS> terbius dengan rima kata yang indah dan sangat menarik sehingga menjadi <EOS>
+<BOS> salah satu alternatif membuka penyuluhan antikorupsi. <CLS> 7eutukan ema <CLS> Proses merangkai pantun pun sangat mudah. Namun; kita <CLS> perlu tahu garis besar karakteristik pantun sebagai berikut <EOS>
+<BOS> 1. Pantun terdiri dari satu bait terdiri dari empat baris. <CLS> 2 Pada umumnya bersajak atau berima a-b-a-b. <CLS> 3 Baris 1 dan 2 disebut dengan sampiran <CLS> 4 Baris 3 dan 4 disebut isi atau pesan yang ingin <EOS>
+<BOS> disampaikan. <CLS> Setelah mengetahui karakteristik <CLS> pantun, maka kita bisa mulai berlatih <CLS> menyusun pantun. Tentu langkah- <EOS>
+<BOS> langkahnya cukup mudah dan sederhana. <CLS> Pertama tentukan tema pantun yang <CLS> akan dibuat. Misalkan tema pantun <CLS> jenaka; pantun pendidikan atau pantun Rp Anti <EOS>
+<BOS> muda-mudi. Kemudian tentukan tujuan Kokupsi <CLS> penggunaan pantun tersebut Misalkan <CLS> untuk membuka kegiatan penyuluhan; <CLS> untuk menyapa peserta penyuluhan, <EOS>
+<BOS> untuk menyampaikan semangat <CLS> perlawanan terhadap korupsi, untuk <CLS> menutup kegiatan dan salam penutup, <CLS> serta tujuan-tujuan pantun yang lain. <EOS>
+<BOS> Susun 'Kalimat <CLS> Setelah jelas tema dan tujuan pantun Yang akan kita buat, maka kita <CLS> bisa memulai menyusun kalimat pada baris tiga dan empat terlebih dahulu. <CLS> Dua baris akhir ini yang akan menjadi inti pesan yang akan disampaikan. <EOS>
+<BOS> Saat menyusun baris ketiga, pilih diksi kata yang berima a di akhir <CLS> kalimatnya: Begitupun dengan baris keempat; diberi rima b pada akhir <CLS> kalimatnya. Setelahnya kita tinggal membuat kalimat sampiran pada baris <CLS> pertama dan kedua. <EOS>
+<BOS> Pada baris pertama dan kedua ini memang bukan inti pesan, namun <CLS> sampiran ini tak kalah penting dalam sebuah pantun. Sampiran pantun <CLS> akan menciptakan kesan menarik; sehingga mampu membuat pendengar <CLS> antusias menunggu isi pesannya Sampiran pantun juga sebagai kalimat awal <EOS>
+<BOS> pembentuk rima; sehingga membuat pendengar antusias menantikan rima <CLS> kata Yang indah- <CLS> Yemikikan Rima <CLS> Dalam menyusun rima kata pada sampiran, perlu juga ditentukan kalimat <EOS>
+<BOS> yang disusun bertema jenaka, atau terkait dengan situasi dan kondisi saat <CLS> menyampaikan pantun; atau terkait kejadian dan peristiwa terkini atau <CLS> yang sedang hits saat itu_ Tentu, karena letaknya di awal pantun; maka <CLS> pilihan kata dan susunan kalimat Yang sangat menarik bahkan unik akan <EOS>
+<BOS> mengundang perhatian pendengarnya. Kondisi ini juga sangat didukung <CLS> dengan gaya penyampaian sampiran yang semangat dan penuh ceria <CLS> Proses menentukan rima juga menjadi tantangan <CLS> tersendiri. Master Sahlan Ramadhan membagikan <EOS>
+<BOS> kiatnya mendapatkan diksi kata yang pas dalam <CLS> membuat pantun. Menurutnya perbanyak membaca <CLS> salah satu cara kosakata yang dimiliki manusia <CLS> bertambah. Kosakata yang semakin banyak dimiliki , <EOS>
+<BOS> Dalam kondisi yang mendadak untuk berpantun; Master Rofie <CLS> membagikan trik mencari akhiran suku kata yang pas untuk membuat <CLS> rima yang indah. la mengungkapkan bahwa memanfaatkan teknologi <CLS> merupakan kunci suksesnya membuat pantun dalam waktu singkat. <EOS>
+<BOS> Langkahnya, tentukan akhiran suku kata yang akan kita gunakan: <CLS> Kemudian sang pembuat pantun dapat menuju mesin pencarian <CLS> misalkan Google dan mengetikkan keyword "akhiran kata <CLS> 1l Cood{"u <EOS>
+<BOS> Cara tersebut cukup ampuh jika diminta membuat pantun dalam <CLS> waktu singkat. Selain itu, kita juga dapat cara cepat untuk mencari <CLS> rima Yang tepat dengan menggunakan perangkat pada website <CLS> rimakata.com_ Dengan perangkat ini, kita tinggal memasukkan kata <EOS>
+<BOS> Apabila baris satu hingga keempat telah tersusun; maka coba <CLS> dibaca dahulu sebelum dibacakan. Sembari kita rasakan kembali untuk <CLS> memastikan pelafalan yang tepat agar nyaman didengar Kemudian saat <CLS> membaca pantun, harus tepat agar nyaman didengar. <EOS>
+<BOS> penyuluhan. <CLS> Berawal dari ide untuk membukukan pantun-pantun <CLS> antikorupsi yang selama ini sering dipakai dalam <CLS> kegiatan; maka berkumpullah beberapa orang sebagai <EOS>
+<BOS> inisiator untuk membuat buku kumpulan pantun <CLS> antikorupsi. <CLS> Komunitas ini diinisiasi Desember 2021 dan terus <CLS> mengembangkan komunitas sehingga mendapat <EOS>
+<BOS> Berbalas pantun alangkah indahnya <CLS> Tradisi nusantara kita lestarikan <CLS> Nama saya Lisa dari Jakarta <CLS> Salam kenal mas mba sekalian <EOS>
+<BOS> Lisa Nazifah <CLS> PAK. 915.1.00061 2018 <CLS> Buah Jambu Buah Mangga <CLS> Dibuat Rujak Makan Bersama <EOS>
+<BOS> Perkenalkan Nama Saya Rika <CLS> Penyuluh Antikorupsi Jenjang Muda <CLS> Rika Sa'diyah <CLS> PAK 915.1.00080.2018 <EOS>
+<BOS> Ke Madura pingin makan Soto <CLS> Suramadu lancar tapi rame <CLS> Saya; Aryani Soenarto <CLS> Yang biasa dipanggil Ade <EOS>
+<BOS> Aryani Soenarto <CLS> PAK 915.1.00304 2019 <CLS> Satu dua tiga delapan <CLS> Beli ayam harga seringgit <EOS>
+<BOS> Kalau mau kita berkawan <CLS> Panggil saja aku Khamid <CLS> Khamid Istakhori <CLS> PAK 915.1.00235 2020 <EOS>
+<BOS> Pahlawan perempuan bernama RA Kartini <CLS> Lahir dan besar di Kabupaten Jepara <CLS> Perkenalkan nama saya Reny <CLS> Izin bergabung bersama para Master dari seluruh Nusantara <EOS>
+<BOS> Reny Andriany <CLS> PAK 915.2.00008 2021 <CLS> Jalan jalan ke kota Surabaya <CLS> Jangan lupa lontong balapnya <EOS>
+<BOS> PAK 915.1.00360 2019 <CLS> Menulis pendapat dalam opini; <CLS> untuk memberikan edukasi. <CLS> Perkenalkan saya Thoni, <EOS>
+<BOS> salam antikorupsi <CLS> Muflih Fathoniawan <CLS> PAK 915.1.00216 2019 <CLS> Senang hati melihat Bunga mawar bunga melati <EOS>
+<BOS> Semilir angin membuat bunga bergoyan <CLS> Perkenalkan saya lin purwanti <CLS> Salam cinta dan kasih sayang <CLS> lin Purwanti <EOS>
+<BOS> covid 19 akan tetap ada <CLS> dari pandemi akan menjadi endemi <CLS> salam kenal Indonesia <CLS> saya dina indriyanti; penyuluh antikorupsi <EOS>
+<BOS> Dr. Dina Indriyanti, MKM <CLS> PAK 915.1.000068 2021 <CLS> Dari raja Ampat ke Senggigi, <CLS> Memandang Bunga Lili Berwarna Merah Harum Mewangi, <EOS>
+<BOS> PAK 915.1.00344 2019 <CLS> Kebenaran hakiki harus dibela <CLS> agar hidup tidak sia-sia. <CLS> Perkenalkan nama saya Jamila <EOS>
+<BOS> dari Yogyakarta untuk Indonesia. <CLS> Jamila Lestyowati <CLS> PAK 915.2.000004 2019 <CLS> Ayo kita berlibur ke Surabaya <EOS>
+<BOS> Memetik harpa bergaung lagu <CLS> Menata huruf jadi bait puisi <CLS> Selamat berjumpa wahai kawanku <CLS> Kenalkan saya yusuf yang baik hati <EOS>
+<BOS> Yusuf Kurniadi <CLS> PAK 915.1.00042 2019 <CLS> Kuda sumbawa kencang berlari <CLS> kasuari papua pandai menari. <EOS>
+<BOS> Saya arifin perkenalkan diri <CLS> siap beraksi ber pantun antikorupsi <CLS> M. Fatchul Arifin <CLS> PAK 915.1.00144 2018 <EOS>
+<BOS> Jalan jalan ke Samarinda <CLS> Singgah sebentar di Balik papan <CLS> Perkenalkan saya Diana <CLS> PAKSI asal Kota Tarakan <EOS>
+<BOS> Mardiana Arsjad <CLS> PAK 915.1.000445 2019 <CLS> Pergi Menyuluh Anti Korupsi <CLS> Jangan Lupa Memakai Rompi <EOS>
+<BOS> Perkenalkan Saya Sipemikat Hati <CLS> Imbangan Putra Rifai <CLS> Imbangan Putra Rifai <CLS> PAK 915.1.00376 2019 <EOS>
+<BOS> Kicau burung-burung di pagi hari <CLS> Lantunkan indahnya harmonisasi <CLS> Perkenalkan saya Asri <CLS> Bagimu negeri kuteguhkan antikorupsi <EOS>
+<BOS> Asriana Issa Sofia <CLS> PAK 915.2.00001 2021 <CLS> jalan-jalan ke Sumatera <CLS> jangan Iupa singgah di Medan <EOS>
+<BOS> salam kenal saya Ainun Mardhiah <CLS> salam sayang dari kota durian <CLS> Ainun Mardhiah A.Md.,M.Pd <CLS> PAK 915.1.00074 2019 <EOS>
+<BOS> Indonesia bangsa yang besar <CLS> Rakyatnya ramah bukan basa basi <CLS> Perkenalkan saya liz dari Makassar <CLS> Yang selalu siap beraksi lawan korupsi <EOS>
+<BOS> Azizah Nuur Utami <CLS> PAK 915.1.00329 2019 <CLS> Ikan Hiu makan tomat; <CLS> perkenalkan saya m3.- <EOS>
+<BOS> Indonesia penuh pesona keindahan, <CLS> Beraneka rupa budaya dan tradisi, <CLS> Perkenalkan saya master intan, <CLS> Salam integritas dan Antikorupsi. <EOS>
+<BOS> Intan Hestika Dhesi Ariani <CLS> PAK 915.2.0003 2021 <CLS> Mari hindarkan dan cegah budaya mencuri <CLS> Demi Indonesia bebas dari korupsi <EOS>
+<BOS> Perkenalkan saya Indah Puspita Sari <CLS> Salam antikorupsi! <CLS> Indah Puspita Sari <CLS> PAK 915.0.00007 2022 <EOS>
+<BOS> Bunga Sekuntum bukan kabar angin <CLS> Buluh berisi kue serabi <CLS> Assalamualaikum kenalkan saya zulkarnain <CLS> Penyuluh antikorupsi provinsi jambi <EOS>
+<BOS> Zulkarnain <CLS> PAK 915.1.00254 2020 <CLS> Jalan-jalan ke Jakarta, <CLS> Mampir ke Kota Bekasi , <EOS>
+<BOS> Perkenalkan nama saya Wayan Nurata, <CLS> Sebagai Koordinator Paksi Bali. <CLS> Wayan Nurata, SE, MSi, QIA <CLS> PAK 915.1.00319 2019 <EOS>
+<BOS> Gadis cantik menjajakan kue di tenong berjalan kaki <CLS> Kue laris terjual dompet pun penuh terisi <CLS> Perkenalkan saya Nenong Fauziah Dasuki <CLS> Dengan pantun kita membangun semangat antikorups <EOS>
+<BOS> Nenong Fauziah Dasuki <CLS> PAK 915.1.00313 2019 <CLS> Jalan jalan kesukabumi <CLS> hendak pentas dikedai kopi <EOS>
+<BOS> Kenalkan saya salmi <CLS> mari Memberantas Korupsi <CLS> Salmi supriatin <CLS> PAK 915.1.00076 2018 <EOS>
+<BOS> Bunga mawar bunga melati <CLS> Daunny hijao segar sekali <CLS> Perkenankan saya memperkenalkan diri <CLS> Saya moyo penyuluh antikorupsi <EOS>
+<BOS> SriMoyo Nurhayati <CLS> PAK 915.1.00056 2019 <CLS> Jalan ke pantai pakai kacamata <CLS> Kalau berenang pakai penampungan <EOS>
+<BOS> PAK 915.1.00072 2021 <CLS> Dimalam hari Terang rembulan: <CLS> Duduk manis di sepan Kantor._ <CLS> Wahai PAKSI yang memang jempolan. <EOS>
+<BOS> Lanjukan Perjuangan brantas Koruptor <CLS> Pergi memancing di pagi hari._ <CLS> Ikan dipancing dapatnya aligator. <CLS> Mari PAKSI berjuang sepenuh hati. <EOS>
+<BOS> Ikut undian dapatkan hadiah <CLS> Hadiah istimewa mobil limosin <CLS> Perkenalkan nama saya rofiah <CLS> Penyuluh antikorupsi dari Banjarmasin <EOS>
+<BOS> Makan sambal pakai terasi <CLS> Perut kenyang datangkan inspirasi <CLS> Mari bersama meningkatkan kompetensi. <CLS> Untuk menjadi penyuluh antikorupsi <EOS>
+<BOS> Rofiah, S.Sos, M.Cs <CLS> PAK 915.1.00109 2018 <CLS> Hp menjadikan orang makin mager; <CLS> tinggal pencet apa saja sudah ada. <EOS>
+<BOS> Saya imam dari kementerian naker; <CLS> tugas saya sebagai widyaiswara. <CLS> Imam Syafi'i <CLS> PAK 915.1.00014 2018 <EOS>
+<BOS> Marilah kita jalin persahabatan, <CLS> Satukan tujuan; korupsi kita berantas! <CLS> Perkenalkan nama saya Sahlan; <CLS> Satu Aksi kita bangun; salam integritas! <EOS>
+<BOS> Muhammad Sahlan Ramadhan Solichin <CLS> PAK 915.2.00007 2021 <CLS> Pagi-pagi sarapan bubur kacang ijo. <CLS> Lebih enak ditambah roti. <EOS>
+<BOS> Perkenalkan saya, Master Jo_ <CLS> Salam antikorupsi. <CLS> Pagi-pagi sarapan bubur kacang ijo. <CLS> Lebih enak ditambah roti. <EOS>
+<BOS> Perkenalkan saya, Master Jo_ <CLS> Salam antikorupsi. <CLS> Johana Lanjar Wibowo <CLS> PAK 915.1.00002 2021 <EOS>
+<BOS> Satu ditambah sepuluh; sama dengan sebelas <CLS> satu ditambah satu ,sama dengan dua <CLS> Salam kenal, saya rizki wibias <CLS> mari berantas korupsi bersama-sama <EOS>
+<BOS> Rizki Wibias Anwar Maulida <CLS> PAK 915.1.00093 2018 <CLS> Kita harus menjalin chemistry <CLS> agar bisa berkolaborasi <EOS>
+<BOS> Perkenalkan saya Sandri <CLS> Salam antikorupsi <CLS> Sandri Justiana <CLS> PAK 915.3.00010 2017 <EOS>
+<BOS> Janji manis didalam hati. <CLS> pagi pagi masak Nasi. <CLS> Saya Retno Indrawati. <CLS> maju bersama lawan korupsi. <EOS>
+<BOS> Retno Indrawati <CLS> PAK 915.1.000298 2019 <CLS> Jalan-jalan keliling Asia <CLS> Sambil liburan belajar toleransi <EOS>
+<BOS> Perkenalkan saya Luthfia <CLS> Seorang Penyuluh Antikorupsi <CLS> Luthfia Zein Pettarani <CLS> PAK 915.2.00005 2021 <EOS>
+<BOS> Mari sambut cerah pagi hari ini <CLS> bersama terang terbitnya mentari. <CLS> Perkenalkan saya yang akan menemani <CLS> pada sesi para penyuluh berkolaborasi. <EOS>
+<BOS> Cantik sungguh bunga dahlia <CLS> walau dekat jangan disentuh. <CLS> Selamat pagi para master semua <CLS> assalamualaikum warahmatullahi wa barakatuh <EOS>
+<BOS> Ainun Mardhiah <CLS> PAK 915.1.00074 2019 <CLS> Mari bersama tegakkan hukum <CLS> mari patuhi untuk ketertiban. <EOS>
+<BOS> Saya ucapkan assalamu'aikum <CLS> semoga kita dalam keselamatan:. <CLS> Ingatlah pesan nasihat orang tua <CLS> saling menyayangi dengan saudara. <EOS>
+<BOS> Salam kasih sayang untuk kita semua <CLS> semoga Indonesia segera sejahtera. <CLS> Teruslah berbagi dalam peduli <CLS> bangunlah simpati menuju empati. <EOS>
+<BOS> Ayo kita bersama memulai <CLS> dengan awali Semangat Pagi. <CLS> Ingatlah pesan nasihat orang tua <CLS> saling menyayangi dengan saudara. <EOS>
+<BOS> Salam kasih sayang untuk kita semua <CLS> semoga Indonesia segera sejahtera. <CLS> Tabah dan sabar <CLS> melawan korupsi! tetap bersyukur; telaten dan berjayal. <EOS>
+<BOS> Hai Master; apa kabar? <CLS> master siap beraksi! Jujur Kompeten Berdaya <CLS> M_ Sahlan Ramadhan Solichin <CLS> PAK 915.2.00007 2021 <EOS>
+<BOS> Tak ada nasi makanlah sagu <CLS> enak dinikmati bersama ubi talas. <CLS> Ayo sahabat penyuluh semua bersatu <CLS> dengan berdaya dan menjaga integritas. <EOS>
+<BOS> Pergi ke pulau nikmati pantai <CLS> pasirnya indah berwarna-warni. <CLS> Mari bertekad membangun kompetensi <CLS> untuk menjadi penyuluh antikorupsi. <EOS>
+<BOS> Budaya antikorupsi harus digelorakan <CLS> dengan menaati hukum secara utuh. <CLS> Salam pembuka saya haturkan <CLS> assalamualaikum warrahmatullahi wabarakatuh. <EOS>
+<BOS> Ada kudapan dimakan di lesehan. <CLS> sambalnya pedas diberi terasi. <CLS> Ada materi dalam pembelajaran <CLS> untuk membangun unit kompetensi. <EOS>
+<BOS> Nonton tivi sambil baca berita <CLS> isinya wabah pandemi dimana-mana. <CLS> Mari kita bangun komitmen bersama <CLS> menuju kompetensi agar berdaya. <EOS>
+<BOS> Bulan Januari tinggal beberapa minggu <CLS> berdebar menanti harapan naik gaji. <CLS> Inilah yang telah kita tunggu-tunggu <CLS> master._ yang akan menebarkan inspirasi. <EOS>
+<BOS> Buah matoa enak rasanya <CLS> Jayapura ibukota Papua. <CLS> Salam jumpa kitorang semua <CLS> untuk bersama menjadi berdaya. <EOS>
+<BOS> Maria Loihala <CLS> PAK 915.1.00236 2018 <CLS> Ke lapangan menggembala keledai <CLS> bawa unta ke tengah gurun. <EOS>
+<BOS> Sebelum acara kita mulai <CLS> izinkan saya membawakan pantun. <CLS> Belajar dengan guru matematika <CLS> setelah itu pulang ke rumah. <EOS>
+<BOS> Sebelum acara di buka <CLS> mari bersama ucapkan bismillah. <CLS> Sarapan pagi dengan ketan <CLS> setelah itu mencuci kain:. <EOS>
+<BOS> Dengan senang hati saya ucapkan <CLS> selamat datang para hadirin. <CLS> Air mata jatuh berderai <CLS> karena menonton drama Korea. <EOS>
+<BOS> Karena sesi telah siap dimulai <CLS> alangkah baiknya mari kita awali saja. <CLS> Wayan Nurata <CLS> PAK 915.1.00319 2019 <EOS>
+<BOS> Pergi bekerja memakai batik <CLS> warisan kebanggaan Indonesia. <CLS> Menjumpai bapak tampan ibu cantik <CLS> salam semangat dan selalu bahagia. <EOS>
+<BOS> Semburat matahari mengawali hari <CLS> pagi disambut dengan senyum dikulum. <CLS> Selamat pagi para calon pemimpin negeri <CLS> sudah sarapan atau belum. <EOS>
+<BOS> Roti bakar dan secangkir kopi <CLS> untuk sarapan enak rasanya. <CLS> Assalamualaikum selamat pagi <CLS> sukses selalu untuk kita semua_ <EOS>
+<BOS> Pelayan publik profesi idaman <CLS> berintegritas dan antikorupsi. <CLS> Selamat datang kami ucapkan <CLS> semangat beraktifitas dan saling berbagi. <EOS>
+<BOS> Gratifikasi tolak dan laporkan <CLS> bukti integritas di dalam diri. <CLS> Salam hormat saya sampaikan <CLS> kepada bapak ibu yang baik hati. <EOS>
+<BOS> Tingginya gunung puncaknya tinggi <CLS> terbentang lautan amatlah luas <CLS> Selamat datang pejuang antikorupsi <CLS> tegakkan integritas tanpa batas. <EOS>
+<BOS> Dari Jakarta ke kota Tarakan <CLS> transit sejenak di Balikpapan. <CLS> Para peserta diklat hadirin sekalian <CLS> telah siap narasumber yang sangat menawan <EOS>
+<BOS> Banyak bunga tumbuh di taman <CLS> harum semerbak aroma baunya. <CLS> Mari kawan kita bersama dengarkan <CLS> para narasumber yang keren luar biasa <EOS>
+<BOS> Selamat pagi, pagi; pagi <CLS> tetap semangat dan luar biasa. <CLS> Mari kita ikuti kegiatan seminar ini <CLS> semoga menarik untuk kita semua. <EOS>
+<BOS> Bunga sekuntum mekar sehari <CLS> tangkainya kering lalu terjatuh. <CLS> Selamat berjumpa bersama kami <CLS> assalamualaikumwarahmatullahi wabarakatuh <EOS>
+<BOS> Ahli biologi belajar anatomi <CLS> ahli hukum memberi contoh patuh. <CLS> Sebelum mulai belajar antikorupsi <CLS> assalamualaikum warahmatullahiwabarakatuh _ <EOS>
+<BOS> Paling terasa sakitnya geraham gigi <CLS> baru tumbuh tidak bisa ditahan: <CLS> Saya ucapkan selamat pagi <CLS> untuk para peserta sekalian <EOS>
+<BOS> Adik suka materi biologi <CLS> dari dulu sampai kemarin. <CLS> Selalu semangat seperti pagi <CLS> hormat untuk semua hadirin _ <EOS>
+<BOS> Sarapan kari di pagi hari <CLS> enak dimakan di belantara. <CLS> Selamat datang master kemari <CLS> kita bersua seperti saudara. <EOS>
+<BOS> Jalan-jalan ke kutub takut beruang <CLS> jalan jalan ke sungai takut buaya. <CLS> Terimakasih pada peserta yang telah datang <CLS> ayo kita mulai acara diklatnya <EOS>
+<BOS> Cuaca cerah udara nyaman <CLS> musimnya panas udara kering. <CLS> Semoga sesi ini berlangsung aman <CLS> karena kita terapkan safety briefing. <EOS>
+<BOS> Rika Sa'diyah 0 <CLS> PAK 915.1.00080.2018 <CLS> Nelayan di laut menangkap ikan ayam-ayam <CLS> ikan dijual di pasar Senen Jakarta. <EOS>
+<BOS> Ijinkan saya ucapkan salam <CLS> assalamu'alaikum warahmatullahi wabarakatuh pada semua peserta <CLS> Buah manggis rasanya manis <CLS> kulit manggis jangan dimakan: <EOS>
+<BOS> Kalau makan nasi lauknya ayam krispi <CLS> ngemilnya pakai kuaci. <CLS> Kalau ingin jadi PAK bergengsi <CLS> berguru aja dengan Master Nency. <EOS>
+<BOS> Minum kopi jangan lupa pakai air <CLS> air direbus pakai panci siul. <CLS> Kalau mau jadi penyuluh yang ember <CLS> ayo berguru dengan master Badrul <EOS>
+<BOS> Kalau sudah namanya cinta <CLS> berbunga-bunga rasanya hati. <CLS> Kalau mau menjadi penyuluh berdaya <CLS> ayo master belajar dengan master Sari. <EOS>
+<BOS> Bunga melati harum mewangi <CLS> semerbak meluas ke bumi ini. <CLS> Ingin Indonesia bersih dari korupsi <CLS> ayo gabung segera beraksi. <EOS>
+<BOS> Kutitipkan rinduku pada angin <CLS> untuk yang jauh namun dekat di hati. <CLS> Belajar hargai hak orang lain <CLS> agar kelak tidak korupsi. <EOS>
+<BOS> Beli besi ke pasar Jarak <CLS> pulang siang lewat jalan Dupak. <CLS> Jika korupsi semakin marak <CLS> ayo PAK beraksi yang kompak. <EOS>
+<BOS> Hendak ke pasar beli terasi <CLS> jangan lupa beli lemari. <CLS> Jika ingin Indonesia bersih dari korupsi <CLS> ayo gabung penyuluh antikorupsi. <EOS>
+<BOS> Bunga seroja untuk sang kekasih <CLS> gadis jelita tinggi semampai. <CLS> Ayo bangun generasi tanpa korupsi <CLS> Indonesia jaya pasti tercapai. <EOS>
+<BOS> Satu-satu aku sayang ibu <CLS> dua-dua aku sayang ayah. <CLS> Ayo kawan beraksi menggebu <CLS> Indonesia pasti jaya. <EOS>
+<BOS> Berwisata santai ke pulau Bali <CLS> melewati indahnya kota Banyuwangi. <CLS> Telah berbagi ilmunya yang bernilai <CLS> hormat dan apresiasi narasumber hari ini _ <EOS>
+<BOS> M_ Fatchul Arifin <CLS> PAK 915.1.00144 2018 <CLS> Makan nasi pakai teri <CLS> belinya di warung Mbak Sri. <EOS>
+<BOS> Master Sandri mah, juara aksi <CLS> selamat datang untuk berbagiiiii . <CLS> Pagi hari jogging di taman <CLS> lihat tukang bubur jadi mau_ <EOS>
+<BOS> Jika ada yang ditanyakan <CLS> Silakah sebelum habis waktu. <CLS> Tugas polisi jaga kedamaian <CLS> agar negara tetap aman <EOS>
+<BOS> Terimakasih kami ucapkan <CLS> atas materi yang di sampaikan: <CLS> Jika hendak naik sampan <CLS> siapkan bekal untuk perjalanan:. <EOS>
+<BOS> Terimakasih kami ucapkan <CLS> untuk ilmu yang diberikan. <CLS> Dari Jakarta ke Surabaya <CLS> lewatnya jalur Pantura. <EOS>
+<BOS> Materinya sungguh membahana <CLS> dan kita sungguh terpesona. <CLS> Pilkada langsung butuh integritas <CLS> pilih yang jujur; yang jujur dipilih. <EOS>
+<BOS> Ayo kolaborasi dan libas tuntas <CLS> korupsi diberantas tanpa belas kasih. <CLS> Intan Hestika <CLS> PAK 915.2.0003 2021 <EOS>
+<BOS> Minum SUSU pagi- pagi <CLS> makan roti di siang hari. <CLS> Mari kita ikuti materi ini <CLS> agar kita mengerti bahaya korupsi. <EOS>
+<BOS> Libur panjang waktunya tamasya <CLS> lantas pergi ke Kualanamu. <CLS> Sudah di beri materi yang luar biasa <CLS> Terimakasih narasumber; kita kagum kepadamu <EOS>
+<BOS> Lihat langit di sore hari <CLS> sangat indah dipandang mata_ <CLS> Di pagi hari yang bahagia ini <CLS> telah hadir narasumber yang luarbiasa- <EOS>
+<BOS> Jalan-jalan ke Jakarta <CLS> mampir stasiun Manggarai. <CLS> Mari bulatkan tekad kita <CLS> maju terus berantas korupsi. <EOS>
+<BOS> Imbangan Putra <CLS> PAK 915.1.00376 2019 <CLS> Malam hari angin berhembus dingin sekali <CLS> karena hujan turun deras di sore hari <EOS>
+<BOS> Terima kasih kesediaan master mengisi sesi ini <CLS> semoga kita mendapat manfaat dari materi. <CLS> Burung kausari asal dari Papua <CLS> bulunya cantik hinggap di pohon jati. <EOS>
+<BOS> Banyak materi yang sudah disampaikan darinya <CLS> ucapan terimakasih untuk narasumber yang baik hati. <CLS> Sore-sore baca buku di teras rumah <CLS> sambil minum kopi dan makan cemilan. <EOS>
+<BOS> Cukup sekian para narasumber yang keren yah <CLS> atas kebaikannya terima kasih saya ucapkan. <CLS> Ayo kita ambil pena <CLS> pena diambil dari dalam tas <EOS>
+<BOS> Tuban terkenal dengan legennya <CLS> sungguh rugi jika tak mencobanya. <CLS> Selamat datang master yang bersahaja <CLS> yang akan berbagi materi pada kita semua_ <EOS>
+<BOS> Jalan-jalan ke kota Surabaya <CLS> beli durian Jepara hanya dua <CLS> Selamat berjumpa master Baginda <CLS> yang akan berbagi materi pada kita semua <EOS>
+<BOS> Ke Yogyakarta beli bakpia <CLS> jangan lupa ke museum Yogya. <CLS> Terima kasih master atas materinya <CLS> semoga master senantiasa bahagia. <EOS>
+<BOS> Sore hari hujannya deras <CLS> enaknya makan bakso yang pedas. <CLS> Sungguh hebat master yang bergas <CLS> atas paparan materi yang lugas. <EOS>
+<BOS> Sayekti Suindyah Dwiningwarni <CLS> PAK 915.1.00360 2019 <CLS> Jalan-jalan ke Kota Jember Makan nasi di rumah Rahmat <CLS> makan siangnya pakai ikan teri. lauknya pakai sambal ikan. <EOS>
+<BOS> Kepada bapaklibu narasumber Mari kita mulai dengan semangat <CLS> dipersilakan menyampaikan materi. agar seminar ini terasa menyenangkan. <CLS> Terasa segar di pinggir sungai Dr H Wartono <CLS> bunga-bunga mekar berseri. PAK 915.1.00044 2019 <EOS>
+<BOS> Berbicara harus sopan santun <CLS> semangat jangan pernah tergoyahkan: <CLS> Kepada Master Rofie sang master pantun <CLS> sharing materi kami persilakan:. <EOS>
+<BOS> Nilai-nilai antikorupsi perlu aktualisasi <CLS> agar menjadi budaya kehidupan: <CLS> Teruskan hidup dengan ber-antikorupsi <CLS> agar Indonesia semakin terdepan: <EOS>
+<BOS> PAK 915.1.00109 2018 <CLS> Kue talam ketan manis rasanya <CLS> beraroma gula merah berlapis santan: <CLS> Tak berlama-lama teman-teman semua <EOS>
+<BOS> kepada narasumber kami persilakan. <CLS> Bersama orang tercinta naik sepeda <CLS> hati senang wajahpun cerah ceria <CLS> Tak salah mendamba hidup serba ada <EOS>
+<BOS> jangan korupsi agar tidak celaka <CLS> Minum es alpukat sambil duduk santai <CLS> ditambah semangkuk puding sutera. <CLS> Ayo terus semangat melawan korupsi <EOS>
+<BOS> agar rakyat hidup makmur sejahtera. <CLS> Minum sirup belewah duduk di kursi <CLS> rasanya sirnakan dahaga. <CLS> Buat apa hidup mewah dari korupsi <EOS>
+<BOS> kelak malu diri dan keluarga. <CLS> Jalan ke pelabuhan membawa tas <CLS> terlihat kapal di samudera. <CLS> Ayo semaikan tanamkan integritas <EOS>
+<BOS> untuk wujudkan negara sejahtera. <CLS> Gadis cilik kini tumbuh dewasa <CLS> memakai gaun dari kain sutera <CLS> Lawan korupsi pantang putus asa <EOS>
+<BOS> Dengan cinta keluarga jadi harmonis <CLS> keluarga sehat makannya ikan. <CLS> Master Sahlan yang senyumnya manis <CLS> terimakasih sharing yang diberikan. <EOS>
+<BOS> Tahu bulat digoreng dadakan <CLS> harganya lima ratusan. <CLS> Lawan korupsi tak bisa dihentikan <CLS> pantun korupsi perlawanan lisan. <EOS>
+<BOS> Muflih Fathoniawan <CLS> PAK 915.1.00216 2019 <CLS> Jalan-jalan bareng Bu Lurah <CLS> menyusuri sawah dan kolam ikan, <EOS>
+<BOS> Kepada Master Toni bertopi merah <CLS> waktu dan layar dipersilakan <CLS> Sore-sore ke Purwodadi <CLS> beli kupat ditaburi terasi Siang ini aku bernyanyi <EOS>
+<BOS> Walau apapun yang terjadi nyanyi untuk sang kekasih. <CLS> tetap semangat melawan korupsi. Selamat dating master Reni <CLS> dan kami ucapkan terima kasih. <CLS> Sandri Justiana Jangan bilang tidak bisa <EOS>
+<BOS> PAK 915.3.00010 2017 bisa biasa tak pernah rugi. <CLS> Ayuk mari kita bekerja sama <CLS> bareng-bareng berantas korupsi. <CLS> Ainun Mardhiah <EOS>
+<BOS> Hari gini kok masih kuper <CLS> gak tau nama-nama ikan. <CLS> Selamat datang bapak narasumber <CLS> waktu dan layar saya berikan: <EOS>
+<BOS> Upacara rapi dalam barisan <CLS> setelah itu makan bakwan. <CLS> Hadirin yang punya pertanyaan <CLS> silakan menulis atau menyampaikan. <EOS>
+<BOS> Ada pantun tentang ikat sepat <CLS> ada tebakan nama-nama ikan. <CLS> Selamat datang narasumber hebat <CLS> waktu dan layar saya berikan. <EOS>
+<BOS> Lihat anak sangat berbakat <CLS> bisa membuat terinspirasi. <CLS> Tak lelah tetap semangat <CLS> ayo tetap bersikap antikorupsi. <EOS>
+<BOS> Gunung Merapi sedang erupsi <CLS> erosinya sampai di Tebing Breksi. <CLS> Sungguh tinggi biaya sosial korupsi <CLS> sampai merusak beragam segi. <EOS>
+<BOS> Makan sambel pakai terasi <CLS> makin enak ditambah santan. <CLS> Berapa jumlah nilai antikorupsi <CLS> bener banget ada sembilan. <EOS>
+<BOS> karena ada niat dan kesempatan. Sudah sore mentari meredup <CLS> jelang malam perlu nambah nutrisi. <CLS> Berharap dapat pendamping hidup <CLS> pasangan sejati pasti antikorupsi. <EOS>
+<BOS> Daun yang jatuh dipungut teman <CLS> dikumpulkan di plastik jadi hiasan. <CLS> Para koruptor ayo kita lawan <CLS> tak layak hidupı jadi cacian. <EOS>
+<BOS> Terima kasih saya ucapkan <CLS> atas segala perhatian. <CLS> Burung merpati terbang meninggi <CLS> terbangnya sepasang seperti kekasih: <EOS>
+<BOS> Saya ucapkan sekali lagi <CLS> mohon maaf dan terima kasih. <CLS> Jamila Lestyowati <CLS> PAK 915.2.000004 2019 <EOS>
+<BOS> Nonton tivi, baca berita <CLS> berita covid di sana-sini. <CLS> Tak muluk-muluk; target kita- <CLS> raih predikat, birokrasi bersih dan melayani <EOS>
+<BOS> Menunggu kabar info mutasi. <CLS> kalau promosi; jabatannya naik. <CLS> Zona Integritas wilayah bebas dari korupsi. <CLS> menuju kantor pelayanan terbaik. <EOS>
+<BOS> Terasa kenyang makan nasi <CLS> apalagi nasinya nasi biryani. <CLS> Wilayah bebas dari korupsi <CLS> wilayah birokrasi bersih dan melayani <EOS>
+<BOS> Johana Lanjar W <CLS> PAK 915.1.00002 2021 <CLS> Benang jahit disulam bak permata <CLS> benang kapas dipintal bak sutra _ <EOS>
+<BOS> Pandemi Covid-19 adalah nyata <CLS> korupsi merajalela adalah fakta. <CLS> Dina Indriyanti <CLS> PAK 915.1.000068 2021 <EOS>
+<BOS> Mempelai membawa Roti Buaya <CLS> jalan seirama musik Tanjidor. <CLS> Korupsi sangatlah berbahaya <CLS> berdampak masif di segala sektor. <EOS>
+<BOS> Tumpeng kuning menjulang di nampan <CLS> ditemani Urap dan Sambal Terasi. <CLS> Korupsi mempersulit pembangunan <CLS> lesukan ekonomi dan investasi. <EOS>
+<BOS> Pilu nian hidup sebatang kara <CLS> emak-bapak tiada, juga kerabat. <CLS> Korupsi menggerogoti uang negara <CLS> pengentasan kemiskinan menjadi lambat. <EOS>
+<BOS> Duduk di teras dekat garasi <CLS> baca berita malagizi alias nutrient. <CLS> Korupsi bikin kacau birokrasi <CLS> layanan publik jadi tidak efisien <EOS>
+<BOS> Biasanya lantang bercuap-cuap <CLS> saat datang musuh; bergegas tengkurup. <CLS> Konstituen didapat karena suap <CLS> alhasil, muncullah kepemimpinan korup. <EOS>
+<BOS> Minum kelapa muda pakai sirup <CLS> saat berbuka di bulan Ramadhan:. <CLS> Bila lembaga peradilan korup <CLS> lembaga negara kehilangan kepercayaan: <EOS>
+<BOS> Burung mengoceh di pohon akasia <CLS> lalu terbang ke udara. <CLS> Korupsi melemahkan alutsista <CLS> karna anggarannya menguap sia-sia <EOS>
+<BOS> Meski bukan sulapı bukan pula ilusi <CLS> ulahnnya mampu menggemparkan dunia_ <CLS> llegal loging itu korupsi <CLS> pencipta bencana buatan manusia <EOS>
+<BOS> Lengan gempal berkat angkat beban <CLS> berlatih ajeg sejak usia dini. <CLS> Gegara korupsi kita jadi korban <CLS> yuk; enyahkan korupsi dari negeri ini. <EOS>
+<BOS> Bianglala indahnya tiada tara <CLS> menyenangkan hati yang memandangnya. <CLS> Koruptor tak hanya rampas uang negara <CLS> lingkungan alam rusak karna ulahnya!. <EOS>
+<BOS> Berbuat baik sepanjang hayat <CLS> seimbangkan selalu jiwa dan raga <CLS> Korban korupsi adalah rakyat <CLS> hidupnya merana tak sejahtera. <EOS>
+<BOS> Menyelam di laut sambil rekreasi <CLS> menikmati keindahan bahari. <CLS> Barang mahal; rakyat tak mampu beli <CLS> tanda korupsi menggerogoti ekonomi. <EOS>
+<BOS> Biar aku tak semanis gula <CLS> namun percayalah aku baik hatinya. <CLS> Korupsi meningkat; kriminalitas merajalela <CLS> kasihan rakyat menanggung akibatnya. <EOS>
+<BOS> Bubur manado tabur ikan cakalang <CLS> ditambah sambal pedasnya dahsyat. <CLS> Kalau korupsi pejabat terus berulang <CLS> bisa-bisa hilang kepercayaan rakyat. <EOS>
+<BOS> Datang ke Jogja makannya gudeg <CLS> rasanya enak tak terlupakan_ <CLS> Banyak sekolah misinya mandeg <CLS> imbas korupsi anggaran pendidikan:. <EOS>
+<BOS> Sore-sore hujan gerimis <CLS> enaknyoo ngemil kue pukis. <CLS> Jangan kendor terus optimis <CLS> biar korupsi segera terkikis <EOS>
+<BOS> Jalan-jalan ke puncak Gunug Merapi <CLS> jangan lupa kita pakai rompi biru. <CLS> Perampas uang rakyat; pantas dihukum mati <CLS> agar tidak tumbuh lagi koruptor- koruptor baru. <EOS>
+<BOS> PAK 915-1.00404.2019 <CLS> Pergi ke kota membayar pajak <CLS> dana pajak jangan dikebiri. <CLS> Pembangunan yang mangkrak <EOS>
+<BOS> karena besar biaya sosial korupsi. <CLS> Imbangan Putra <CLS> Gunung Merapi sedang erupsi PAK 915.1.00376 2019 <CLS> erosinya sampai di tebing breksi. <EOS>
+<BOS> Sungguh tinggi biaya sosial korupsi <CLS> sampai merusak beragam segi. <CLS> Jamila Lestyowati <CLS> PAK 915.2.000004 2019 <EOS>
+<BOS> Buku tulis dimasukkan lemari <CLS> semakin ditumpuk semakin tinggi. <CLS> Setiap detik kita harus atur strategi <CLS> bagaimana cara berantas korupsi. <EOS>
+<BOS> Bunga hidup bukan bunga kertas <CLS> dijual di laman dunia maya. <CLS> Menjalani hidup berintegritas <CLS> membuat semua bahagia. <EOS>
+<BOS> Yusuf Kurniadi <CLS> PAK 915.1.00042 2019 <CLS> Koruptor harus dilawan <CLS> korupsi harus diberantas. <EOS>
+<BOS> Belajarlah dari para pahlawan <CLS> Makan pagi sarapan ikan teri jaga Integritas sampai tuntas. <CLS> pepaya mentah dicampur kopi. M. Sahlan Ramadhan Solichin <CLS> Mari terapkan nilai antikorupsi <EOS>
+<BOS> supaya negeri ini bebas korupsi. PAK 915.2.00007 2021 <CLS> Salmi Supriatin <CLS> PAK 915.1.00076 2018 <CLS> Senyum manis tersungging di pipi <EOS>
+<BOS> bak pesona mawar di pagi hari. <CLS> Semangat pagi pejuang antikorupsi <CLS> kuatkan integritas beraksi sepenuh hati. <CLS> Dina Indriyanti <EOS>
+<BOS> Membawa berkas jangan kehujanan <CLS> guyuran airnya meluluh lantakkan. <CLS> Ayo budayakan nilai keberanian <CLS> dengan mempertahankan kebenaran. <EOS>
+<BOS> Burung tekukur berloncatan gembira <CLS> di pekarangan nan banyak tanaman. <CLS> Bersyukur adalah jalan sederhana <CLS> berkecukupan dengan tidak berlebihan: <EOS>
+<BOS> Kalau ke Jogja lihatlah candi <CLS> sambil belanja kerajinan seni <CLS> Kalau ingin negeri bebas korupsi <CLS> ingat selalu terapkan sembilan nilai. <EOS>
+<BOS> Hujan melanda kota Jakarta <CLS> angin topan berasa ngeri. <CLS> Tuluskan jiwa iklas semata <CLS> luruskan hati pada kejujuran hakiki. <EOS>
+<BOS> Durian Medan juara dalam selera <CLS> dibelikan bibi hadiah berprestasi. <CLS> Jadikan diri agar bermakna berdaya <CLS> jadikan mandiri sebagai solusi. <EOS>
+<BOS> Jalan berliku ke pasar pagi <CLS> jalan berbatu di pinggiran sungai. <CLS> Jangan malu menyebarkan empati <CLS> jangan ragu membudayakan peduli. <EOS>
+<BOS> Merdukan bernyanyi suara tifa <CLS> ceriakan bercanda mencari gembira. <CLS> Berlakukan tindakan yang seharusnya <CLS> tentukan putusan yang nilai seadil-adilnya. <EOS>
+<BOS> Pergi wisata jangan lupa bawa jajanan <CLS> menjadi senang hatipun kegirangan. <CLS> Mari biasakan mengikuti kepatutan <CLS> sederhana dalam keseharian: <EOS>
+<BOS> Bunga bergayut di pohon hutan <CLS> rona warnanya memberi keindahan. <CLS> Karya berlanjut dalam kesungguhan <CLS> tanggungjawab berbuah kenyataan. <EOS>
+<BOS> Membawa berkas jangan kehujanan <CLS> guyuran airnya meluluh lantakkan. <CLS> Ayo budayakan nilai keberanian <CLS> dengan mempertahankan kebenaran: <EOS>
+<BOS> Burung tekukur berloncatan gembira <CLS> di pekarangan nan banyak tanaman. <CLS> Bersyukur adalah jalan sederhana <CLS> berkecukupan dengan tidak berlebihan. <EOS>
+<BOS> Tak ada nasi makanlah sagu <CLS> dimakan juga si ubi talas. <CLS> Hallo, para paksi sahabatku <CLS> yuk; terus jaga integritas. Beli durian di pinang baris <EOS>
+<BOS> enak dimakan beramai-ramai. <CLS> Ada kudapan makan di lesehan Jangan lupa biasakan antri berbaris <CLS> sambalnya pedas sambal terasi. agar hidup bisa berdamai. <CLS> Sembilan nilai harus diwujudkan <EOS>
+<BOS> tuk bangun negeri tanpa korupsi. Siapa bertanya dia menjawab <CLS> jangan sampai salah prediksi. <CLS> Ini bentuk tanggung jawab <CLS> salah satu nilai antikorupsi. <EOS>
+<BOS> Johana Lanjar W <CLS> PAK 915.1.00002 2021 <CLS> Ainun Mardiah <CLS> PAK 915.1.00074 2019 <EOS>
+<BOS> Lihat anak sangat berbakat <CLS> bisa membuat terinspirasi. <CLS> Tak lelah; tetap semangat <CLS> ayo tetap bersikap antikorupsi. <EOS>
+<BOS> Makan sambel; pakai terasi <CLS> makin enak, ditambah santan. <CLS> Berapa jumlah nilai antikorupsi <CLS> bener banget; ada sembilan. <EOS>
+<BOS> Jamila Lestyowati <CLS> PAK 915.2.000004 2019 <CLS> Jalan-jalan ke pantai Sanur <CLS> jangan lupa mampir ke Bedugul. <EOS>
+<BOS> Berbudi pekerti Luhur <CLS> benteng tangguh generasi unggul. <CLS> lin Purwanti <CLS> PAK 915.1.000105 2018 <EOS>
+<BOS> Ingat si Kangmas, hati kangen rasanya <CLS> kudatangi dia naik sepeda motor. <CLS> Jangan mengambil yang bukan haknya <CLS> agar kelak tak menjadi koruptor. <EOS>
+<BOS> Luthfia ZP <CLS> PAK 915.2.00005 2021 <CLS> Nilai-nilai antikorupsi perlu aktualisasi <CLS> agar menjadi budaya kehidupan: <EOS>
+<BOS> Teruskan hidup dengan ber-antikorupsi <CLS> agar Indonesia semakin terdepan. <CLS> Rofiah Kutitipkan rinduku pada angin <CLS> untuk Yang jauh namun dekat di hati. <EOS>
+<BOS> PAK 915.1.00109 2018 Belajarlah hargai hak orang lain <CLS> agar kelak tidak korupsi. <CLS> Iin Purwanti <CLS> PAK 915.1.000105 2018 <EOS>
+<BOS> Pergi ke Malioboro bersama saudara <CLS> asik dengan naik becak bermotor. <CLS> Hai semua saudaraku se Indonesia Raya <CLS> jagalah dirimu jangan sampai menjadi koruptor. <EOS>
+<BOS> Bersama orang tercinta naik sepeda <CLS> hati senang wajah pun cerah ceria. Sore hari waktunya liat televisi <CLS> Tak salah mendamba hidup serba ada <CLS> jangan korupsi agar tidak celaka. jangan lupa liat sinetron. <EOS>
+<BOS> Ayuk terus kita berantas korupsi <CLS> Minum sirup belewah duduk di kursi jangan hanya jadi penonton. <CLS> rasanya sirnakan dahaga. Imbangan Putra <CLS> Buat apa hidup mewah dari korupsi <EOS>
+<BOS> kelak malu diri dan keluarga. PAK 915.1.00376 2019 <CLS> Nenong Fauziah Dasuki <CLS> PAK 915.1.00313 2019 <CLS> Jangan bilang tidak bisa <EOS>
+<BOS> bisa biasa tak pernah rugi. <CLS> Ayuk mari kita bekerja sama <CLS> bareng-bareng berantas korupsi <CLS> Ainun Mardhiah <EOS>
+<BOS> PAK 915.1.00074 2019 <CLS> Cik Siti mudik ke Tembesi <CLS> memancing ikan dapat Tenggiri. <CLS> Mari kita mencegah korupsi <EOS>
+<BOS> Pagi pagi sarapan; nasinya basi <CLS> nasi basi dibuang di tempat kotor. <CLS> Ayo kita semua bersama-sama berantas korupsi <CLS> supaya sel-sel penjaranya ramai dengan koruptor. <EOS>
+<BOS> Kita cari rompi biru <CLS> Untuk membuang rompi orange <CLS> Ayo ikut sertifikasi penyuluh antikorupsi <CLS> Untuk bangun negri bebas korupsi <EOS>
+<BOS> PAK 915.1.00404-2019 <CLS> Pilkada langsung butuh integritas <CLS> pilih yang jujur; yang jujur dipilih. <CLS> Ayo Kolaborasi dan libas tuntas <EOS>
+<BOS> korupsi diberantas tanpa belas kasih. <CLS> Pejabat tinggii ada pula yang korupsi <CLS> tega gerogoti anggaran negeri. <CLS> Agen AKSI harus terus membumi <EOS>
+<BOS> cegah korupsi dari tikus berdasi. <CLS> Indonesia kaya akan budaya <CLS> adat dan bahasa beraneka rupa. <CLS> Master penyuluh tunjukkan AKSI nyata <EOS>
+<BOS> negeri tanpa korupsi adalah tujuannya. <CLS> Dari banyak pulau membentang <CLS> lahirkan generasi tanah pertiwi: <CLS> Daya kami tak kan patah arang <EOS>
+<BOS> Daun yang jatuh dipungut teman <CLS> dikumpulkan di plastik jadi hiasan. <CLS> Para koruptor ayo kita lawan <CLS> tak layak hidup, jadi cacian. Bersama kekasih jalani hari <EOS>
+<BOS> Jamila Lestyowati berbunga-bunga rasa di hati. <CLS> PAK 915.2.000004 2019 Tak pernah habis semangat ini <CLS> untuk berantas korupsi dari negeri. <CLS> Tahu bulat digoreng dadakan <EOS>
+<BOS> harganya lima ratusan. <CLS> Lawan korupsi tak bisa dihentikan <CLS> pantun korupsi perlawanan lisan. <CLS> Muflih Fathoniawan <EOS>
+<BOS> PAK 915.1.00216 2019 <CLS> Minum es alpukat sambil duduk santai di kursi <CLS> ditambah semangkuk puding sutera. <CLS> Ayo terus semangat melawan korupsi <EOS>
+<BOS> agar rakyat hidup makmur sejahtera. <CLS> Gadis cilik kini tumbuh dewasa <CLS> memakai gaun dari kain sutera. <CLS> Lawan korupsi pantang putus asa <EOS>
+<BOS> agar kita semua hidup sejahtera. <CLS> Nenong Fauziah Dasuki <CLS> PAK 915.1.00313 2019 <CLS> Gunung puncaknya tinggi <EOS>
+<BOS> tertutup hutan belantara. <CLS> Mari bersihkan negeri dari korupsi <CLS> agar rakyat bahagia dan sejahtera. <CLS> Sukadi Wartono <EOS>
+<BOS> Pagi hari olah raga lari <CLS> istirahat sebentar duduk di kursi. <CLS> Bersama kita membangun negeri <CLS> berani tolak gratifikasi. <EOS>
+<BOS> Ungkapkan cerita lewat puisi <CLS> puisi ditulis di atas kertas. <CLS> Para master yuk kita beraksi <CLS> dengan berbekal nilai Integritas. <EOS>
+<BOS> PAK 915.1.00072 2021 <CLS> Ikan gabus ikan teri <CLS> dimakan dengan sayur asam- <CLS> Mari tumbuhkan antikorupsi <EOS>
+<BOS> agar negeri yang subur tetap aman. <CLS> Intan Hestika <CLS> PAK 915.2.0003 2021 <CLS> Bunga melati harum mewangi <EOS>
+<BOS> semerbak meluas ke bumi ini. <CLS> Ingin Indonesia bersih dari korupsi <CLS> ayo gabung segera beraksi. <CLS> Hendak kepasar beli terasi <EOS>
+<BOS> jangan lupa beli lemari. <CLS> Jika ingin Indonesia bersih dari korupsi <CLS> ayo gabung penyuluh antikorupsi. <CLS> Iin Purwanti <EOS>
+<BOS> Belok kiri ke Indonesia <CLS> belok kanan ke Amerika. <CLS> Kita bisa menjadi bangsa berdaya <CLS> jika rakyatnya makmur sejahtera. <EOS>
+<BOS> Duduk sila di atas sajadah <CLS> Lampu merah tanda berhenti merenung lelaku selama usia <CLS> lampu hijau waktunya jalan lagi. Korupsi bisa diberantas dengan mudah <CLS> Buat apa kita korupsi asal kita lakukan bersama-sama <EOS>
+<BOS> dosanya dibawa mati. <CLS> Yusuf Kurniadi <CLS> Rizki Wibias Anwar M PAK 915.1.00042 2019 <CLS> PAK 915.1.00093 2018 <EOS>
+<BOS> Naik bis patas ke Semanggi <CLS> bisnya melaju langsung meluncur. <CLS> Jika integritas bangsa semakin tinggi <CLS> negara maju rakyatpun makmur. <EOS>
+<BOS> Indah Puspita Sari <CLS> Simpan mobil di garasi PAK 915.0.00007 2022 <CLS> kiranya sial lupa mengunci. <CLS> Jangan ambil gratifikasi <EOS>
+<BOS> karena awal dari korupsi. <CLS> Lemari kaca di dalam ruangan <CLS> menata pakaian rapi-rapi. <CLS> Marilah kita bergandengan tangan <EOS>
+<BOS> Pergi ke Bandung membeli tas <CLS> berbekal nasi yang masih panas. <CLS> Jadi pimpinan harus berintegritas <CLS> agar organisasi tetap berkualitas. <EOS>
+<BOS> Pergi ke Jakarta makan bubur <CLS> beli gulali di pasar Bekasi. <CLS> Jadi pemimpin harus jujur <CLS> menuju Indonesia bebas korupsi <EOS>
+<BOS> Abunawas mandidi sumur <CLS> sambil membawa roti didalam tas _ <CLS> Jadikan Indonesia adil makmur <CLS> hentikan korupsi bangun integritas. <EOS>
+<BOS> Jalan kaki sampai ke Medan <CLS> sepatu bola beli di Bekasi . <CLS> Para PAK harus menjadi teladan <CLS> agar Indonesia bebas korupsi. <EOS>
+<BOS> Ke kutub naik beruang <CLS> beruang lari naik taksi. <CLS> Penyuluh antikorupsi terus berjuang <CLS> demi Indonesia bebas korupsi. <EOS>
+<BOS> Berjalan-jalan di sepanjang tegalan <CLS> disengat matahari sampai berkeringat. <CLS> Selamat pagi para master sekalian <CLS> semoga semua sehat dan semangat. <EOS>
+<BOS> Jalan-jalan pagi di perkampungan <CLS> dari kejauhan terlihat kabut pekat. <CLS> Selamat pagi master sekalian <CLS> semoga semua sehat dan semangat. <EOS>
+<BOS> Nikmatnya pagi minum kopi pekat <CLS> ditemani cemilan dan perut terisi. <CLS> Senang berjumpa para master hebat <CLS> kawan gelorakan antikorupsi. <EOS>
+<BOS> Pagi lapar pengen makan nasi <CLS> nasi di beli di warung mpok Nenah. <CLS> Ayo kita terus lawan korupsi <CLS> biar hidup bisa amanah <EOS>
+<BOS> Nenong Fauziah Dasuki <CLS> PAK 915.1.00313 2019 <CLS> Duduk sila di atas sajadah <CLS> merenung lelaku selama usia <EOS>
+<BOS> Korupsi bisa diberantas dengan mudah <CLS> asal kita lakukan bersama-sama. <CLS> Yusuf Kurniadi <CLS> PAK 915.1.00042 2019 <EOS>
+<BOS> Makan pisang minumnya selasih <CLS> pisangnya direbus di dapur bibi. <CLS> Cukup sekian dan terima kasih <CLS> kebersamaan kita di pagi ini _ <EOS>
+<BOS> Dua jam kita bertemu dari tadi <CLS> waktu berlalu terus tak berhenti. <CLS> Terima kasih para narasumber yang baik hati <CLS> semoga jadi amal jariyah di hari nanti. <EOS>
+<BOS> Muflih Fathoniawan <CLS> PAK 915.1.00216 2019 <CLS> Burung merpati terbangnya tinggi <CLS> burung dara di masak dengan lada. <EOS>
+<BOS> Terima kasih ilmunya telah berbagi <CLS> sampai berjumpa di lain acara. <CLS> Kerudung putih kerudung merah <CLS> dibeli di Pasar Jaya. <EOS>
+<BOS> Kepada peserta ku ucap terima kasih <CLS> atas semua perhatiannya. <CLS> Sri Moyo Nurhayati <CLS> PAK 915.1.00056 2019 <EOS>
+<BOS> Biar segar minum es selasih <CLS> tidak ketinggalan makan kue putu. <CLS> Demikian terima kasih <CLS> Sampai jumpa di lain waktu <EOS>
+<BOS> Kota Ampenan kota tua <CLS> pelabuhan indah dipandang mata. <CLS> Kesempatan inikita bersua <CLS> pantang terlupa sepanjang usia. <EOS>
+<BOS> PAK 915.1.003442019 <CLS> Jalan-jalan pergi ke pantai <CLS> beli ketupat dimakan berempat. <CLS> Capek lelah tidak terbeli <EOS>
+<BOS> Olah raga di sore hari <CLS> jangan lupa beristirahat. <CLS> Materi ini sangat menarik sekali <CLS> mudah-mudahan selalu teringat. <EOS>
+<BOS> Imbangan Putra Rifai <CLS> PAK 915.1.00376 2019 <CLS> 5 Menikmati indahnya semesta <CLS> anugerah Yang Mahakuasa. <EOS>
+<BOS> Terima kasih para peserta <CLS> berkat anda acara jadi luar biasa._ <CLS> Mengagumi indahnya alam semesta <CLS> akui kebesaran Yang Mahakuasa. <EOS>
+<BOS> Berkat semangat anda peserta <CLS> acara ini jadi luar biasa. <CLS> Sore-sore hujan gerimis <CLS> nikmatnya makan kue pukis. <EOS>
+<BOS> Jangan kendor tetap optimis <CLS> agar korupsi tetap terkikis. <CLS> Asriana Issa Sofia <CLS> PAK 915.2.00001 2021 <EOS>
+<BOS> Jalan-jalan ke pasar pagi <CLS> jangan lupa membeli ikan. <CLS> Demikian materi kami sampai di sini <CLS> jika ada salah khilaf mohon dimaafkan <EOS>
+<BOS> Bermain pantun ada di sini <CLS> sambil ngemil keripik ubi. <CLS> Saatnya kita tutup sesi ini <CLS> kalau ketemu tuntas rindu di sini. <EOS>
+<BOS> Banyak ikan berenang di kali <CLS> bernama gurami dan ikan sepat. Master Reny pelihara burung kenari <CLS> Indahnya kebersamaan hari ini burung dijemur di ayunan. <CLS> banyak pengetahuan yang didapat. Workshop ini berakhir sampai di sini <EOS>
+<BOS> salah kata mohon dimaafkan _ <CLS> Sungguh indah mawar di taman <CLS> bisa dibawa untuk orang terkasih. <CLS> Semoga materi menambah pengetahuan Luthfia Zein Pettarani <EOS>
+<BOS> saya ucapkan terima kasih. PAK 915.2.00005 2021 <CLS> Banyak belajar banyak yang didapat <CLS> bila kita bersungguh-sungguh hati. <CLS> Semoga yang disampaikan bermanfaat <EOS>
+<BOS> Tak lihat abang adek resah <CLS> duduk melamun di bangku kursi. <CLS> Jangan sedih kalau berpisah <CLS> para master semua selalu di hati. <EOS>
+<BOS> Kakak nakal jangan bilang <CLS> mungkin alpa karena lupa. <CLS> Walau jaringan selalu hilang <CLS> Hidup harus penuh dengan cita cita tetap semangat demi bangsa. <EOS>
+<BOS> dicapai dengan perjuangan dan airmata. <CLS> Sampai di sini pertemuan kita <CLS> kita akhiri dengan penuh sukacita. Retno Indrawati <CLS> PAK 915.1.000298 2019 <EOS>
+<BOS> Hari terik di pantai berkaca mata <CLS> minumnya dingin es kelapa. <CLS> Sampai di sini pertemuan kita <CLS> terima kasih dan sampai jumpa. <EOS>
+<BOS> Jalan-jalan di taman melati Siang hari cuaca panas nian <CLS> tak terasa matahari meninggi. minum es degan enak rasanya. <CLS> Usai sudah kegiatan kita hari ini Terima kasih kami ucapkan <CLS> sampai jumpa di esok pagi. atas kehadiran semuanya. <EOS>
+<BOS> Buah naga manis rasanya <CLS> buah semangka berat timbangannya. <CLS> Nenong Fauziah Dasuki Sampai nanti di acara yang sama <CLS> PAK 915.1.00313 2019 dengan agenda yang lebih membahana. <EOS>
+<BOS> Sayekti Suindyah Dwiningwarni <CLS> PAK 915.1.00360 2019 <CLS> Saat hujan terasa dingin <CLS> maka hindari jalan yang licin. <EOS>
+<BOS> Materi telah diikuti dengan disiplin <CLS> alhamdulillahirobbil alamiin. <CLS> Indahnya burung cendrawasih <CLS> serta bunga yang ada di taman. <EOS>
+<BOS> Apalah arti sebuah penyuluhan, <CLS> jika tidak dilanjutkan dengan renaksi. <CLS> Sebelum saya melakukan penutupan <CLS> ayo tetap semangat melawan korupsi. <EOS>
+<BOS> Kalau hidup bukan sekedar hidup <CLS> maka cinta bukan sekedar cinta_ <CLS> Sebelum materi ini saya tutup <CLS> mohon maaf bila ada salah kata <EOS>
+<BOS> Lawan korupsi haruslah berani <CLS> berani juga harus dengan mandiri. <CLS> Dengan berakhirnya paparan ini <CLS> mari kita berdiskusi terkait materi. <EOS>
+<BOS> Antikorupsi menjadi indikator mutu <CLS> integritas harus selalu dirawat. <CLS> Walau paparan ini dibatasi waktu <CLS> namun aksi berlanjut sepanjang hayat. <EOS>
+<BOS> Indahnya alam pagi berseri <CLS> banyak burung bernyanyi lagu. <CLS> Terima kasih para master disini <CLS> kita telah bersama berbagi ilmu. <EOS>
+<BOS> Sungguh indah mawar di taman <CLS> bisa dibawa untuk orang terkasih. <CLS> Semoga pembelajaran menyenangkan <CLS> Tak lupa ucapkan banyak terima kasih. <EOS>
+<BOS> Banyak belajar banyak juga yang didapat <CLS> bila kita serius dan bersungguh-sungguh. <CLS> Semoga apa-apa yang disampaikan bisa bermanfaat <CLS> 5 saya tutup assalamualaikum warahmatullahi wa barakatuh <EOS>
+<BOS> Bermain pantun ada disini <CLS> Sambil ngemil keripik ubi. <CLS> Saatnya kita tutup sesi ini <CLS> kalau ketemu tuntas rindu di sini. <EOS>
+<BOS> Banyak ikan berenang di kali <CLS> bernama gurami dan ikan sepat. <CLS> Indahnya kebersamaan hari ini <CLS> banyak pengetahuan yang didapat. <EOS>
+<BOS> Sungguh indah mawar di taman <CLS> bisa dibawa untuk orang terkasih. <CLS> Semoga materi menambah pengetahuan <CLS> saya ucapkan terima kasih. <EOS>
+<BOS> Banyak belajar banyak yang didapat <CLS> bila kita bersungguh-sungguh hati. <CLS> Semoga yang disampaikan bermanfaat <CLS> untuk bahan nanti kita berbagi. <EOS>
+<BOS> Sakit demam sejak kemarin <CLS> sampai terasa sakit kepala. <CLS> Terima kasih para hadirin <CLS> telah berkenan mendengarkan saya_ <EOS>
+<BOS> Siang hari ke tempat jahit Pak Kodir <CLS> tak lupa membawa peniti. <CLS> Terima kasih sudah hadir <CLS> semoga ilmunya berkenan di hati. <EOS>
+<BOS> 1 Ke laut memancing ikan <CLS> gerginyanersamg kapan saya bagikan <CLS> terima kasih telah memperhatikan. <CLS> Bangun datar banyak bentuknya <EOS>
+<BOS> Bunga mawar bunga melati <CLS> indah dipandang di pagi hari. <CLS> Saya pamit undur diri <CLS> jika rindu panggil saya lagi. <EOS>
+<BOS> Air pancuran segar rasanya <CLS> berwarna bening diminum bersih- <CLS> Cukup sekian para master semua <CLS> teriring ucapan terima kasih:. <EOS>
+<BOS> Kalau makan jangan kekenyangan <CLS> nanti lupa semua teman_ <CLS> Terima kasih atas perhatian <CLS> mohon maaf atas kekhilafan. <EOS>
+<BOS> Buah mangga dikeringkan <CLS> jadi rebutan sejadinya. <CLS> 5 Segala salah mohon dimaafkan <CLS> kita bertemu di waktu berikutnya. <EOS>
+<BOS> Ada kuda memakai poni <CLS> Poninya indah tidak khawatir. <CLS> Sekian acara hari ini <CLS> karena waktu sudah berakhir. <EOS>
+<BOS> Indah nian bintang di angkasa <CLS> lewati bukit di Ciamis. <CLS> Kegiatan ini luar biasa <CLS> sayangnya waktunya habis. <EOS>
+<BOS> Terima kasih saya ucapkan <CLS> atas segala perhatian. <CLS> Burung merpati terbang meninggi <CLS> terbangnya sepasang seperti kekasih: <EOS>
+<BOS> Saya ucapkan sekali lagi <CLS> mohon maaf dan terima kasih. <CLS> Jamila Lestyowati <CLS> PAK 915.2.000004 2019 <EOS>
+<BOS> Beli batik di Pekalongan <CLS> kainnya halus, cocok untuk kado mutasi _ <CLS> Jaga integritas; hindari benturan kepentingan <CLS> sucikan hati, tolak gratifikasi . <EOS>
+<BOS> Johana Lanjar Wibowo <CLS> PAK 915.1.00002 2021 <CLS> Beli bubur dikasih terasi <CLS> jangan lupa ditambah ikan. <EOS>
+<BOS> Pak Bajuri jualan madu <CLS> jangan lupa masukkan panci. <CLS> Penyuluh antikorupsi bersatu padu <CLS> perkuat barisan lawan korupsi. <EOS>
+<BOS> Ada polisi memakai dasi <CLS> di meja persegi mengetik kuitansi. <CLS> Hari ini pendidikan antikorupsi <CLS> besok berjuang dalam sinergi. <EOS>
+<BOS> Pak Bahuri makan roti <CLS> pergi ke masjid jalan kaki. <CLS> Hari ini saya mohon diri <CLS> jabat erat cegah korupsi. <EOS>
+<BOS> Pergi ke kantor membawa berkas <CLS> untuk menyusun data revisi. <CLS> Penyuluh berjuang menjaga integritas <CLS> demi Indonesia tanpa korupsi. <EOS>
+<BOS> Pandemi covid masih merebak <CLS> kenakan masker dan jauhi kerumunan <CLS> Saya mohon undur diri, Bu, Pak <CLS> bertemu lagi di lain kesempatan. <EOS>
+<BOS> Makin berisi si butir padi <CLS> makin merunduk ia ke bawah _ <CLS> Mohon maaf atas khilaf diri <CLS> karena manusia tak luput dari salah: <EOS>
+<BOS> Berpagi hari dengan syukur <CLS> atas segala nikmat dariNya. <CLS> 5 Tiba saatnya saya pamit mundur <CLS> terima kasih atas pastisipasinya. <EOS>
+<BOS> Indonesia negeri yang kucinta <CLS> walau korupsi masih merajalela. <CLS> Mohon dimaafkan atas salah kata <CLS> tetap semangat dan jangan lupa bahagia. <EOS>
+<BOS> Lisa Nazifah <CLS> PAK 915.1.00061 2018 <CLS> Jalan-jalan ke Pantai Sentani <CLS> indahnya pasir akan ditemui. <EOS>
+<BOS> Jangan lupa makna materi <CLS> teriring doa dan salam kompetensi. <CLS> Maria Loihala <CLS> PAK 915.1.00236 2018 <EOS>
+<BOS> Tutuplah buku semai di meja <CLS> lipatlah baju seusai disetrika. <CLS> Cukuplah waktu sampai di sini saja <CLS> sampai bertemu di waktu berkarya. <EOS>
+<BOS> Imam Syafi'i <CLS> PAK 915.1.00014 2018 <CLS> Ikan bakar sambelnya terasi <CLS> sayur asam lauknya ikan. <EOS>
+<BOS> Buah cempedak rasanya manis <CLS> dibeli dari Kota Balikpapan: <CLS> Wahai peserta waktunya kita sudah habis <CLS> jumpa lagi di lain kesempatan. <EOS>
+<BOS> Burung Jalak hinggap di kayu <CLS> makan unggas di waktu siang. <CLS> Jika peserta seminar datang rindu <CLS> sebutlah namaku di hatimu sayang. <EOS>
+<BOS> Pisang goreng enak rasanya <CLS> dijual di Pasar Batu. <CLS> Mari kawan kita saling memaafkannya <CLS> jumpa lagi di lain waktu <EOS>
+<BOS> Mari kita wujudkan Integritas <CLS> perjuangan tanpa batas. <CLS> Selamat jalan wahai peserta yang cerdas <CLS> libas koruptor; libatkan komunitas. <EOS>
+<BOS> Rujak Aceh rujak kueni <CLS> enak dimakan dingin di siang hari. <CLS> Karena waktu terbatas maka diklat sampai di sini <CLS> semoga besok kita bertemu di diklat lain lagi. <EOS>
+<BOS> Di hutan jati banyak sekali pohon jati <CLS> kayu jati dicari untuk dibuat meja. <CLS> Diklat sudah ujung acara ijinkan saya undur diri <CLS> Terima kasih para peserta semua atas partisipasinya. <EOS>
+<BOS> Jalan-jalan di taman kota ini <CLS> bau harum bunga mawar melati. <CLS> Ijinkan kami menutup acara ini <CLS> terima kasih sudah mengikuti diklat ini. <EOS>
+<BOS> PAK 915.1.00404.2019 <CLS> Biar segar minum es selasih <CLS> tidak ketinggalan makan kue putu. <CLS> Demikian terima kasih <EOS>
+<BOS> sampai jumpa di lain waktu _ <CLS> Azizah Nuur Utami <CLS> PAK 915.1.00329 2019 <CLS> Jalan-jalan pergi ke pantai <EOS>
+<BOS> beli ketupat dimakan berempat. <CLS> Capek lelah tidak terbeli <CLS> dengan ilmu yang bermanfaat. <CLS> lin Purwanti <EOS>
+<BOS> Belanja sayur di pasar pagi <CLS> beli sawi hasil Bumi Jawa- <CLS> Telah sehari sesi kita lalui <CLS> tiba waktunya kita jeda ishoma. <EOS>
+<BOS> M Fatchul Arifin <CLS> PAK 915.1.00144 2018 <CLS> Olah raga di sore hari <CLS> jangan lupa beristirahat. <EOS>
+<BOS> Materi ini sangat menarik sekali <CLS> mudah mudahan selalu teringat. <CLS> 1 Imbangan Putra Rifai <CLS> PAK 915.1.00376 2019 <EOS>
+<BOS> Bagaimana mau ke pelaminan <CLS> kalau tidak punya kekasih <CLS> Acara cukup sampai sekian <CLS> saya haturkan terima kasih <EOS>
+<BOS> Jika kamu orangnya perhatian <CLS> tidak akan sulit mendapatkan kekasih <CLS> Dari kami cukup sekian <CLS> tak lupa menghaturkan banyak terima kasih: <EOS>
+<BOS> Akulah rindu yang selalu hujan di hatimu <CLS> kamu yang kurindukan semoga bukan ilusi <CLS> Sampai jumpa untuk nanti kita bertemu <CLS> bertemu dalam gerakan antikorupsi. <EOS>
+<BOS> Mari kita berantas korupsi <CLS> agar Indonesia menjadi hebat <CLS> Sekian sesi kita hari ini <CLS> semoga memberikan manfaat. <EOS>
+<BOS> Perbanyak amalan tebarkan kasih. <CLS> Cukup sekian dan terima kasih. <CLS> Sandri Justiana <CLS> PAK 915.3.00010 2017 <EOS>
+<BOS> Master Reny pelihara burung Kenari <CLS> burung dijemur di ayunan. <CLS> Workshop ini berakhir sampai di sini <CLS> salah kata mohon dimaafkan_ <EOS>
+<BOS> Luthfia Zein Pettarani <CLS> PAK 915.2.00005 2021 <CLS> 5 Hidup harus penuh dengan cita cita <CLS> dicapai dengan perjuangan dan airmata. <EOS>
+<BOS> PAK 915.1.00109 2018 <CLS> Tak lihat adek abang resah <CLS> duduk melamun di bangku kursi. <CLS> Jangan sedih walau berpisah <EOS>
+<BOS> para master semua selalu dihati _ <CLS> Kakak nakal jangan dibilang <CLS> mungkin alpa karena lupa. <CLS> Walau jaringan selalu hilang <EOS>
+<BOS> Hari terik di pantai berkacamata <CLS> minumnya yang dingin es kelapa. <CLS> Sampai di sini pertemuan kita <CLS> terima kasih dan sampai jumpa. <EOS>
+<BOS> Jalan jalan di taman melati Saat hujan terasa dingin <CLS> tak terasa matahari meninggi. maka hindari jalan yang licin. <CLS> Usai sudah kegiatan kita hari ini Materi telah diikuti dengan <CLS> sampai jumpa di esok pagi. disiplin <EOS>
+<BOS> Nenong Fauziah Dasuki Alhamdulillahirobbil alamiin. <CLS> PAK 915.1.00313 2019 Indahnya burung cendrawasih <CLS> serta bunga yang ada di taman. <CLS> Demikan diucapkan terima kasih <EOS>
+<BOS> PAK 915.1.00072 2021 <CLS> Siang hari cuaca panas nian <CLS> minum es degan enak rasanya. <CLS> Terima kasih kami ucapkan <EOS>
+<BOS> atas kehadiran semuanya. <CLS> Buah naga manis rasanya <CLS> buah semangka berat timbangannya <CLS> Sampai nanti di acara yang sama <EOS>
+<BOS> Belanja sayur di pasar pagi <CLS> beli sawi hasil Bumi Jawa_ <CLS> Telah sehari sesi kita lalui <CLS> tiba waktunya kita jeda ishoma. <EOS>
+<BOS> M. Fatchul Arifin <CLS> PAK 915.1.00144 2018 <CLS> Jelang lebaran masak ketupat <CLS> 5 dimakan bersama teman-teman_ <EOS>
+<BOS> Kalau ada ilmu Yang tersirat <CLS> mohon untuk segera diamalkan. <CLS> Pergi memancing ke Danau Toba <CLS> eh dapatnya malah ikan nila- <EOS>
+<BOS> Salam undur diri dari saya <CLS> terima kasih dan sampai jumpa. <CLS> Janda bolong lagi ngetren <CLS> dirawat seperti kekasih. <EOS>
+<BOS> Master..sungguh keren <CLS> izinkan saya ucapkan terima kasih_ <CLS> Dari Banjar ke Klaten saja <CLS> naiknya Kereta Sanjaya. <EOS>
+<BOS> Materinya sungguh membahana <CLS> ilmunya sangat mempesona. <CLS> Intan Hestika Dhesi Ariani <CLS> PAK 915.2.0003 2021 <EOS>
+<BOS> Ayam Bangkok dibawa ananda <CLS> hati khawatir tiada tara_ <CLS> Jangan risau master semua <CLS> ada fasil yang selalu setia. <EOS>
+<BOS> Retno Indrawati <CLS> PAK 915.1.000298 2019 <CLS> Padang terbuka berangin kencang <CLS> membuat daun terbang ke awan_ <EOS>
+<BOS> Bunga mawar tangkai berduri Jaga hidup selalu berimbang <CLS> bersemi indah di taman hati. agar bahagia bersama pasangan <CLS> Semangat bertahan di masa pandemi <CLS> patuhi protokol dan menjaga diri . <EOS>
+<BOS> Jamila Lestyowati <CLS> Tampak indah bintang kejora PAK 915.2.000004 2019 <CLS> di gelap malam setia menyala. <CLS> meski pandemi di depan mata <EOS>
+<BOS> tetap produktif dan selalu berdoa. <CLS> Senyum manis dara jelita <CLS> tebarkan pesona panah asmara. <CLS> Di manapun kita berada <EOS>
+<BOS> gelorakan cinta untuk negeri sejahtera. <CLS> Dina Indriyanti <CLS> PAK 915.1.000068 2021 <CLS> Hutan jati banyak yang erosi <EOS>
+<BOS> karena kolusi mengelola alih fungsi. <CLS> Berdayakan nyali percaya diri <CLS> karena benar berani menghadapi. <CLS> M. Fatchul Arifin <EOS>
+<BOS> Burung kenari indah warnanya <CLS> Suaranya enak juga rupanya. <CLS> Nilai antikorupsi sembilan jumlahnya <CLS> Untuk dipahamkan para peserta. <EOS>
+<BOS> Tiada guna menahan asa <CLS> jika tak segera berjumpa. <CLS> Tujuh delik tindak pidana <CLS> gratifikasi salah satunya ( coba sebutkan lainnya). <EOS>
+<BOS> Sayekti Suindyah Dwiningwarni <CLS> PAK 915.1.00360 2019 <CLS> Walau masih ada corona <CLS> tetap semangat patuhi aturan. <EOS>
+<BOS> Untuk menyegarkan suasana <CLS> mari kita pantun berbalasan: <CLS> Baca buku cerita misteri <CLS> jangan lupa pakai kacamata. <EOS>
+<BOS> PAK 915.1.00072 2021 <CLS> Liat barongsai bikin girang <CLS> karena sambil makan getuk. <CLS> Jangan melamun siang-siang <EOS>
+<BOS> PAK Ainun Mardhiah PAK 915.1.00304 Aryani Soenarto PAK Asriana Issa Sofia Azizah PAK 915.1.00329 Nuur Utami <CLS> 915.1.00074 2019 2019 915.2.00001 2021 2019 <CLS> Dr H Wartono, SE, MPd MM Dr. Dina Indriyanti MKM Dwiningwarni, SE.-,MM Dr. Sayekti Suindyah PAK 915.1.00344 Haeli <CLS> PAK 915.1.00044 2019 PAK 915.1.000068 2021 PAK 915.1.00360 2019 2019 <EOS>
+<BOS> Hanifah PAK 915.1.00404.2019 Wayan PAK 915.1.00319 2019 Nurata Iin PAK 915.1.000105 Purwanti 2018 Imam Syafi'i PAK 915.1.00014 2018 <CLS> PAK Imbangan 915.1.00376 Putra Rifai 2019 PAK 915.0.00007 Indah Puspita Sari 2022 Intan Hestika Dhesi Ariani PAK 915.2.000004 Jamila Lestyowati 2019 <CLS> PAK 915.2.0003 2021 <CLS> PAK 915.1.00002 Johana Lanjar W 2021 PAK 915.1.00235 Khamid Istakori 2020 Lisa PAK. 915.1.00061 Nazifah 2018 Luthfia ZP PAK 915.2.00005 2021 <EOS>
+<BOS> PAK 915.1.00144 2018 M. Fatchul Arifin PAK 915.1.000445 2019 Mardiana Arsjad Maria PAK 915.1.00236 2018 Loihala Muflih Fathoniawan PAK 915.1.00216 2019 <CLS> Muhammad Sahlan Ramadhan Solichin Nenong Fauziah PAK 915.1.00313 Dasuki PAK 915.2.00008 Reny Andriany 2021 Retno Indrawati PAK 915.1.000298 2019 <CLS> PAK 915.2.00007 2021 2019 <CLS> PAK 915.1.00080.2018 Rika Sa'diyah Rizki wibias maulida anwar Rofiah PAK 915.1.00109 2018 Salmi Supriatin PAK 915.1.00076 2018 <EOS>
+<BOS> Sore-sore hujan Jerimis <CLS> nikmatnya makan kue pukis <CLS> Jangan kendor tetap opłimis <CLS> agar korupsi tetap terkikis <EOS>
+<BOS> Pantun dapat menjadi sarana untuk menyampaikan <CLS> sindiran, Jurauan, nasihat , vawasan, dan lain-lain. <CLS> Bahasa yang terkandung dalam Pantun menunjukkan <CLS> ; kepiavaian seseorang. Orang yang bijak <EOS>
+<BOS> menggunakan bahasa kias dalam Pantun bisa <CLS> dikatakan orang itu orang bijak pula. Seberapa <CLS> bijaknya master? Tunjukkan bahva master piavai <CLS> menggunakan pantun dalam penyuluhan antikorupsi <EOS>
+<BOS> Minum Susu <CLS> Pagi- Pagi <CLS> makan Roti <CLS> Siang Hari Mari sambut cerah Pagi hari ini_ <EOS>
+<BOS> Ji Cantik sungguh 'bunga dahlia <CLS> bahaya korupsi. <CLS> valau dekat jangan di sentuh <CLS> Selamat Pagi Para master semua <EOS>
+<BOS> Assalamualaikum Warahmatullahi <CLS> Va Barakatuh <CLS> Pergi ke hotel menunggu di lobbi <CLS> Tidak sendiri berteman harian Pagi <EOS>

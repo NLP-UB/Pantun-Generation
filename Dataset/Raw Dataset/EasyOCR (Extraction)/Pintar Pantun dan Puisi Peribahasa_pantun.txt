@@ -1,0 +1,401 @@
+<BOS> ANTUN merupakan salah satu jenis puisi lama <CLS> dikenal dalam bahasa-bahasa di Nusantara. yang sangat luas <CLS> Ciri-ciri pantun adalah <CLS> 1 Tiap bait terdiri dari empat barisllarik. <EOS>
+<BOS> isi pantun. <CLS> Karmina atau disebut pantun kilat merupakan bentuk <CLS> pantun yang <CLS> terdiri hanya dua baris. Talibun merupakan bentuk pantun <EOS>
+<BOS> dimana tiap bait terdiri atas 6, 8, 10, atau 12 baris dengan bersajak <CLS> silang a-b-c-a-b-c, a-b-c-d-a-b-c-d, a-b-c-d-e-a-b-c-d-e, atau a-b-c-d- <CLS> e-f-a-b-c-d-e-f. <CLS> Gantvv "Remaia <EOS>
+<BOS> Ada budak membuang dedak, <CLS> penuh setimba di celah batu. <CLS> Berdua tidak, bertiga tidak, <CLS> kekasih hamba hanyalah satu. <EOS>
+<BOS> Ada bunga rapi ditata, <CLS> warnanya cantik berbelah-belah. <CLS> Wahai engkau dinda tercinta , <CLS> maafkan kanda telah bersalah_ <EOS>
+<BOS> Ada burung terbang di angkasa, 1 <CLS> sesekali hinggap di pohon cemara . <CLS> Hati ini terasa kecewa, <CLS> bila ditinggal orang tercinta. <EOS>
+<BOS> Bahana cinta anak remaja, <CLS> sekejap kasih sekejap benci, <CLS> Ada jantung ada debaran, <CLS> ingin bertanya tetapi malu: <EOS>
+<BOS> Ada pijat tuan buangkan; <CLS> ada inti pulut direndam. <CLS> Ada hasrat tak diucapkan, <CLS> ada hati kenapa dipendam. <EOS>
+<BOS> Ada udang di atas batu, <CLS> ada batu dalam perahu. <CLS> Janganlah dinda jauh dariku, <CLS> Kanda selalu sayang padamu. <EOS>
+<BOS> Air yang dalam bertambah dalam; <CLS> hujan di hulu belumlah teduh. <CLS> Cinta di dada bertambah dalam, <CLS> Juka di hati belumlah sembuh. <EOS>
+<BOS> Air pasang bulan pun terang, <CLS> hanyut periuk di dalam peti. <CLS> Hati dendam bertambah dendam, <CLS> cinta membara di dalam hati. <EOS>
+<BOS> Ambil alu dibuat taji, <CLS> kain putih pembungkus dupa. <CLS> Dari dahulu sudah berjanji, <CLS> sampai mati tidaklah lupa. <EOS>
+<BOS> Ambil dian pasang pelita, <CLS> anak dewa main di karang. <CLS> Biar pandai bermain mata, <CLS> jangan ketahuan di mata orang. <EOS>
+<BOS> Ambil getah di Kampung Duri, <CLS> selaguri tumbuh di jirat. <CLS> Besar cinta di dalam diri, <CLS> dari dunia ke akhirat. <EOS>
+<BOS> Ambil kawat di atas peti, <CLS> buah kemiri di dalam kain. <CLS> Jangan dibuat setengah hati, <CLS> hamba tiada cari yang lain.m <EOS>
+<BOS> Ambil obat di Tanah Tinggi, <CLS> bakar dupa di tengah paya. <CLS> Kalau tuan bersahabat lagi, <CLS> jangan lupa kepada saya. <EOS>
+<BOS> Ambil sirih palitkan sedah; <CLS> ambil tilam di rumah bola. <CLS> Kalau diingat tempo yang sudah, <CLS> hati di dalam menjadi gila. <EOS>
+<BOS> Ambil sarung dimakan ngengat, <CLS> batang kelapa di tanah datar . <CLS> Adinda seorang yang hamba ingat, <CLS> tiada lupa barang sebentar . <EOS>
+<BOS> Anak ayam belajar berenang <CLS> anak itik di paya bakau. <CLS> Mulut menyebut hati terkenang, <CLS> Rindukan adik jauh di rantau. <EOS>
+<BOS> Anak ayam turun sekawan, <CLS> turun sekawan memakan padi. <CLS> Sudah nasib untung di badan; <CLS> lain diniat lain yang jadi. <EOS>
+<BOS> Anak ayam turun sepuluh, <CLS> mati satu tinggal sembilan. <CLS> Tuntutlah ilmu dengan sungguh-sungguh, <CLS> agar tidak ketinggalan. <EOS>
+<BOS> Anak bangsawan menjahit tabir , <CLS> sulam di tepi siku keluang. 1 s <CLS> Benci tuan cuma di bibir , <CLS> dalam hati membara sayang ; . <EOS>
+<BOS> Anak bangsawan menjahit tabir , ` : . 1 <CLS> sulam di tepi siku keluang. <CLS> Benci tuan cuma di bibir , s <CLS> Dalam hati membara sayang <EOS>
+<BOS> Anak Cina berkain basah <CLS> bakar tulang baunya sangit. <CLS> Dilihat jinak dipegang susah, <CLS> ibarat bulan tinggi di langit. <EOS>
+<BOS> Anak gadis membanting kain; <CLS> kain pelekat di dalam peti. <CLS> Dalam hati tiada yang lain, <CLS> hanya engkaulah pujaan hati . <EOS>
+<BOS> Anak Islam main pedati, <CLS> burung merak hinggap di jati. <CLS> Kalau sungguh cinta di hati, <CLS> sampai di kubur saya menanti. <EOS>
+<BOS> Anak itik disambar elang, <CLS> dari sumur sampai ke kali. <CLS> Tinggalkan adik abang kan pulang, <CLS> panjang umur jumpa kembali . <EOS>
+<BOS> Anak itik mulai terbang, <CLS> ambilkan dedak berilah makan_ <CLS> Janganlah adik merasa bimbang, <CLS> segela kehendak abang tunaikan <EOS>
+<BOS> Anak jiran pergi mengaji, <CLS> mengaji sifat tentang Allah <CLS> Pandai sungguh abang memuji , <CLS> hingga jantungku copot sebelah. <EOS>
+<BOS> Anak keling pulang berobat, 2 <CLS> ambil kawat di atas peti . ' n <CLS> Kalau betul mau bersahabat, <CLS> jangan dibuat setengah hati. <EOS>
+<BOS> Anak kuda di papan rata , <CLS> ambil kikir dengan gergaji. <CLS> Jikalau saya sudah berkata, <CLS> tidaklah saya mengingkari janji. <EOS>
+<BOS> Anak onta siapa yang punya, <CLS> Menangis iba kehilangan ibu, <CLS> Jika cinta sudah menyapa, <CLS> Rindu mulai membara di kalbu. <EOS>
+<BOS> Anak orang Bukittinggi, <CLS> memancing ikan di dalam tebat. <CLS> Ada dimana kanda kini, <CLS> adik hendak berkirim surat. <EOS>
+<BOS> Anak panah jatuh berderai; <CLS> kina di papan kayu jati. <CLS> Jangan sampai kita tercerai, <CLS> bersatu kita sampailah mati . <EOS>
+<BOS> Anak raja naik kereta, <CLS> budak keling meminum serbat. <CLS> Bermain mata asal mulanya, <CLS> kini hatiku jadi tertambat . <EOS>
+<BOS> Anak raja pergi ke Serang, <CLS> ambil tangga di batang damar , <CLS> Anak muda jaman sekarang, <CLS> sekali bertemu langsung dilamar . <EOS>
+<BOS> adik diam membisu, <CLS> Mengapa 1 ` <CLS> kalaulah salah harap maafkan <CLS> Anak Serani mandikan kuda, d : <EOS>
+<BOS> pohon cempedak berbunga dua . 6 <CLS> Meski kanda seorang duda, <CLS> Cinta adinda tiada dua <CLS> Aneka warna awan di langit, <EOS>
+<BOS> alam indah bak lukisan. ` <CLS> Harapkan cinta dari si genit, <CLS> Istri di rumah dilupakan. <CLS> Apa salahnya pergi mengaji, <EOS>
+<BOS> kitab suci jangan remebkan: <CLS> Apa salahnya abang memuji, <CLS> asal sesuai dengan kenyataan. <CLS> Asam kandis asam belimbing . <EOS>
+<BOS> limau purut dimakan tupai. <CLS> Hati pedih bagai digunting, <CLS> kasih adinda belumlah sampai. <CLS> Awan biru di atas gunung, <EOS>
+<BOS> orang menembak burung dewa. <CLS> Putus benang boleh disambung, <CLS> putus kasih apalah daya. <CLS> Ayam boleh ikan pun boleh, <EOS>
+<BOS> yang penting ada nasinya. <CLS> Hitam boleh putih pun boleh, <CLS> :4 : : . ,; . . <CLS> yang penting baik hatinya . <EOS>
+<BOS> ; ` ` : : ` <CLS> Bakar dupa di tengah paya, <CLS> ' ' ,~ ,` 22!" . <CLS> kunang-kunang di dalam kendi. <EOS>
+<BOS> Batik disimpan di dalam peti, <CLS> pcti bcrukir kembang kemala <CLS> Adik kusemat di dalam hati , <CLS> kukunci kurantai pula <EOS>
+<BOS> Bawa peti dari Malaka, <CLS> berisi pakaian si anak raja <CLS> Kalau hati sudahlah suka, <CLS> Semua keandaan indah saja. <EOS>
+<BOS> Belah dua kelapa puan, <CLS> parut kelapa di dalam talam _ <CLS> Telah kupandang wajahmu tuan, <CLS> cinta di dada bertambah dalam. <EOS>
+<BOS> Beli kain warnanya merah, <CLS> dari Kediri pakai batik. <CLS> Kalau digoda janganlah marah; <CLS> salah sendiri punya wajah cantik. <EOS>
+<BOS> Beras baru ikannya peda, <CLS> pedang pemancung batang talang. <CLS> Paras adik sangat menggoda, <CLS> terbayang-bayang siang dan malam <EOS>
+<BOS> Beras putih dimakan merpati, <CLS> bilik kecil ampaian kain. ~; <CLS> Tuan seorang pelita hati , <CLS> tidak berpaling pada yang lain: <EOS>
+<BOS> Berbaju batik berkain panjang, <CLS> dipakai gadis tengah hari <CLS> Berparas cantik rajin sembahyang, <CLS> itulah istri yang abang cari_ <EOS>
+<BOS> Berbaju batik mata terpikat, <CLS> melirik seyuman memukau <CLS> semuanya . ' . <CLS> Duhai cantik kanda terpikat, 1 . ` <EOS>
+<BOS> Bolehlah tahu siapa namanya. <CLS> Berbendi-bendi ke sungai tenang, <CLS> singgah memetik bunga kesumba. <CLS> Hati siapa yang takkan <EOS>
+<BOS> kanda dinanti telah tiba. <CLS> Beribu-ribu pohon beringin; <CLS> hanya satu si pohon randu. <CLS> Saat malam terasa dingin; <EOS>
+<BOS> hanya wajahmu yang aku rindu. <CLS> Berembang berjurai-jurai; <CLS> yang sejurai di atas tongkat. <CLS> Kembangkan payung tiup serunai <EOS>
+<BOS> jika adinda hendak berangkat. <CLS> Berkepala timah ikan pantau; <CLS> tipis dagingnya ikan sepat. <CLS> Meski jauh abang di <EOS>
+<BOS> Betawi kota Jakarta, <CLS> putri Cina memakai cindai <CLS> Kalau hamba sudah mencinta, <CLS> tidak takut menantang badai . <EOS>
+<BOS> Bila jalan berlubang-lubang <CLS> ambil cangkul dengan cetoknya. <CLS> Kalau boleh kami memandang, <CLS> si baju merah siapa namanya . <EOS>
+<BOS> Boleh dipetik buah mengkudu, <CLS> asal jangan buah pepaya. <CLS> Biar lupa kain dan baju, <CLS> asal jangan kepada saya. <EOS>
+<BOS> Buah berangan warnanya merah, <CLS> kelekati dalam perahu. <CLS> Luka di tangan nampak berdarah; <CLS> luka di hati siapa tahu. <EOS>
+<BOS> Buah cempedak dari Juana, <CLS> mari dibelah di atas sarung. <CLS> Kalaulah abang jauh disana, <CLS> pastilah adik hatinya murung . <EOS>
+<BOS> Buah delima bersusun lima, <CLS> kupetik satu jatuh semua. <CLS> Ada gadis jalan berlima, <CLS> Kurayu satu tertarik semua <EOS>
+<BOS> Buah padi dalam puan, <CLS> gaharu berteras kerat-kerati <CLS> Jikalau jadi gerangan tuan, <CLS> barulah puas rasanya hati. <EOS>
+<BOS> nyawa di badan <CLS> rasa melayang . <CLS> Sintav Santun Suisv <CLS> & Seudahasa 15 <EOS>
+<BOS> Buah salak baru dipetik, <CLS> buah duku buah delima <CLS> Ada banyak wanita cantik , <CLS> cuma dinda yang aku cinta . <EOS>
+<BOS> Buat apa berkain batik , <CLS> kalau belum dijelujur . <CLS> Buat apa beristri cantik, <CLS> kalau hatinya tidak jujur . <EOS>
+<BOS> Budak-budak membuang dedak, <CLS> penuh setimba di celah batu . <CLS> Berdua tidak bertiga pun tidak, <CLS> kasih maba hanyalah satu. <EOS>
+<BOS> Bukan gula sembarang gula, <CLS> gula Jawa buatan Lampung. <CLS> Bukan gila sembarang gila, <CLS> gila adik yang berkerudung . <EOS>
+<BOS> Bukan kacang sembarang kacang, <CLS> kacang melilit kayu jati. <CLS> Bukan datang sembarang datang, <CLS> datang melihat si jantung hati. <EOS>
+<BOS> Bukan kemenyan bukan tawas , <CLS> hanya kemiri di dalam panci. <CLS> Hati dinda sangat was-was , <CLS> takut kanda ingkar janji. <EOS>
+<BOS> Buah kemiri di dalam kain, <CLS> daun pandan jatuh ke batu. <CLS> Dalam hati tiada yang lain, <CLS> cinta abang hanyalah satu . <EOS>
+<BOS> Bukan pedang sembarang pedang, <CLS> pedang pusaka makhudun Sati . <CLS> Bukan datang sembarang datang, <CLS> datang melihat si jantung hati . <EOS>
+<BOS> Bukan titik yang membuat tinta, <CLS> tapi tinta yang membuat titik . <CLS> Bukan cantik yang membuat cinta, <CLS> Tapi cinta yang membuat cantik . <EOS>
+<BOS> Bukit Garuda kayu cendana, 9 <CLS> tempat bersarang si burung balam. <CLS> Sakit muda karena bencana 9 <CLS> hati terang menjadi kelam . . ` <EOS>
+<BOS> Bukittinggi tebingnya curam <CLS> orang menembak burung balam. <CLS> Hati rindu bertambah dendam, <CLS> hati iba remuk di dalam. <EOS>
+<BOS> Bulan mengembang terang cuaca, <CLS> pergi ke darat memetik bunga. <CLS> Jikalau tuan sudah membaca, <CLS> pulangkan surat pada yang punya. <EOS>
+<BOS> Bunga dedap di atas peti, <CLS> bunga capa di dalam puan. <CLS> Barulah puas rasanya hati, <CLS> dapat berjumpa dengan tuan. <EOS>
+<BOS> Bunga kapas di dalam peti, <CLS> hendak dipanjat kayunya licin: <CLS> Barulah puas di dalam hati, <CLS> kalau sudah bertukar cincin. <EOS>
+<BOS> Bunga mawar kembang sekuntum, <CLS> mekar sekuntum di waktu malam. <CLS> Melihat adik senyum berkulum, <CLS> rasa hancur hati di dalam; <EOS>
+<BOS> Bunga melati terapung-apung, <CLS> bunga rampai di dalam puan. <CLS> Rindu di hati tidak tertanggung, <CLS> Bilakah dapat berjumpa tuan. <EOS>
+<BOS> Tidak puas di dalam hati, <CLS> kalau tidak hidup serumah. <CLS> Burung dipanah oleh panglima; <CLS> jatuh tercampak ke dalam padi. <EOS>
+<BOS> Maksud kakanda tuan terima, <CLS> kalaulah tidak apalah jadi. <CLS> Burung merpati terbang melayang; <CLS> singgah sebentar di pohon meranti. <EOS>
+<BOS> Rindu hatiku bukan kepalang, <CLS> wajah tuan termimpi-mimpi. <CLS> Burung nuri burung gelatik, <CLS> terbang jauh dari sarangnya. <EOS>
+<BOS> Memang dinda berwajah cantik, <CLS> tapi sayang tinggi hatinya. <CLS> Burung pipit terbang ke bukit, <CLS> sampai di bukit bertelur dua <EOS>
+<BOS> Bagaimana hati tak sakit, <CLS> melihat hatí bergandeng dua_ <CLS> Cermin di rumah Malin Sutan, <CLS> bawa ke pekan jual beli . <EOS>
+<BOS> Coba-coba menanam mumbang, <CLS> moga-moga tumbuh kelapa - <CLS> Coba-coba bertanam sayang, <CLS> moga-moga tumbuh cinta . <EOS>
+<BOS> Dari Bengkulu ke Semarang, <CLS> arus deras ke Mandalika. <CLS> Dari dulu sampai sekarang, <CLS> hatiku tidak berdua tiga. <EOS>
+<BOS> Dari jauh kapal datang, <CLS> berlabuh dekat Pulau Pandan <CLS> Dari jauh kakanda datang, <CLS> rasa semangat pulang ke badan. 7a4inica <EOS>
+<BOS> Dari Jepang ke bandar Cina, 22: <CLS> singgah berlabuh di Singapura. <CLS> Bunga yang kembang siapa punya, <CLS> Kami ber-ingin memetiknya. <EOS>
+<BOS> Darimana datangnya lintah, {Cio4: {r^6 <CLS> dari sawah turun ke kali. <CLS> Darimana datangnya cinta, <CLS> dari mata turun ke hati . <EOS>
+<BOS> Dari mana hendak kemana, <CLS> manggis dipetik dengan daunnya. <CLS> Kalau boleh kami bertanya, <CLS> gadis cantik siapa namanya. <EOS>
+<BOS> Darimana punai melayang, <CLS> dari paya turun ke padi. <CLS> Darimana datangnya sayang, <CLS> dari mata turun ke hati. <EOS>
+<BOS> Daun miana di atas peti, <CLS> beli lada dibungkus kain; <CLS> Kalau tuan cinta di hati, <CLS> saya tidak mencari lain. <EOS>
+<BOS> Di pinpgir kolam makan buhur , <CLS> janpanlah lupa makan keripik , <CLS> Dari scmalam tak bisa tidur , <CLS> tcringat wajah adík yang cantik , <EOS>
+<BOS> Disana gunung disini gunung, <CLS> ditengah-tengah bunga melati. <CLS> Disana bingung disini bingung, <CLS> sama-sama menaruh hati. <EOS>
+<BOS> Disana laut di sini laut, <CLS> pulau karang. <CLS> ditengah-tengahnya= <CLS> Hati siapa tidak kalut, <EOS>
+<BOS> pacar tersayang dipinang orang: <CLS> mengembang, <CLS> Di sana sini bunga <CLS> bunga tinggal sendiri . <EOS>
+<BOS> Disini raja disana raja, <CLS> tiada seperti raja melati. <CLS> Disini muda disana muda; <CLS> adinda jua lekat di hati. <EOS>
+<BOS> Embun jantang turun berderai, <CLS> turun menimpa si rama-rama: <CLS> Dunia akhirat jangan bercerai, <CLS> naik timbangan bersama-sama. <EOS>
+<BOS> Gali lubang buat petakan, <CLS> buatlah Jubang di dekat rawa. <CLS> Kalau abang mau kenalan, <CLS> datanglah abang ke rumah saya. <EOS>
+<BOS> Gali lubang tutup lubang, <CLS> lubang dipakai untuk perangkap. <CLS> Dinda bimbang menunggu abang, <CLS> dalam hati ingin diungkap. <EOS>
+<BOS> Gelang cmas di atas pcti, <CLS> ambil lampu padam pelita , <CLS> Alangkah puas rasanya hati , 3 <CLS> jika dapat bertentangan mata <EOS>
+<BOS> Makin dipandang semakin manis , ` <CLS> sampai dihati tambah menggila. <CLS> Hati-hati menyeberang, <CLS> jangan sampai titian patah. <EOS>
+<BOS> Hati-hati dirantau orang, <CLS> Jangan sampai berbuat salah. <CLS> Hati-hati minum di gelas, <CLS> kalau terlepas pecahlah nanti. <EOS>
+<BOS> Cinta hati selalu ikhlas, <CLS> cinta buta yang makan hati . <CLS> Hilang sepi di raut wajah, <CLS> usah terlerai nilainya budi. <EOS>
+<BOS> Hujan basah habis pun basah, <CLS> duduk sendiri tidak mengapa. <CLS> Sudah lama kita berpisah, <CLS> baru kini kita berjumpa. <EOS>
+<BOS> Hujan panas turun berderai, <CLS> guruh menyambar pohon 'jati. <CLS> Kasih sayang tak boleh bercerai, <CLS> bagaikan rambut bersimpul mati . 1 , <EOS>
+<BOS> Ikan asin dimakan kucing, <CLS> kucing berjalan di atas dipan; <CLS> Hati siapa tidak terpancing, <CLS> melihat dinda berlenggang badan; <EOS>
+<BOS> Pikiran buntu badan sengsara, <CLS> bila kekasih jauh di mata. <CLS> Ikan belanak hilir berenang, <CLS> burung dara membuat sarang. <EOS>
+<BOS> Makan tak enak tidur tak tenang, <CLS> hanya teringat dinda seorang . <CLS> Ikan di laut garam di darat, <CLS> dalam kuali bertemu jua. <EOS>
+<BOS> Hati terpaut janji terikat <CLS> atas pelamin bertemu jua. <CLS> Ikan sepat dimasak berlada, <CLS> kutunggu digulai anak seberang. <EOS>
+<BOS> Jika tak dapat dimasa muda, 12' <CLS> kutunggu sampai beranak seorang- <CLS> Indra Giri pasirnya lumat, <CLS> puncak Tenggamus dengan Singgalang: <EOS>
+<BOS> Ibarat Nabi kasihkan umat, <CLS> begitu juga saya kasihkan tuan. <CLS> Jalan-jalan ke Kalimantan, 2' <CLS> hanya untuk membeli acar: 3 ' . <EOS>
+<BOS> Perih rasanya hidup kesepian; <CLS> ingin rasanya punya pacar . <CLS> Jalan-jalan ke kota Paris , <CLS> banyak rumah berbaris-baris. <EOS>
+<BOS> Jalan-jalan ke kota Pati , <CLS> jangan lupa oleh-olelnya. . n <CLS> Jangan suka bermain hati , <CLS> nanti bisa kena batunya. <EOS>
+<BOS> Jalan-jalan ke Pulau Bali <CLS> tidak lupa bermalam di villa . <CLS> Kita bertemu baru sekali, <CLS> engkau membuatku tergila-gila. <EOS>
+<BOS> Jalan-jalan ke Tanjung Karang, <CLS> janganlah lupa membeli sikat. <CLS> Daripada adik diambil orang, <CLS> lebih baik abang yang ikat. <EOS>
+<BOS> Jangan sagu atau pun pisang <CLS> apa pegangan hendak dibuatkan. <CLS> Jangan ragu ataupun bimbang, <CLS> apa gerangan hendak dikatakan. <EOS>
+<BOS> Jika aku seorang pemburu, <CLS> anak rusa kan kudapati. <CLS> Jika dinda merasa cemburu, <CLS> tanda cinta masih sejati. <EOS>
+<BOS> Jika kamu dikejar hiu, <CLS> berenanglah sampai ke hulu. <CLS> Jikalau kamu cinta padaku, <CLS> bawalah aku ke penghulu . '^. .2 <EOS>
+<BOS> Juragan pisau makan buah, <CLS> buahnya kotor kena tinta. <CLS> Jangan risau janganlah gundah, <CLS> karena derita bumbunya cinta. <EOS>
+<BOS> Kain batik bersegi lima, <CLS> basah kuyup ditimpa embun. <CLS> Kasih kanda dinda terima; <CLS> menjadi hutang beribu tahun. <EOS>
+<BOS> Yang haru, <CLS> Kalau ada kcmhang <CLS> dikupas jangan, <CLS> bunga kenangan <EOS>
+<BOS> jangan lupa manis , <CLS> gadis yang <CLS> Sungguh dinda <CLS> membuat rindu dihatiku . <EOS>
+<BOS> Kalau ingin pergi ke hutan, <CLS> jangan Jupa peralatannya . <CLS> Kalau kamu ingin berkenalan, <CLS> pergi saja ke rumahnya. <EOS>
+<BOS> Kalau pergi ke pulau Bali, <CLS> harap mampir di Jembrana. <CLS> Kakanda sayang cepat kembali, <CLS> hati dinda sudah merana. <EOS>
+<BOS> Kapal layar membuang sauh, <CLS> sauh dibuang perlahan-lahan. <CLS> Abang jauh adik pun jauh, <CLS> kalau rindu sama ditahan. <EOS>
+<BOS> Kelap-kelip bintang bertaburan, <CLS> hanya satu yang tampak terang . <CLS> Sungguh banyak pria pilihan, <CLS> hanya kanda paling kusayang . <EOS>
+<BOS> hanya kanda yang kurindukan. <CLS> Kelap-kelip bintang scribu, <CLS> indah menawan di tengah malam , <CLS> Sungguh aku sedang merindu, <EOS>
+<BOS> Biar cinta banyak rintangan; <CLS> akan kujaga dengan kesetiaan. : . ' <CLS> Kembang gula di perigi, <CLS> untuk aku minum jamu. <EOS>
+<BOS> Kemana pun kamu pergi, <CLS> aku selalu rindu kamu. <CLS> Kucing kurus mandi di papan, <CLS> papannya si kayu jati. <EOS>
+<BOS> Badan kurus bukan kurang makan, <CLS> tetapi mikirin si jantung hati. <CLS> Kue cucur enak rasanya; <CLS> kue serabi putih warnanya. <EOS>
+<BOS> Hati hancur karena cinta, <CLS> siapa yang mau jadi obatnya. <CLS> Laju-laju perahu laju, <CLS> Lajunya sampai ke Surabaya. . . <EOS>
+<BOS> Lupa kain lupakan baju; 3 : . . . <CLS> tetapi jangan lupakan saya. <CLS> Langit cerah awan membiru, <CLS> dinihari embun pun jatuh. <EOS>
+<BOS> Layang-layang terhang melayang, <CLS> jatuh di laut mclayang-layang. <CLS> Siapa bilang saya tak sayang, <CLS> siang malam terbayang-bayang. <EOS>
+<BOS> Layang-layang terbang = melayang, <CLS> terbang melayang hingga tinggi. <CLS> Bila siang terbayang-bayang, <CLS> apabila malam terbawa mimpi. <EOS>
+<BOS> Limau purut lebat dipangkal, <CLS> sayang selasih condong uratnya . <CLS> Angin ribut dapat ditangkal, <CLS> hati yang sedih apa obatnya. <EOS>
+<BOS> Makan sayur di dalam mangkuk, <CLS> pergi ke Cina hanya diangan. <CLS> Hati siapa yang tidak tertekuk; <CLS> melihat dinda bergandeng tangan. <EOS>
+<BOS> Mangga di petik warnanya merah, <CLS> sayang disayang tinggallah satu. <CLS> Wahai abang berbaju merah; <CLS> sudah lupakah pada diriku. <EOS>
+<BOS> Manis-manis sekepal gula, <CLS> lebih manis sesendok madu. <CLS> Manis-manis senyum si janda, <CLS> lebih manis senyum bibirmu . <EOS>
+<BOS> Manis rasanya buah rambutan, 1 ; <CLS> buahnya bulat warnanya merah. <CLS> Sudah lama kita kenalan <CLS> bolehlah abang datang ke rumah. <EOS>
+<BOS> Masuk kampung keluar kampung, <CLS> dalam kampung adalah kali. <CLS> Masuk bingung keluar bingung, <CLS> ingatkan tuan si jantung hati <EOS>
+<BOS> Melompat belalang di atas kapuk , <CLS> melihat orang hendak berperang. <CLS> Alangkah malang si bujang lapuk, <CLS> bunga di taman disambar orang. <EOS>
+<BOS> Membawa peti dari Malaka, ' ` <CLS> berisi pakaian si anak raja n <CLS> Kalau hati merasa suka <CLS> semua keadaan indah di mata . <EOS>
+<BOS> Mencari kayu di hutan jati, <CLS> dengan gergaji berjumlah dua <CLS> Kalaulah kamu teman sejati, <CLS> mari berbagi suka dan duka . <EOS>
+<BOS> Meski hanya buah jambu, <CLS> tapi ini bisa diramu. <CLS> Meski kita jarang bertemu; <CLS> cinta ini hanya untukmu. <EOS>
+<BOS> Monyet bergelar di buruk rupa, <CLS> suka memanjat di pohon jambu. <CLS> Ayo kawan selagi muda, <CLS> kita berlomba mencari ilmu. <EOS>
+<BOS> Mulanya duka kini menjadi lara, <CLS> teman tiada hatilah sendu. <CLS> Bila rindu mulai membara, <CLS> Itulah tanda cinta mulai berpadu. <EOS>
+<BOS> Nasi lemak buah bidara, ": . ` <CLS> sayang selasih hamba lurutkan. <CLS> Hilang lemak hilang saudara, <CLS> karena kasih hamba turutkan. ` <EOS>
+<BOS> Pagi-pagi makan jenang, d . <CLS> jenang diiris di atas nampan. 1 [ <CLS> Hati siapa yang tidak senang, 'd ` . . <CLS> melihat dinda cantik rupawan. ` . <EOS>
+<BOS> Pakai kerudung disemat peniti, <CLS> kerudung indah warnanya biru. <CLS> Telah lama dinda menanti, <CLS> dari bibirmu. <EOS>
+<BOS> ucapan cinta <CLS> Paling cakap burung gelatik , <CLS> di atas awan terbang melayang: <CLS> Memang banyak wanita cantik , <EOS>
+<BOS> Hanya dinda yang abang sayang . <CLS> Paling enak si mangga udang, <CLS> pohonnya tinggi buahnya jarang:. <CLS> Paling enak hidup membujang, <EOS>
+<BOS> kemana-mana tiada yang larang . <CLS> Pasar malam di Tanjung Balai, <CLS> pergi ke pasar beli pepaya. <CLS> Hati siapa yang tak lalai, <EOS>
+<BOS> melihat dinda memakai kebaya. <CLS> Pergi berlayar ke Surabaya, <CLS> lewati ombak tujuh samudera <CLS> Melihat adik sedang bergaya, <EOS>
+<BOS> cinta kakanda makin membara. <CLS> Laju cepat si perahu laju, <CLS> laju pergi menuju hulu . <CLS> Kalau semua sudah setuju, <EOS>
+<BOS> bulan depan kita ke penghulu. <CLS> Pergi ke pasar membeli sikat, 1 . <CLS> sikat disimpan di dalam peti . <CLS> Hati siapa tidak terpikat, <EOS>
+<BOS> wajah dinda menawan hati . ` . . <CLS> Pergi ke pasar membeli cobek, <CLS> cobek buatan kota Semarang. <CLS> Hati bagai disobek-sobek, <EOS>
+<BOS> Pcrmata jatuh ke rumput, <CLS> jatuh ke rumput bilang-bilang . <CLS> Dari mata sungguh pun luput , <CLS> dari hati tidaklah hilang <EOS>
+<BOS> Pesawat terbang melayang-layang, <CLS> terbang melintasi gunung berapi. <CLS> Kalau adik benar-benar sayang, <CLS> cinta kanda sepenuh hati <EOS>
+<BOS> Pohon jambu berbuah jarang, <CLS> batang mengering banyak ulatnya <CLS> Hati kanda untukmu seorang, <CLS> Tiada yang lain memilikinya. <EOS>
+<BOS> Pohon pepaya di dalam semak, <CLS> pohon manggis sebesar lengan. <CLS> Kawan tertawa memanglah banyak, <CLS> kawan menangis diharap jangan. <EOS>
+<BOS> Jangan ragu janganlah bimbang, <CLS> cintaku hanya untukmu seorang: <CLS> Pohon selasih tumbuh melata, <CLS> tumbuh perdu jauh disana. <EOS>
+<BOS> Sepasang kekasih mabuk bercinta, <CLS> Siang merindu malam merana <CLS> Pucuk pauh batangnya pauh, ' . . . <CLS> ditengah-tengah pokok mengkudu . . ' : 7 ` <EOS>
+<BOS> Pucuk pauh delima hatu, <CLS> anak semhilang di tapak tangan, <CLS> Tuan jauh di negeri satu <CLS> Hilang dimata di hati jangan. <EOS>
+<BOS> Putri di taman memakai gelang, <CLS> rambut berurai bawa mahkota. 70 <CLS> Bunga idaman disambar orang, <CLS> jatuh berderai si air mata. <EOS>
+<BOS> Rama-rama di tudung peti, . <CLS> duduk di pasar berjualan kain. <CLS> Sama-sama menaruh hati, <CLS> berpaling pada yang lain ' . <EOS>
+<BOS> Kalau rindu sebut namaku; <CLS> air mata jangan dibuang . <CLS> Rumah di kota amatlah bersih, <CLS> bermain si orang kaya. <EOS>
+<BOS> mata berasa kasih, <CLS> Berpantang <CLS> jumpa yang lain lupakan saya. <CLS> Rumpun buluh dibuat pagar , <EOS>
+<BOS> Sayang-sayang mabuk kepayang, <CLS> bunga di taman disunting kumbang <CLS> Belun dapat abang disayang, <CLS> sudah dapat abang dibuang. <EOS>
+<BOS> kenapa dinda masih suka . <CLS> Sungguh besar si pohon sagu, 9 . . . ~ <CLS> namun tak ada yang berkayu. <CLS> Janganlah dinda bimbang dan ragu, <EOS>
+<BOS> Sungguh indah si burung pipit, <CLS> terbang tenang si burung dara. : 2'7 <CLS> Bila kutahu bercinta sakit, <CLS> Takkan kumulai dari semula. <EOS>
+<BOS> Sungguh manis rasanya madu, 72;^ 212 <CLS> madu dikutip di pohon gaharu. <CLS> Sudilah dinda menerima cintaku, ': :; <CLS> karena dinda pujaan hatiku. <EOS>
+<BOS> Tebat berisi ikan tenggiri, <CLS> anak kera makan rambutan. <CLS> Sungguh pandai kanda memuji, 9 <CLS> membuat dinda lupa daratan. <EOS>
+<BOS> Telah masak buah mengkudu, <CLS> masak pula buah kepayang. <CLS> Hati risau bercampur rindu, <CLS> siang dan malam terbayang-bayang. <EOS>
+<BOS> rasakan lurut jantung <CLS> Tersebut kisah di Gunung Padang, <CLS> bersarang ular naga. <CLS> tempa bexsabergain pandang, <EOS>
+<BOS> nanti abang jadi tergoda. <CLS> Tiinggi gunung seribu janji , ; <CLS> sampailah mati . <CLS> janji dibawa <EOS>
+<BOS> Tinggi-tinggi si matahari, <CLS> anak kerbau mati tertambat. <CLS> Sudah lama saya mencari, <CLS> baru sekarang saya mendapat . 1 . <EOS>
+<BOS> Tumbuh tinggi si pohon perdu; <CLS> lebih tinggi si pohon jati . <CLS> Hati bimbang menanggung rindu, <CLS> rindu kepada si jantung hati. ' . . <EOS>
+<BOS> Ujunglah badik setajam duri, <CLS> diasah menjelang petang. <CLS> Janganlah adik bersedih hati, <CLS> karena abang telah datang- ' : 7 <EOS>
+<BOS> Untuk apa pisang emas , <CLS> jika buahnya dimakan musang_ <CLS> Untuk apa uang dan emas , <CLS> jika kekasih jatuh ke orang. <EOS>
+<BOS> Untuk menjadi seorang perwira, <CLS> harus bertapa di dalam gua. <CLS> Kalau cinta kukuh di jiwa, <CLS> biar melayang kembali jua. <EOS>
+<BOS> Wahai seruling buluh perindu; <CLS> suaranya sangat memikatku . <CLS> Duhai gadis pujaan hatiku, <CLS> aku sangat mencintaimu . ' ` <EOS>
+<BOS> (gantauı 'Q(ranq Oua <CLS> Ada biji di atas peti, <CLS> peti dililit besi baja. <CLS> Hamba berjanji di dalam hati <EOS>
+<BOS> cukup nikah sekali saja. <CLS> Air melurut ke tepian mandi, <CLS> kembang berseri bunga seduduk . <CLS> Elok diturut sifatnya padi, <EOS>
+<BOS> semakin berisi semakin merunduk . <CLS> Anai-anai berhias duri, <CLS> pagar tegak di pulau karang. <CLS> Pandai-pandai menjaga diri, 9 <EOS>
+<BOS> agar tidak dihina orang. <CLS> Anak ayam lari ke lahan; <CLS> burung bayan terbang melayang. <CLS> Ingatlah selalu kepada Tuhan; <EOS>
+<BOS> karena Dia Mahapenyayang. <CLS> Anak ayam turun sekawan, <CLS> turun ke sawah memakan padi. <CLS> Sudah nasib untung di badan. <EOS>
+<BOS> lain diniat lain yang jadi. <CLS> Anak ayam turun sepuluh, <CLS> mati satu tinggallah sembilan. <CLS> Tuntutlah ilmu dengan sungguh-sungguh, ` <EOS>
+<BOS> muda jangan takabur , ' . <CLS> Cobaan Allah <CLS> siapa tahu . <CLS> Anak orang <EOS>
+<BOS> Kalau tak takut kepada Allah, <CLS> rusaklah iman fasiklah diri <CLS> Anak rusa masuk ke taman, <CLS> puas sudahı orang berburu . <EOS>
+<BOS> Kalau muda jadikan teman; <CLS> kalau tua jadikan guru. <CLS> Anak santri pergi berenang, <CLS> pergi berenang berdendang sayang. <EOS>
+<BOS> Jika hidup dikarunia senang, ' <CLS> janganlah lupa tikar sembahyang. <CLS> Anak udang mati dituba <CLS> lada sulah masak dilurut. <EOS>
+<BOS> Perbuatan haram jangan dicoba, <CLS> sabda rasul hendak diturut. <CLS> Angin teluk menyisir pantai, <CLS> hanyut rumpai di bawah titi. <EOS>
+<BOS> Biarlah buruk kain dipakai, <CLS> asal pandai mengambil hati. <CLS> Asal kapas menjadi benang, <CLS> dari benang buatlah kain. <EOS>
+<BOS> Barang lepas jangan dikenang, <CLS> sudah menjadi hak orang lain <CLS> Bakar api di dalam sekam;, <CLS> sekam disimpan dalam perahu. <EOS>
+<BOS> Kita berkasih diam-diam <CLS> jangan ada orang yang tahu. <CLS> Bandar Baru seberang Perai, <CLS> gunung Daik bercabang tiga. <EOS>
+<BOS> Hancur badan tulang tercerai, 2 <CLS> budi baik dikenang juga. <CLS> Banyaklah angsa berebut terbang, <CLS> membumbung angsa menuju lepak. <EOS>
+<BOS> Banyaklah jasa disehut orhng , <CLS> agunglah jasa ibu dan hapak , <CLS> Banyaklah masa di antara mnasa , <CLS> tidak scelok masa bersuka; <EOS>
+<BOS> Meninggalkan sembayang jadi biasa , <CLS> tidakkah takut api neraka <CLS> Banyak sekali pulau di Indonesia; <CLS> salah satunya pulau Papua. <EOS>
+<BOS> nanti menyesal. <CLS> kalau tergesa <CLS> dibelah-belah; <CLS> Batang nangka <EOS>
+<BOS> buah jambu jatuh tercebur; <CLS> Jikalah datang murka Allah, <CLS> remuklah badan di dalam kubur . <CLS> Bendahara mudik berkakap , <EOS>
+<BOS> Balai Selasa Kembang Pelangai. <CLS> Saudara jangan berbesar cakap, <CLS> jaga-jaga pegang perangai. <CLS> Berakit-rakit ke hulu, <EOS>
+<BOS> berenang-renang ke tepian. <CLS> Bersakit-sakit dahulu, <CLS> bersenang-senang kemudian. <CLS> Berbaju batik berkain mayang, <EOS>
+<BOS> dipakai gadis di tengah hari. <CLS> Berparas cantik rajin sembayang, <CLS> itulah istri yang dicari. <CLS> Berbekal sisir monyet berkaca, <EOS>
+<BOS> Itu pertanda anak yang pandai . <CLS> Berburu ke padang datar , <CLS> mendapat rusa belang di kaki. <CLS> Berguru kepalang ajar , <EOS>
+<BOS> Bila terkenang mulut menyebut, <CLS> budi yang baik ingat selalu . <CLS> Buah cempedak berbentuk bujur , <CLS> sangat disuka orang belia <EOS>
+<BOS> Jika suka berkata jujur , <CLS> hidup akan dipandang mulia <CLS> Buah duku dari Palembang, <CLS> buah anggur dari Bosnia. <EOS>
+<BOS> Baca buku janganlah jarang, <CLS> karena buku jendela dunia. <CLS> Buah duku rusak terinjak, <CLS> buah jambu dimana-mana. <EOS>
+<BOS> Orang dungu memang tak enak, <CLS> kemana-mana slalu dihina. <CLS> Buah kelapa jatuh berjajar , <CLS> diambil ayah untuk disimpan. <EOS>
+<BOS> Semasa musa rajinlah belajar , <CLS> untuk bekalmu dimasa depan. <CLS> Buah mengkudu buah kana, . . ' . ` <CLS> pohon pepaya berbuah dua. 3 <EOS>
+<BOS> asal kita bahagia berdua. '. ; : . - <CLS> Buah pandan jatuh tercebur , ` <CLS> delima tumbuh di atas batu . <CLS> Sintav Janu, $uisà & 9eulahasa 37 <EOS>
+<BOS> kalau hatinya tidak jujur. <CLS> Buat apa berkain batik , <CLS> kalau tidak dengan bajunya. <CLS> Buat apa beristri cantik, <EOS>
+<BOS> kalau tidak bersih hatinya. <CLS> Bukan jantung sembarang jantung, <CLS> jantung pisang di dalam peti. <CLS> Bukan bingung sembarang bingung, <EOS>
+<BOS> bingung pikirkan cari pengganti. <CLS> Bunga binasa di atas kubur , <CLS> pucuk sari pandan Jawa <CLS> Apa guna sifat takabur , <EOS>
+<BOS> rusak hati rusak jiwa. <CLS> Bunga dahlia adalah tanaman, <CLS> ke barat juga akan rebahnya. <CLS> Harta dunia hanya pinjaman; <EOS>
+<BOS> ke akhirat juga kita nantinya. <CLS> Burung gelatik di atas dahan, <CLS> terbanglah pergi ke lain pohon. <CLS> 38 Sintav Janu Suisi & @enibahasa <EOS>
+<BOS> Hidup dan mati di tangan Tuhan, <CLS> kepada Allah kita bermohon. <CLS> Belah bulu taruhlah yamu <CLS> batang cempedak pohon pedada. <EOS>
+<BOS> duduklahı hendak mengada-ada ' . . <CLS> Beli jeruk di pasar buah, 3 ' . ; ^ . <CLS> Beli satu dapat pepaya n <CLS> Jangan lupa untuk sedekah, <EOS>
+<BOS> karena sedekah membuat kaya . <CLS> Bila hendak membeli sukun, <CLS> pergi saja ke kota Blitar . <CLS> Jikalau kamu rajin dan tekun; <EOS>
+<BOS> pasti jadi anak yang pintar . <CLS> Buah pelaga makan dikikir , n) <CLS> dibawa orang dari hulu. <CLS> Sebelum kerja hendaklah dipikir , ' . : <EOS>
+<BOS> supaya jangan mendapat malu. <CLS> Bukan pedang sembarang pedang, ' <CLS> pedang pusaka Makhdum Sati . ` <CLS> Bukan datang sembarang datang, . <EOS>
+<BOS> besar maksud di dalam hati . . ` <CLS> Bunga anggrek pohon benalu; : . ` . . . `1 2 <CLS> buah berangan dari Jawa. ` <CLS> Kalau cerdik pikirlah dahulu; ;^ . . s <EOS>
+<BOS> jangan diri dapat kecewa. ' s <CLS> Bunga kenanga di atas kubur , ' . : ' . : . . <CLS> pucuk sari pandan Jawa. 1 ' 1. , <CLS> Apalah guna sombong takabur , ' . ," . ' . . . . <EOS>
+<BOS> merusak hati badan binasa <CLS> Bunga mawar bunga melati, ` ^ . <CLS> kalau dicium harum baunya. <CLS> Sintav Januun, Juisi & Yeudahasa 39 <EOS>
+<BOS> Baca Qur'an paham <CLS> maknanya . <CLS> Bunga mawar penuh berduri , <CLS> diambil untuk kekasihı hati <EOS>
+<BOS> Selagi di dunia rajin mengaji, <CLS> di akhirat surga menanti <CLS> Burung bangau terbang melayang, <CLS> terbang melayang di atas peti. <EOS>
+<BOS> Hidup harus saling menyayang, <CLS> agar kita selalu diberkati. <CLS> Burung gelatik burung tekukur , <CLS> hingga di atas pohon kelapa. <EOS>
+<BOS> Sudah cantik berbudi luhur , <CLS> manis pula tegur dan sapa. <CLS> Cuaca gelap semakin redup, <CLS> bakar lilin kembali terang. <EOS>
+<BOS> Budi bahasa amalan hidup, <CLS> barulah kekal dihormati orang <CLS> Daging kambing dibakar-bakar , <CLS> menjadi sate dalam hidangan. <EOS>
+<BOS> Jadi orang harus bersabar , <CLS> orang sabar dikasihi Tuhan. <CLS> Dari Pati ke Surakarta; <CLS> hendak bertemu dengan Pak Camat. <EOS>
+<BOS> anak udang mati dituba. <CLS> Dalam kitab ada <CLS> terlarang, <CLS> perbuatan haram <EOS>
+<BOS> Kami lupa-lupa ingat , <CLS> siapa gerangan gelar beliau. <CLS> Di kota Lampung banyak rumah , <CLS> rumah terletak di tepai taman. <EOS>
+<BOS> Disana gunung disini gunung, <CLS> ditengah-tengah bunga melati_ <CLS> Disana bingung disini bingung, <CLS> sama-sama tak enak hati . <EOS>
+<BOS> Di tepi kali saya menyinggah, <CLS> menghilang penat menahan jerat. <CLS> Orang tua jangan disanggah, <CLS> agar selamat dunia akhirat. <EOS>
+<BOS> Elang dipanah Sri Rama, <CLS> mati dipanah busur sakti. <CLS> Mati dan hidup kita bersama, <CLS> begitu pinta di dalam hati . <EOS>
+<BOS> Encik Dullah seorang kerani, <CLS> akan terkejut bila meniti. <CLS> Tinggalkan sembahyang terlalu berani, <CLS> seakan tubuh tak pernah mati <EOS>
+<BOS> Hati-hati di rantau orang <CLS> berhuat salah. <CLS> jangan sampai <CLS> masuk ke helat , <EOS>
+<BOS> Ikan belanak <CLS> jatuh kelopak . <CLS> cempedak lisut <CLS> hendaklah diingat, <EOS>
+<BOS> Aduhai anak <CLS> pengajaran bapak . 1 <CLS> jangan tak ikut <CLS> di atas bukit, <EOS>
+<BOS> naik bendi Bugis lama: 1 " <CLS> tidak sedikit, <CLS> Kasih hamba <CLS> mati kita bersama. <EOS>
+<BOS> si kapal perak, <CLS> Ini pantun <CLS> terkembang kencang lajunya . <CLS> layar ditebak, <EOS>
+<BOS> Hati seseorang susah <CLS> dari sifatnya. <CLS> tapi dapat dilihat <CLS> Jalan-jalan ke kota Roma, <EOS>
+<BOS> berkeliling kota naik kuda. <CLS> Selamat ulang tahun mama, <CLS> semoga tetap awet muda. <CLS> Jalan-jalan mencari ketan; <EOS>
+<BOS> ketan pedas langsung dimakan. <CLS> Budi baik jadi panutan, <CLS> akan disayang guru dan rekan. <CLS> Jalan kaki ke kota Semarang, <EOS>
+<BOS> badan sakit capek semua <CLS> Kalau kamu hidup senang, <CLS> jangan lupa dengan orang tua. <CLS> Jalan kaki pergi ke hulu, <EOS>
+<BOS> elang terbang ke seberang . <CLS> Janganlah kita mendapat malu, <CLS> kelak tidak dipandang orang . . . ' <CLS> Jalan kelam disangka terang, ie <EOS>
+<BOS> Akal pendek disangka panjang, <CLS> janganlah hati kita dikunci . <CLS> Jamu ini obat yang kuat , <CLS> obat penawar racun dan bisa, <EOS>
+<BOS> Penganglah janji dengan erat, <CLS> agar badan tidak binasa . 6 . ' <CLS> Jangan pergi mandi di lombong, <CLS> emak dan kakak sedang mencuci. <EOS>
+<BOS> Jangan suka berkata bohong, <CLS> semua kawan akan membenci_ s <CLS> Jikalau tuan mengangkat peti, <CLS> tolong masukkan semua barang. ; <EOS>
+<BOS> Jikalau kita bersatu hati, <CLS> kerja yang susah menjadi riang <CLS> Kalau harimau sudah mengaum 9 <CLS> bunyinya keras tak berirama. <EOS>
+<BOS> Kalau ada ulangan umum, <CLS> ada baiknya belajar bersama. <CLS> Kalau pergi ke kota Palu, <CLS> jangan lupa untuk berwisata. <EOS>
+<BOS> Kalau masih punya malu, <CLS> jangan pernah berkata dusta. <CLS> Kapal berlayar jauh ke tengah, <CLS> bajak laut sedang berlaga. <EOS>
+<BOS> Hancur badan dikandung tanah, <CLS> budi baik dikenang juga. <CLS> Kapal layar dari Cina, :92 ` .1" . <CLS> singgah memuat papan jati. ^ . <EOS>
+<BOS> Amal dan iman biar sempurna, 1 ,% . <CLS> tidaklah jadi sesal di hati. <CLS> Katak jantan sedang berkaca, Creo <CLS> katak betina merasa malu. <EOS>
+<BOS> Jika kamu malas membaca, <CLS> tidak akan bertambah ilmu. <CLS> Kayu bakar dibuat arang, <CLS> arang dibakar panaskan diri. <EOS>
+<BOS> Kayu papan putus dibelah, <CLS> dengan belati dipotong dua. <CLS> Buat apa tampan di wajah, <CLS> di dalam hati tiada imannya. <EOS>
+<BOS> Ke hulu membuat pagar , <CLS> jangan terpotong batang durian. <CLS> Carilah guru tempat belajar , <CLS> jangan sampai menyesal kemudian. <EOS>
+<BOS> Kelap-kelip lampu berjajar , <CLS> anak kecil main sendiri. <CLS> Sejak kecil rajin belajar , <CLS> sudah besar senanglah diri. <EOS>
+<BOS> Kemumu di tengah pekan; <CLS> dibembus angin jatuh ke bawah. <CLS> Punya ilmu tak diamalkan, <CLS> bagai pohon tidak berbuah. <EOS>
+<BOS> Kemuning di tengah <CLS> balai ' . . . . <CLS> bertumbuh terus <CLS> Berunding semakin tinggi. <EOS>
+<BOS> Murid baík hormati punu, <CLS> Itu namanya murid hudiman, <CLS> Kera di hutan melompat-lompat, 1 <CLS> scorang pemburu memasang jerat. s <EOS>
+<BOS> Hinalah sungguh sifat mengumpat , , <CLS> dilaknat Allah dunia akhirat . 3 <CLS> Kertas putih tergores tinta, , <CLS> tinta hitam bunga dahlia . <EOS>
+<BOS> Selama ulang tahun bunda tercinta, <CLS> semoga engkau selalu bahagia_ <CLS> Kota Bogor banyak hujannya, <CLS> singgah ke pasar membeli talas <EOS>
+<BOS> Bangsa kurang harta tak punya, 2 7 <CLS> dengan apa budi kubalas . 3 ' . : <CLS> Kulit lembu dicelup samak, <CLS> sehari membuat tapak kasut. <EOS>
+<BOS> Harta dunia janganlah tamak; '22 w <CLS> jikalau mati tidaklah ikut. <CLS> Lapun-melapun ke Indragiri, <CLS> singgah sebentar ke Betipuh. <EOS>
+<BOS> Ampun hamba tegak berdiri, <CLS> ujudnya duduk dengan bersimpuh. <CLS> Layang-layang selayang pandang, <CLS> layang mainan si Malinkundang . <EOS>
+<BOS> Hati di dalam rasa berguncang, <CLS> nyawa di badan rasa melayang. ' . 1 <CLS> Makan nasi lauk kerupuk, <CLS> minum air sudah biasa . <EOS>
+<BOS> Meski kita selalu sibuk, <CLS> jangan lupa pada Yang Kuasa . 1 : . ? <CLS> Malam hari gelap gulita, <CLS> memakai lilin jalan ke taman. <EOS>
+<BOS> Bersihkan diri sambil berenang - <CLS> Jikalau kamu mampu mandiri, <CLS> Orang tuamu pasti kan senang- <CLS> Masuk hutan pakai sepatu, <EOS>
+<BOS> takut terkena akar mencuat. <CLS> Hendaklah kita selalu bersatu, <CLS> semua pekerjaan mudah dibuat. <CLS> Menanam padi di tengah sawah, <EOS>
+<BOS> sawah subur milik Pak Haji. <CLS> Pagi hari pergi sekolah, <CLS> sore hari pergi mengaji. <CLS> Minum jamu dekat sekolah, <EOS>
+<BOS> jamu diolah dalam bejana. <CLS> Kalau mampu segera menikah, <CLS> karena menikah mencegah zina, <CLS> Orang Bangka jual martabak, <EOS>
+<BOS> layang-layang diberi jambul . <CLS> Barulah senang <CLS> ibu dan bapak, <CLS> nelihat anak berijab kabul . <EOS>
+<BOS> kali banyak tak terkira. <CLS> Turutilah nasehat <CLS> orang tua, <CLS> agar hidupmu <EOS>
+<BOS> Hati muda jangan diturut, <CLS> kalau diturut masalah datang <CLS> Pagi-pagi mendengar berita, <CLS> berita dari bibi Rogaya. <EOS>
+<BOS> Hidup harus punya cita-cita, <CLS> agar hidup kita berjaya. <CLS> Pagi-pagi memakan roti, 6 ' <CLS> lebih enak ditambah mentega. <EOS>
+<BOS> Seringlah anda berbaik hati, <CLS> agar bisa masuk ke surga. <CLS> Pagi-pagi minum jamu, <CLS> pergi ke pasar membeli daging. <EOS>
+<BOS> Banyak harta miskin ilmu, <CLS> Bagai rumah tak berdinding . <CLS> Pagi-pagi pergi ke pasar , <CLS> pergi ke pasar membeli jamu. <EOS>
+<BOS> Dari kecil hinggalah besar , <CLS> janganlah jemu menuntut ilmu. <CLS> Pakai baju warnanya biru, <CLS> pergi ke pasar membeli jamu. <EOS>
+<BOS> Murid senantiasa hormati guru, <CLS> karena guru pembekal ilmu. <CLS> Pak Kulup anak juragan, <CLS> pergi ke pasar tersesat arah. <EOS>
+<BOS> Hidup di dunia banyak dugaan, <CLS> kepada Allah kita berserah. <CLS> Parang tajam tidak berhulu; <CLS> buat menetak si pohon waru. <EOS>
+<BOS> Kalau belajar tekunlah selalu, <CLS> janganlah lupa nasehat guru. <CLS> Penyu melangkah tanpa berhenti, <CLS> perutnya lapar karena lapar . <EOS>
+<BOS> Punya ilmu tiada arti, <CLS> jika tidak pernah diamalkan, <CLS> Pergi berburu ke Kalimantan, <CLS> dapat kijang badan berlajur, <EOS>
+<BOS> Biar secarik baju di badan , <CLS> asalkan hati bersih dan jujur . <CLS> Pergi ke Acch membawa gitar, <CLS> singgah ke Medan membeli ulos . <EOS>
+<BOS> Jika ingin menjadi pintar , <CLS> kalau sekolah jangan membolos . <CLS> Pergi ke pasar membeli guci 9 <CLS> guci dijual oleh Pak Amat. <EOS>
+<BOS> pita dipakai merenda meja. <CLS> Jikalau ingin meraih cita, <CLS> semenjak muda tekunlah bekerja. <CLS> Pergi ke toko membeli kaca; <EOS>
+<BOS> kaca dipakai di ruang tamu. <CLS> Rajin-rajinlah adik membaca, <CLS> membaca itu menambah ilmu. <CLS> Pergi mendaki gunung Daik, <EOS>
+<BOS> hendak menjerat kancil dan rusa. <CLS> Menghormat tamu budi yang baik, <CLS> elok diamalkan setiap masa. <CLS> Pergi saja ke laut Aru, <EOS>
+<BOS> cari tupai di dalam kota. <CLS> Turuti saja nasehat guru; <CLS> agar tercapai cita-cita. <CLS> Perling telurnya berwarna hijau, <EOS>
+<BOS> Meski ilmu di langit hijau; <CLS> jika kuasa dapatlah jua. <CLS> Pinang muda dibelah dua, <CLS> anak burung mati terebah. <EOS>
+<BOS> Darilah muda sampai ke tua, <CLS> ajaran baik jangan diubah. <CLS> Pisang emas dibawa berlayar, <CLS> masak sebiji di atas peti <EOS>
+<BOS> Hutang emas dapat dibayar , <CLS> hutang budi dibawa mati . ' ` , . <CLS> Pohon jati kuat kayunya, <CLS> pohon kelapa tinggi batangnya. ::, <EOS>
+<BOS> Jika rajin banyak ilmunya, <CLS> jika malas banyak ruginya. <CLS> Pohon salak banyak berduri, <CLS> anjing berkais di tepi gua. <EOS>
+<BOS> Kawan tertawa mudah dicari, <CLS> teman menangis jarang bersua. <CLS> Pulau Papua kuala berselat, <CLS> titisan hujan di sebelah barat. <EOS>
+<BOS> Jikalau kita lupakan shalat , <CLS> hukuman Allah sangatlah berat. <CLS> Raja Kelantan raja berwibawa, <CLS> memakai makota indah di kepala. <EOS>
+<BOS> Di dalam hati selalu kubawa, <CLS> meski putih rambut di kepala. <CLS> Ramailah pekan Teluk Kabung, <CLS> tempat berjual beli kain. <EOS>
+<BOS> Kalau tidak emas dikandung, <CLS> sanak menjadi orang lain <CLS> Ramai orang membeli jamu, <CLS> dibawah pohon cuaca redup. <EOS>
+<BOS> Bersungguhlahı mencari ilmu , <CLS> ilmu sebagai penyuluh hidup . <CLS> Ramai orang menggali perigi, <CLS> diikat . 1 ` <EOS>
+<BOS> Redup bulan di antara dahan; <CLS> hingga berjelaga. '. ` <CLS> pasang pelita . <CLS> mati di tangan Tuhan, <EOS>
+<BOS> Rendah pohonnya dulang-dulang, <CLS> tempat bersarang parau-parau: <CLS> Kalau untuk kembali pulang, <CLS> bila malang hilang di rantau. <EOS>
+<BOS> Riang-riang terbang ke kolam, <CLS> tetak bertangur depan kota. <CLS> Laksana siang menanti malam; <CLS> demikian umur kita sekalian. <EOS>
+<BOS> Rumput di kebun berwarna hijau, <CLS> perawan desa memakai pita. <CLS> Luka di tangan karena pisau; <CLS> luka di hati karena cinta. <EOS>
+<BOS> Sandarkan galah pada pohon; <CLS> kayu tersandar di pohon rawa. <CLS> Kepada Allah tempat memohon; <CLS> kalaulah kita sandarkan nyawa. <EOS>
+<BOS> Sarang penyengat di atas kota, <CLS> kait-kait di padang temu. <CLS> Hendaklah ingat kita semua, <CLS> baik-baiklah berpegang <EOS>
+<BOS> Manusia hanya boleh mcrancang, . <CLS> kuasa Allah yang menentukan. <CLS> Sebesar-besar mayang pinang, 1 ` <CLS> tak scbesar mayang kclapa . <EOS>
+<BOS> Sekam disimpan dalam perahu, n 9 <CLS> bawa berlayar ke pantai Carita, 0 s <CLS> Meski tiada orang yang tahu , <CLS> tapi Allah melihat kita. s <EOS>
+<BOS> Selasih tumbuh di tepi telaga, . <CLS> tumbuh sedikit dimakan kuda. . . , <CLS> Kasih ibu membawa surga, "` ^. <CLS> kasih saudara masa berada. <EOS>
+<BOS> Selendang cantik dibeli tuan, 3W . <CLS> tuan kaya budak merdeka. <CLS> Sembahyang itu perintah Tuhan, ' . <CLS> jikalah ingkar masuk neraka. <EOS>
+<BOS> Sepandai-pandai tupai melompat;, 2 ' ` <CLS> sekali-kali akan jatuh juga. ' ` . . <CLS> Sepandai-pandai lidah bersilat, ' . .' , . . . . <CLS> pastilah akan ketahuan juga. 2 . ^ ` <EOS>
+<BOS> Serai kuning disambar enggang, 3 ' . . _ <CLS> patah galah di tepi paya . ~ . . . . . <CLS> Terurai kain dari pinggang, 1 . 2 > . , . n <CLS> kehendak Allah apalah daya 1 <EOS>
+<BOS> Sore hari pergi mengaji , 2 ` . . . 1 . <CLS> duduk sejenak di pinggir pagar . ' . <CLS> Janganlah engkau suka berjanji , 1s .: 1 . ^ . . ^ <CLS> jikalau engkau selalu ingkar . 6 . 1 . 1 ' . <EOS>
+<BOS> Saling memhcri salinp mencrima , <CLS> sesama tcman harus menolong <CLS> Sungguh indalı pintu dipahat , <CLS> burung puyuh di atas dahan. <EOS>
+<BOS> Jikalau hidup hendak selamat , <CLS> taatilah selalu perintah Tuhan , <CLS> Sungguhlah lucu si anak kancil , <CLS> anak badak patah culanya . <EOS>
+<BOS> sedari kecil, <CLS> Tuntutlah ilmu <CLS> setelah besar tinggal senangnya. <CLS> tebal kaca kereta, <EOS>
+<BOS> kaca tak dapat dikerati <CLS> Untuk apa uang dan harta; <CLS> jika tak dapat kekasih hati. ' <CLS> Supaya tangan tidak terluka; <EOS>
+<BOS> jangan dikepit hulunya kapak . <CLS> Supaya Tuhan tidaklah murka, <CLS> jangan sakiti ibu dan bapak. <CLS> Sutan Kaya di Kota Alam, <EOS>
+<BOS> kayu mati di perumahannya. <CLS> Jika Datuk kaya di alam, <CLS> akan mati jua kesudahannya. <CLS> Telah masak tanaman padi, <EOS>
+<BOS> jatuh sebiji ke dalam paya. <CLS> Telah kucoba menanam budi, <CLS> orang enggan apalah daya. <CLS> Temu lawak peramu jamu, <EOS>
+<BOS> jamu diramu orang Jawa. <CLS> Sudah lama tidak bertemu, <CLS> baru bertemu sudah tertawa. <CLS> Tengah hari pergi mengail , <EOS>
+<BOS> karcna mcrusak diri scndiri.m <CLS> Tenggelam batu timbul kclapa, <CLS> anak udang di pasar mayang <CLS> Buanglah aku tidak mengapa, <EOS>
+<BOS> banyak orang kasih dan sayang. <CLS> Terang bulan riangkan hati , <CLS> cahaya memancar ke pohon kelapa. <CLS> Hidup di dunia buatlah bakti 9 <EOS>
+<BOS> terutama pada ibu bapa <CLS> Terjemur tilam di atas tilam, <CLS> tilam berenda di tepiannya. <CLS> Bertemu hitam dengan hitam 9 <EOS>
+<BOS> sama-sama kelam cahayanya. <CLS> Terlihat fajar di pagi hari, <CLS> burung bernyanyi menyambut pagi . '{ . <CLS> Syukuri nikmat yang diberi, <EOS>
+<BOS> jangan lupa untuk berbagi. <CLS> Tiap napas adalah kekal, <CLS> siapkan bekal menjelang wafat. <CLS> Turutlah Nabi siapkan bekal , <EOS>
+<BOS> dengan sebar ilmu manfaat. <CLS> Tinggi terbangnya si cendrawasih, <CLS> terbang sejoli di waktu pagi. <CLS> Sakit sungguh bercerai kasih, <EOS>
+<BOS> sakit tak dapat diobati . <CLS> Ulat daun berjalan lambat, <CLS> badannya besar seperti kerang . <CLS> Janganlah sombong duhai sahabat, ' . . . <EOS>
+<BOS> Santun SAnak - ~Annk <CLS> Ada anak makan durian, <CLS> sayang tidak ada pisaunya. <CLS> Ada orang ingin bepergian; <EOS>
+<BOS> sayang tidak punya ongkosnya. <CLS> Ada banyak burung nuri, <CLS> seekor hinggap di tanah datar . <CLS> Baik belajar setiap hari, <EOS>
+<BOS> cepat tanggap dan juga pintar . <CLS> Ada kereta ditarik keledai, <CLS> berjalan pelan ke kota Banjar . <CLS> Jika engkau ingin pandai, <EOS>
+<BOS> kamu harus rajib belajar . <CLS> Ada mobil mengangkut pintu, <CLS> pintu tua dihiasi_ jendela. <CLS> Wahai kawan senanglah membantú , <EOS>
+<BOS> Air jernih tempatnya katak, <CLS> katak bernyanyi di waktu malam <CLS> Tiada gading yang tak retak, <CLS> air beriak tanda tak dalam. <EOS>
+<BOS> Anak bambu bernama rebung, <CLS> rebung dibeli dari pulau Bali. <CLS> Anak sekolah rajin menabung, <CLS> segala keperluan bisa dibeli. <EOS>
+<BOS> Anak beruk di tepi pantai, <CLS> masuk lumbung memakan padi, <CLS> Biarlah buruk kain dipakai, <CLS> asalkan pandai dan baik budi . <EOS>
+<BOS> Ayam kinantan terbang mengekas , <CLS> hinggap di ranting bilang-bilang. <CLS> Melihat bunda pulang lekas , <CLS> hatiku besar bukan kepalang. <EOS>
+<BOS> Banyak jalan ke kota Banjar , <CLS> kalau lewat hendaklah bertamu . <CLS> Rajin-rajinlah engkau belajar , <CLS> karena belajar menambah ilmu. <EOS>
+<BOS> Berangan di atas kota, <CLS> cerana patah dipijak . <CLS> Jangan pula saya dikata, <CLS> karena saya bukannya bijak . <EOS>
+<BOS> Jauh berburu ke hutan Kalasan; <CLS> lalu terbang ke Indragiri. <CLS> Jangan suka bermalas-malasan; <CLS> sifat malas merugikan diri <EOS>
+<BOS> Besar buahnya pisang batu, <CLS> jatuh melayang rusak buahnya . <CLS> Saya ini anak piatu, <CLS> sanak saudara tidaklah punya. <EOS>
+<BOS> Besar ombaknya Pantai Purus, <CLS> terdengar sampai ke sekolah. <CLS> Dimana badan takkan kurus , <CLS> bapak tiri punya olah. <EOS>
+<BOS> Buah ara batang dibantun; <CLS> mari dibantun dengan parang <CLS> Wahai saudara dengarlah pantun, <CLS> pantun tidak mengata orang. <EOS>
+<BOS> hidup kita akan <CLS> berwarna merah, <CLS> Buah jambu <CLS> berjajar-jajar . <EOS>
+<BOS> jatuh ke tanah <CLS> marah-marah, <CLS> Daripada kita <CLS> baik kita belajar . <EOS>
+<BOS> di atas dulang, <CLS> Buah kepundung <CLS> siang hari_ <CLS> nasi dimakan <EOS>
+<BOS> adik teragak <CLS> di Tanah Merah, <CLS> Buah mangga bakul. <CLS> sedikit bawakan <EOS>
+<BOS> hancur satu dilempar batu. <CLS> Kalau ingin Indonesia jaya; <CLS> kita semua harus bersatu . <CLS> Buah pelaga makan dikikir , <EOS>
+<BOS> dibawa orang dari hulu. <CLS> Sembarang kerja harus dipikir , <CLS> agar jangan mendapat malu. <CLS> Buat apa membeli jamu, <EOS>
+<BOS> kalau tidak bisa dimakan. <CLS> Buat apa mempunyai ilmu, <CLS> kalau engkau tidak mengamalkan. <CLS> Buat apa punya kuku, <EOS>
+<BOS> kalau tidak tumbuh di jari. <CLS> Buat apa membeli buku , <CLS> kalau tak pernah dipelajari. <CLS> Bunga cempaka di rumah mewah, <EOS>
+<BOS> Bunda kita pcıgi kc sawah, <CLS> adik di rumah tidak hcrkawan <CLS> Burung dara indah warnanya, <CLS> burung perkutut indah suaranya . <EOS>
+<BOS> Ayah bunda harum nanmanya, <CLS> karena anaknya sering juara . <CLS> Burung kenari hingga di perdu, <CLS> terbang jauh hingga ke Cina <EOS>
+<BOS> Betapa aku memendam rindu. n <CLS> kepada ayah bunda di sana <CLS> Cempedak dikerat-kerati 9 1 <CLS> batang perepat saya runtuhkan. s <EOS>
+<BOS> Saya budak belum mengerti, <CLS> sembarang dapat saya pantunkan 1e , <CLS> Cempedak tumbuh diluar pagar , <CLS> tarik galah tolong jolokkan. <EOS>
+<BOS> Saya budak baru belajar, <CLS> kalau salah tolong tunjukkan. <CLS> Dalam kebun banyak kumbang, <CLS> ada kodok dalam empang. <EOS>
+<BOS> Hati siapa yang tidak bimbang, <CLS> kepalanya botak minta dikepang. <CLS> Dapat di rumput bilang-bilang, <CLS> menghisap bunga dengan mayang <EOS>
+<BOS> Hati cemas menjadi hilang, <CLS> perut yang lapar menjadi kenyang. ' . . <CLS> Dari jauh terdengar bunyi, 1 ` <CLS> 1 : . . ` - , <EOS>
+<BOS> bunyi dari si Raja Ikan. <CLS> tidak e ) ` ; <CLS> Saya7 pandai bernyanyi, <CLS> sembarang nyanyi saya nyanyikan. ' ~ ~ . <EOS>
+<BOS> pulangnya pctang, <CLS> Pergi pagi <CLS> upah mcnumhuk , <CLS> membawa bcras <EOS>
+<BOS> Pulau Buru, <CLS> Dari Scram ke <CLS> bermalam jua, <CLS> dalamı kota <EOS>
+<BOS> pada orang tua, <CLS> berbakti juga <CLS> Daun kelapa mcnari-nari, <CLS> capa dikarang dengan ijuk <EOS>
+<BOS> tidak siap datang membujuk. <CLS> Dibawa itik pulang petang, <CLS> penuh ilalang . <CLS> pergi ke lapang <EOS>
+<BOS> Melihat ibu sudahlah datang, <CLS> hati yang cemas menjadi hilang: <CLS> Di hutan banyak terdapat jurang, <CLS> jurang dalam tanpa jembatan: <EOS>
+<BOS> Dihutan banyak burung nuri, <CLS> burung nuri banyak disuka. <CLS> Jangan engkau suka mencuri, <CLS> nanti dirimu bisa celaka. <EOS>
+<BOS> Elok rupanya si kumbang Janti, <CLS> terbang keluar dikala petang <CLS> Tidak terkata besarnya hati, <CLS> melihat ibu sudahlah datang. <EOS>
+<BOS> Gajah berperang tiada kalah, ' <CLS> belati elok sedang diasah <CLS> Jika engkau tak masuk sekolah, <CLS> Ayah dan bunda pastilah resah. <EOS>
+<BOS> Hari beresok ke hari raya <CLS> benang sebuhul tak dibelikan. <CLS> Ilalang kayu keringlah sudah . <CLS> jatuh ke tanah kemudian mati <EOS>
+<BOS> Rajin-rajinlah engkau beribadah, <CLS> karena dapat menenteramkan hati . <CLS> Jalan-jalan ke Singaraja; <CLS> jangan lupa membeli manggis <EOS>
+<BOS> Lebih baik rajin bekerja, <CLS> jangan hanya bisa menangis . <CLS> Jalan kaki mendaki gunung, <CLS> gunung tinggi banyak jurangnya. <EOS>
+<BOS> Jangan suka duduk termenung, <CLS> termenung itu tiada gunanya. <CLS> Jangan sembunyi di dalam rombong, <CLS> didalamnya banyak sekali hewan. <EOS>
+<BOS> Jangan punya sifat sombong, <CLS> orang sombong tiada kawan. <CLS> Jangan suka memakan timun, <CLS> timun itu banyak getahnya. <EOS>
+<BOS> Jangan suka duduk melamun; <CLS> melamun itu tak ada gunanya. <CLS> Jawi hitam tidak bertanduk, <CLS> memakan rumput di bawah batu. <EOS>
+<BOS> Lihatlah ayam tidak berinduk, <CLS> demikian hidup anak piatu. <CLS> Jika kamu menemukan keladi , <CLS> janganlah lupa membawa alas <EOS>
+<BOS> Jika kamu berhutang budi, <CLS> janganlah lupa untuk membalas <CLS> Kain batik belum dijelujur , <CLS> bawa benang ambil kebaya <EOS>
+<BOS> Jika kita bicara jujur, <CLS> banyak orang akan percaya. <CLS> Kain tenun dari Sumbawa, <CLS> bawa pulang jual ke pekan. <EOS>
+<BOS> Jika ingin jadi mahasiswa, <CLS> Sekolah Dasar jangan lupakan. <CLS> Jika makan jangan berkata, <CLS> bisa-bisa makanan kena muka. <EOS>
+<BOS> Janganlah kamu suka berdusta; <CLS> karena kawan semua tak suka. <CLS> Kemana kancil kita kejar, <CLS> pasar kita mencari. <EOS>
+<BOS> Dari kecil rajin belajar , <CLS> setelah besar senanglah diri. <CLS> Kerambil muda buahnya lupa, <CLS> kebatlah lidi dengan pandan. <EOS>
+<BOS> Kalau di balik belakang bapa, <CLS> cacat dan maki tiba di badan. <CLS> Ke Surabaya membeli manggis, <CLS> manggis manis jumlahnya lima. <EOS>
+<BOS> Buat apa engkau menangis, <CLS> lebih baik bermain bersama. <CLS> Lurus jalannya ke Tanjung Sani, 9 <CLS> berkelok tentang ladang lada. <EOS>
+<BOS> Manis sungguh mulut orang, <CLS> kita mcnangis jadi terbujuk , . <CLS> Tokck merayap di ujung tali, <CLS> katak melompat di atas palu <EOS>
+<BOS> Melihat nenek bermain tali, <CLS> kakek tertawa tersipu malu . 1 2 . <CLS> Kalau mempunyai gigi ompong, [ <CLS> cepat pergi ke dokter gigi. <EOS>
+<BOS> Ke kota Medan membeli ulos, ~ : . <CLS> membeli ulos perlu diantar . . . . <CLS> Jika sekolah jangan membolos, 7 <CLS> agar menjadi anak yang pintar . 2 , <EOS>
+<BOS> Ke Palu membeli buah-buahan, <CLS> ke Jakarta membawa bilah. <CLS> Kalau ingin disayang Tuhan, <CLS> jadilah anak saleh dan salehah. <EOS>
+<BOS> Ke Surabaya beli keledai, <CLS> keledai lepas harus dikejar . <CLS> Jika ingin menjadi pandai, <CLS> rajin-rajinlah engkau belajar . <EOS>
+<BOS> Masuk rumah pakai sepatu, <CLS> sepatu baru tali melingkar. <CLS> Lebih baik kita bersatu, <CLS> daripada selalu saja bertengkar. <EOS>
+<BOS> Memasak air hingga mendidih, <CLS> bunyi airnya membuat kaget . <CLS> Hidup ini jangan bersedih, <CLS> mainkan musik mari berjoget. <EOS>
+<BOS> engkau banyak ilmunya. <CLS> Naik sepeda baris berjajar , <CLS> hilang pandangan jatuh terjengkang . <CLS> Jika kamu malas belajar, <EOS>
+<BOS> kelak hidupmu akan terbelakang . <CLS> Orang Bandung memintal kapas, <CLS> anak Cina berkancing tulang. <CLS> Ayah kandung pulanglah lekas , <EOS>
+<BOS> ananda rindu bukan kepalang. <CLS> Orang Padang pergi ke Pauh, <CLS> sampai di Pauh membeli lokan. <CLS> Bunda kandung berjalan jauh, <EOS>
+<BOS> tergemang anak tertinggalkan. <CLS> Pagi-pagi ayam berkokok; <CLS> ayam berkokok di atas papan. <CLS> Anak kecil jangan merokok, <EOS>
+<BOS> akan merugi di masa depan. <CLS> Pagi-pagi meminum jamu; <CLS> jamu dibeli di kota Banjar . <CLS> Apabila kamu ingin berilmu; <EOS>
+<BOS> sebaiknya engkau giat belajar . <CLS> Pergi ke hutan mencari kuda, <CLS> kuda dicari tidak ketemu. <CLS> Tekun belajar selagi muda, <EOS>
+<BOS> sebanyak mungkin tuntutlah ilmu. <CLS> Pergi ke toko membeli sepatu, <CLS> jalan kaki mampir ke taman. <CLS> Jika engkau senang membantu, <EOS>
+<BOS> pasti akan disenangi teman. <CLS> Pergi ke pasar naik sepeda, <CLS> di jalan 9 <CLS> menemukan duri. <EOS>
+<BOS> Pergi ke warung beli peniti , <CLS> cepatlah sampai naik sepeda_ <CLS> Menjadi anak harus berbakti, <CLS> disayang ayah binda <EOS>
+<BOS> Pergi tamasya ke kota Johor , <CLS> jangan lupa membeli renda. <CLS> Meski kamu sudah tersohor , <CLS> lupakan ayah dan bunda. ~ , . <EOS>
+<BOS> Pohon beringin tumbuh berjajar , <CLS> buaya bersarang di bawahnya. <CLS> Hati ingin hendak belajar , <CLS> orang tua sayang menyerahkannya <EOS>
+<BOS> Pukul enam pergi ke desa, <CLS> melihat orang berbaju merah. <CLS> Baik-baiklah berbudi bahasa, <CLS> jangan punya sifat pemarah. <EOS>
+<BOS> Rumput ilalang bergoyang-goyang, <CLS> tertiup angin tidak terelak. <CLS> Mari kita tunaikan sembahyang, <CLS> bekal kita di akhirat kelak. <EOS>
+<BOS> Sayang pisang tiada berjantung, <CLS> bunga keluar dari kelopak. <CLS> Penat sangat ibu mendukung, <CLS> adik tak juga mau gelak . <EOS>
+<BOS> Untuk apa makan mentimun, <CLS> kalau ada jambu biji. 1 <CLS> Untuk apa duduk melamun; <CLS> lebih baik pergi mengaji. 22 n <EOS>
