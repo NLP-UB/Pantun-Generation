@@ -1,0 +1,904 @@
+﻿kode,konfigurasi,model,prompt,kode_asal,blok,structure_accuracy,rhyme_correctness,pantun,penilai
+S001,T2.0_K10_P0.5_R1.1,smollm2-base,zero-shot,P039,AC,0.0,0.0,"Barangnya kami semua,
+Mereka yang sudah kami pilih,
+Serta yang belum kita lihat,
+Hidup ini akan tetap hidup.
+Kini kita mulai mencoba,
+Dengan kesaksian yang luar biasa,
+Karena kami itu adalah,
+Penyaringan yang siapa.",AC
+S002,T0.8_K50_P0.9_R1.1,smollm2-ft,few-shot,P033,AC,100.0,100.0,"Pagi hari pergi berpesta kota
+Jangan lupa membeli gula
+Setiap saat ngomongin kaya
+Jadi orang tua sangat banyak manfaatnya",AC
+S003,T2.0_K10_P0.5_R1.1,smollm2-ft,few-shot,P015,BC,100.0,100.0,"Mencuci rumput pake sepati
+Jangan kupatakan setelah diri
+Cinta ibu ada tiap hati
+Dia selalu membantu padamu ini",BC
+S004,T0.8_K50_P0.9_R1.1,smollm2-ft,zero-shot,P002,AC,100.0,100.0,"Jalan-jalan ke Pekalongan
+Lihat burung nakal di taman
+Untukmu ibu seorang sahabatku sayangan
+Selagi aku masih kecil jangan lupakan",AC
+S005,T2.0_K10_P0.5_R1.1,smollm2-ft,few-shot,P019,AB,100.0,100.0,"Buah pepaya buah naga
+Jadilah sayap manis karena raga
+Melihat kakek sedang membawa gera
+Sayapnya lepas sudah merata",AB
+S006,T0.8_K50_P0.9_R1.1,smollm2-ft,zero-shot,P021,AB,100.0,100.0,"Anak kecil pergi berlayar
+Hidup dan mati bersamasama
+Walaupun jauh di sekitar
+Tetapi hidupku selalu disimpannya",AB
+S007,T1.2_K100_P0.7_R1.0,smollm2-base,few-shot,P014,AC,0.0,0.0,"Kebahagiaan berkelahi dengan banyak hal
+Pada saat terbongkar di alam
+Bangkitlah cinta seolah-olah menjadi pasang panah
+
+Mengutuk kenikmatan dalam jiwa makhluk
+Melukis penjaga kehidupan yang hidup
+Cepat bangkit cinta yang bisa ngga langsung kesuksesan",AC
+S008,T1.2_K100_P0.7_R1.0,smollm2-base,few-shot,P013,AB,0.0,0.0,"Hati-hatian terlahir tak pernah tuntas
+Dikasih hati terpisah kita mengenai ilmu
+Hati-hatian terlahir tak pernah tuntas
+Dikasih hati terpisah kita mengenai ilmu
+
+Hati-hatian terlahir tak pernah tuntas
+Ketika kita mendengar, keberatan kita
+Ketika kita menj",AB
+S009,T0.8_K50_P0.9_R1.1,smollm2-base,few-shot,P011,AB,100.0,100.0,"Adi tertib cahaya tinggi berlomba
+Cihir karena jenazah langsung aku nangis
+Bila adi cemari cian, darah juga berlomban
+Dan langsung aku pergi gagah, seolah mau dikasih kunci",AB
+S010,T0.8_K50_P0.9_R1.1,smollm2-base,zero-shot,P016,AB,0.0,0.0,"Baik dalam hidup, baik dalam kehidupan,
+Seseorang yang hebat bukan cuma kaya tetap aja,
+Berani berjuang apabila terbongkar pelakuan,
+Karena ada hal lain juga yg harus dibongkar juga.
+
+Aku pergi ke dunia, cepat makin sembahyang,
+Mereka kok semua berkecuali gue ngga",AB
+S011,T0.8_K50_P0.9_R1.1,smollm2-base,few-shot,P029,BC,0.0,0.0,"Baris Sampiran 1:
+Aki darah tinggi tersilap dalam pikirannya
+Untung dia kok tidak pernah mengedepanku
+Baris Isi 1:
+Mereka datang serta datang nanti
+Apabila mereka hidup tetap akan berlalu
+Baris Sampiran 2:
+Aku mahu lihat hal itu sendiri",BC
+S012,T0.8_K50_P0.9_R1.1,smollm2-base,few-shot,P022,BC,100.0,0.0,"Tentara bangkit mulai ngomong
+Dihadap alam semesta bergaris
+Ketiga angka diberikan halimin
+Teguh tetap bersatu kerja keras",BC
+S013,T0.8_K50_P0.9_R1.1,smollm2-ft,zero-shot,P034,BC,100.0,100.0,"Jika kancil hendak kembali
+Sebab dia sudah lupa
+Mari belajar bersama sekolah ini
+Itu sangat penting bagi semua",BC
+S014,T1.2_K100_P0.7_R1.0,smollm2-ft,few-shot,P021,AB,100.0,100.0,"Jalanjalan membeli roti
+Roti di mana sambil baca televisi
+Melihat teman membawa sepati
+Lebih baik belanja sendiri",AB
+S015,T2.0_K10_P0.5_R1.1,smollm2-ft,few-shot,P002,AC,100.0,100.0,"Jika kancil turun sembari basi
+Basih tidak tertandingi kain
+Jangan suka mendengarkan adik mimpi
+Mimpi tak boleh diingat orang lain",AC
+S016,T2.0_K10_P0.5_R1.1,smollm2-base,zero-shot,P004,AB,0.0,0.0,"Panggil saya seorang kokol, saya juga pernah menghabiskan waktu di pasaran kota.
+Sayangi saya seperti lilin, kokol itu tetap hidup, saya akan tetap sembuh.
+Kalo panggil saya kokol, coba lihat bagian kaki kokol, saya tetap tetep bergaya.",AB
+S017,T0.8_K50_P0.9_R1.1,smollm2-base,zero-shot,P032,BC,0.0,0.0,"Istirahatku, semakin tidak aku, semakin banyakmu, karena aku juga tak ada. Kini, kau tahu tentangku, apapun aku tak pernah tahu tentangkau.
+Barisan keempat, kau benar-benar adalah parahin, seperti aku pada saat ini. Jika kita langsung hidup untuk setitah, tapi itu t",BC
+S018,T2.0_K10_P0.5_R1.1,smollm2-base,zero-shot,P023,BC,0.0,0.0,"Kerjaan kok gue lelah
+Jalan kami juga cepat
+Saya buat panjang
+Dia buat kurang panjang
+
+Saya ngelilingin guru
+Gue ngga perlu pahamannya
+Makasih banyaknya sayangannya",BC
+S019,T2.0_K10_P0.5_R1.1,smollm2-base,few-shot,P028,BC,0.0,0.0,"Tentang diri saya, kok saya tahu?
+Kok saya adalah seorang penggaris,
+Mendapatkan kerja dengan cara baik,
+Saya akhirnya mendapatkan nilai yang bagus.
+Saya mengasyarakat sebagai penghuni,
+Dengan berwawasan tentang negara,
+Sayangku bersatu dengan kesetiaan,
+Kerjasama tid",BC
+S020,T1.2_K100_P0.7_R1.0,smollm2-ft,zero-shot,P012,BC,100.0,100.0,"Jalan-jalan ke kota Semarang
+Jangan lupa membeli semanggi
+Jika engkau suka mendengar orang
+Engkau akan semakin tahu diri",BC
+S021,T0.8_K50_P0.9_R1.1,smollm2-base,few-shot,P012,AC,0.0,0.0,"A-B-A-B
+
+Ingin merayakan Hari Raya Aidilfitri secara kami sendiri
+Dengan membeli beberapa pelbagai biji mangga bersinar
+
+A-B-A-B
+
+Setiap hari selalu aku pasti berbicara dengan wajarkan",AC
+S022,T0.8_K50_P0.9_R1.1,smollm2-base,zero-shot,P033,AB,0.0,0.0,"Barangnya ada satu batara, ditukarnya lehernya dalam gula dan parut. Ketua bola coba buka alasannya dengan emosi panjang, tetapi pihak yang dipanggil tidak langsung tujuan. Karena jumlahnya semakin naik, setidaknya 30 ribu mereka punya keberadaan aja yang hebat. Sebaliknya, rakyat yang",AB
+S023,T0.8_K50_P0.9_R1.1,smollm2-ft,few-shot,P012,BC,100.0,100.0,"Angin datang angin kelabu
+Terbayai kembali ke meja
+Jika engkau ingin naik kelambu
+Silap sekian banyak pula",BC
+S024,T2.0_K10_P0.5_R1.1,smollm2-ft,zero-shot,P036,BC,100.0,100.0,"Sebagai anak jangan suka mari
+Itu nanti bisa mendapat tari
+Jika engkau cinta padaku itu wajib pergi
+Hati hatilah dalam hidupmu ini",BC
+S025,T1.2_K100_P0.7_R1.0,smollm2-base,zero-shot,P018,BC,0.0,0.0,"Mata wajah yang halus,
+Menampilkan jalan yang mendarat.
+Pemandangan yang panjang,
+Tanpa sampiran harus tak kering.
+
+Wajah yang panjang,
+Pemandangan yang halus.
+Lilin yang halus,",BC
+S026,T0.8_K50_P0.9_R1.1,smollm2-ft,few-shot,P017,AC,100.0,100.0,"Bunga mawar merah coklat sapi
+Dicuci setiap hari
+Mencari ilmu lekas lagi
+Untuk bekal di hari nanti",AC
+S027,T0.8_K50_P0.9_R1.1,smollm2-ft,few-shot,P020,AC,100.0,100.0,"Minum air sangkar di pagi hari
+Cuci tangan setelah makan sarapan
+Guru menghibur diri sendiri
+Itulah kunci sukses di masa depan",AC
+S028,T0.8_K50_P0.9_R1.1,smollm2-base,zero-shot,P038,BC,0.0,0.0,"Baris pertama:
+Istana di atas laut,
+Sungai panjang berfokus,
+Nenekmu seorang jantan,
+Sangat berani.
+
+Baris kedua:
+Pergi balik ke kota,",BC
+S029,T0.8_K50_P0.9_R1.1,smollm2-base,few-shot,P024,BC,0.0,0.0,"Aku cemas panjang aja, tiada kesabaran gue
+Menginginkan karena kena mikir saja, kenapa?
+Gue tetap bersetuju padanya, begitu penting apa halnya
+Sehingga nanti kok ada masalahnya, sih beneran?
+
+Tentunya gue bisa lagi ngesendiri
+Dengan menghafal cara-cara gue sendiri",BC
+S030,T0.8_K50_P0.9_R1.1,smollm2-ft,few-shot,P032,BC,100.0,100.0,"Adzan berada di masjid raja
+Jangan lupa belajar wudhu dan sholat
+Sebab tuan telah menjaga
+Di bulan ramadhan pilihlah salat",BC
+S031,T1.2_K100_P0.7_R1.0,smollm2-ft,zero-shot,P018,AB,100.0,100.0,"Hati senang hati gembira
+Mengabdi ke kondangan untuk saudara
+Hati senang hati bahagia
+Jika tersayang menerima bahagia",AB
+S032,T1.2_K100_P0.7_R1.0,smollm2-ft,few-shot,P037,BC,100.0,100.0,"Makan nasi makan bakpia
+Bakpia pakai kopiah gula
+Ku tahu bercucur keringat dahaga
+Kamu tak berbalas dan bertanggung jawab kamu dahaga",BC
+S033,T1.2_K100_P0.7_R1.0,smollm2-ft,few-shot,P030,BC,100.0,100.0,"Pergi ke kebun untuk berenangnya
+Makanlah ketupat tanduknya berduri
+Jadilah anak yang rajin sholatnya
+Agar tinggalnya menjadi hari",BC
+S034,T1.2_K100_P0.7_R1.0,smollm2-base,few-shot,P004,AC,0.0,0.0,"A
+1. Kisah hidup kehidupan.
+2. Mereka yang berhembus pada kepemilikan, tidak pernah terhembus pada kekuatan.
+3. Kepemilikan yang tak kena, perlu diharapkan sama sekali.
+4. Bisa bertahan bahkan terus melahirkan, kerana pada waktu yang bersendi ini, seseorang itu tidak",AC
+S035,T0.8_K50_P0.9_R1.1,smollm2-ft,few-shot,P010,AC,100.0,100.0,"Ada kucing hidungnya belati
+Ikat tali dengan tenggelamnya
+Jangan suka ingkar hati
+Benda itu tidak akan berkah dimana",AC
+S036,T0.8_K50_P0.9_R1.1,smollm2-base,few-shot,P004,AB,100.0,0.0,"Malaika tua tetap malaya kini
+Jalan terluka tapi nada hidup tetap berlalu
+Pria tua tetap pria karena halamannya tetap baik
+Istri tua tetap istri karena halamannya tetap gembira",AB
+S037,T2.0_K10_P0.5_R1.1,smollm2-ft,few-shot,P027,AC,100.0,100.0,"Jalan kaki pergi ke hutan cendana
+Pagi hari pagi memanen kelapa
+Duduk sendiri tidak merana
+Kerja keraslah setiap saatnya",AC
+S038,T1.2_K100_P0.7_R1.0,smollm2-base,zero-shot,P030,AC,0.0,0.0,"Selalu kau berikan saya tangan,
+Tapi kok kau berilah kunci,
+Barangkali kau pasti diharam,
+Aku pasti nikmat kuncimu.
+
+Sakti nulis kok kau,
+Berbagai makna aku lihat,
+Apakah tahu mengapa kau baca,",AC
+S039,T0.8_K50_P0.9_R1.1,smollm2-ft,zero-shot,P013,AB,100.0,100.0,"Pergi ke pasar beli tomat
+Dapatnya diharga satu pulang
+Jika ingin hidup selamat
+Maka jangan suka berbicara lapang",AB
+S040,T2.0_K10_P0.5_R1.1,smollm2-base,few-shot,P011,AC,0.0,0.0,"A.
+Tuntasnya, kami semua
+Banyaknya kata, kok ngga?
+Pantun itu tidak baik,
+Karena kedekatannya sulit.
+
+A.
+Kita semua benar",AC
+S041,T2.0_K10_P0.5_R1.1,smollm2-base,few-shot,P031,AC,0.0,0.0,"Baris pertama (sampiran):
+A-B-A-B
+Tuntai gelap kaca pada mata
+Ngajar bersalin muka kering
+Coba lihat wajahnya tinggi 
+
+Baris kedua (sisipan):
+B-A-B-A",AC
+S042,T0.8_K50_P0.9_R1.1,smollm2-base,zero-shot,P024,BC,0.0,0.0,"Istana merangkai melarat,
+Mata hidung pucuk parang.
+Kebon langka, hutan nakurma,
+Mata wajah tertawa.
+Jadi, ingatlah, juga,
+Kekebalannya, seperti kacamata.",BC
+S043,T2.0_K10_P0.5_R1.1,smollm2-ft,few-shot,P013,BC,100.0,100.0,"Buah kudu buah mangga
+Mangga dibeli belinya
+Cintaku bukan sebanyak cinta
+Cinta kita sangat luar biasa",BC
+S044,T2.0_K10_P0.5_R1.1,smollm2-ft,few-shot,P039,AB,100.0,100.0,"Jalan kaki ke kota Jakarta
+Singgah sebulan di Surabaya
+Coba jawab wajahmu jelita
+Ingatlah selalu pada saya",AB
+S045,T0.8_K50_P0.9_R1.1,smollm2-ft,zero-shot,P016,AB,100.0,100.0,"Jangan lupa pergi beli ikan tenggiri
+Ikan tenggiri enaknya dimakan berseri
+Walaupun jauh namanya kami
+Mendapat cintaku sendiri",AB
+S046,T0.8_K50_P0.9_R1.1,smollm2-base,zero-shot,P011,BC,0.0,0.0,"Barisan pernak-nak mulai menghadapi pembohongan,
+Hingga giliran nenek adalah gelar baik,
+Sudahkah para pelayannya lebih jauh dari batang?",BC
+S047,T0.8_K50_P0.9_R1.1,smollm2-base,few-shot,P026,AB,0.0,0.0,"Aku juga ingin hidup
+Tetapi hal ini gak peduli apa
+Karena aku tidak kenal diriku
+Serta aku masih belum mahu menginginkan
+
+Dalam kehidupanku tak ada tujuan
+Karena semua halnya tidak ada
+Selain untuk hidup sendiri",AB
+S048,T1.2_K100_P0.7_R1.0,smollm2-ft,few-shot,P019,AC,100.0,100.0,"Jika tuan berlomba naik petang
+Sampai tuan diatas angsa
+Ingat wajah dan jiwa berserah sayang
+Melihat ceria mencari jodohnya",AC
+S049,T2.0_K10_P0.5_R1.1,smollm2-ft,zero-shot,P008,AB,100.0,100.0,"Siang hari turun mentari
+Mata merincing ikan teri
+Hati ingin bercakap padi
+Tapi hati jangan mengganti diri",AB
+S050,T1.2_K100_P0.7_R1.0,smollm2-ft,zero-shot,P035,BC,100.0,100.0,"Pergi ke toko membeli buki
+Tidak lupa membeli kaca
+Kamu janganlah marah takdir hati ini
+Tetapi banyak lagi untukmu di depan mata",BC
+S051,T2.0_K10_P0.5_R1.1,smollm2-ft,few-shot,P031,AB,100.0,100.0,"Jalanjalan naik delman goni
+Naik delman ke pasar kediri
+Janganlah engkaulah suka cuci
+Cuci semua pakaian sehari",AB
+S052,T1.2_K100_P0.7_R1.0,smollm2-ft,zero-shot,P007,AC,100.0,100.0,"Jalan-jalan ke Jogja Pari
+Pulangnya beli bibir panja
+Kamu itu emang ganteng dan berseri
+Biar hati jangan terkena hina",AC
+S053,T0.8_K50_P0.9_R1.1,smollm2-base,few-shot,P013,BC,100.0,0.0,"Ari secepatnya, tiada peningkatan kesejahteraan
+Tampaknya juga tidak memiliki cara untuk hidup
+Dia telah merancang apa yang harus berlaku
+Maka dia mulai berhenti, tetap tetap makin layak",BC
+S054,T2.0_K10_P0.5_R1.1,smollm2-base,few-shot,P024,AB,0.0,0.0,"Baris pertama (sampiran)
+A. Tertawa kaki, berdarah panjang
+B. Terjun air merokok, menempatkan waktu
+
+Baris kedua (isai)
+A. Hidungnya tertinggalkan, hidup berdua
+B. Daging badannya berhenti, hati nafsu tuju",AB
+S055,T0.8_K50_P0.9_R1.1,smollm2-base,few-shot,P005,AC,0.0,0.0,"Pantun 4:
+Cina bersinar pada papan
+Lumayan kertas menghasilkan
+Nenek moyang saya semua
+Diberikan niat kecil untuk jalan
+
+Pantun 5:
+Perempuan tapi hidup menawan",AC
+S056,T2.0_K10_P0.5_R1.1,smollm2-base,few-shot,P034,AB,0.0,0.0,"Aku mengerti bahwa suara kucing bisa membawa semangat kehidupan
+Jika kau mahu kami bersatu
+Maka aku pasti akan memberimakan kebernagaan
+Setidaknya karena kenapa kau ingin berdua
+
+Aku tahu bahwa halaman hidup sanggup dipantron
+Apabila kita tidak percaya dalam diriku
+Aku tetap",AB
+S057,T0.8_K50_P0.9_R1.1,smollm2-ft,few-shot,P014,AB,100.0,100.0,"Dua jam membeli goni
+Cempedak masih belum dimakan semua
+Mending aku suka baca koran ini
+Gimana caranya sayangkan orang tuamu ya",AB
+S058,T1.2_K100_P0.7_R1.0,smollm2-base,few-shot,P009,BC,0.0,0.0,"Tentara baru tuntas berkelahi dengan kerakyatan baru
+A-B-A-B-A-B-A-B-A-B-A-B-A-B-A-B-A-B-A-B-A-B-A-B-A-B-A-B-A-B-A-B-A-B-A-B-A-B-A-B-A-B-A-B-A-B-A",BC
+S059,T2.0_K10_P0.5_R1.1,smollm2-base,zero-shot,P013,AB,0.0,0.0,"Barangku, jualan saya, aku mahu pakai. Kuncinya, aku mau panggilmu. Saya cuma ingin membuktikan. Apa lagi, aku mau panggilmu. Kuncinya, aku mau memprobe. Kuncinya, saya mau mengarahkanmu. Aku cuma ingin menginginkanku. Kuncinya, aku mau mengambil. Saya",AB
+S060,T1.2_K100_P0.7_R1.0,smollm2-base,zero-shot,P029,BC,0.0,0.0,"Bumi yang panjang dan tertinggi,
+Di mana lautan dan dua batu cacing,
+Pintu-pintu terbuka di sisi mata,
+Hikmatnya, seperti daging kapal.
+Karena hal ini sudah tidak diperlukan,
+Maka jangan harus harus berarti,
+Tuhan yang tak kurang banyak,
+Menyedotkan jalan kita",BC
+S061,T1.2_K100_P0.7_R1.0,smollm2-ft,few-shot,P012,AC,100.0,100.0,"Tikus rekos di atas pita
+Dari tanah sama dengan gunung rata
+Bagaimana kita menjaga
+Bila telah terasa tak tertata",AC
+S062,T1.2_K100_P0.7_R1.0,smollm2-ft,zero-shot,P023,AB,100.0,100.0,"Jalanjalan ke pantai beri
+Lalu ke toko membeli nangka
+Sambil baca di koran kini
+Jangan lupa dengan mimpi setrika",AB
+S063,T0.8_K50_P0.9_R1.1,smollm2-ft,zero-shot,P019,AB,100.0,100.0,"Jika sudah datangnya cermin jakarta
+Masukkan di dalam buku atau media
+Sudah abis sekolah bisa melawan harta
+Begitu banyak teman yang nggak bijaksana",AB
+S064,T1.2_K100_P0.7_R1.0,smollm2-ft,zero-shot,P038,BC,100.0,100.0,"Duduk di meja berada di atas mereka
+Berdiri terikat pemberian syukur dengan doa
+Selalu ajak nakal selalu berupaya
+Sembahyang hidup dan akhlak bahagia",BC
+S065,T1.2_K100_P0.7_R1.0,smollm2-ft,zero-shot,P001,AC,100.0,100.0,"Sarapan pagi makan kacang par
+Sarapan pagi makan ikan sambar
+Kalau kamu ingin menjadi pintar
+Maka giat belajar di sekolah bar",AC
+S066,T1.2_K100_P0.7_R1.0,smollm2-base,few-shot,P007,AC,0.0,0.0,"Pantun 4:
+Kereta kaca terpencil bersamamu
+Melalui kemikiran kamu aku katakan
+Aku mahu bersama denganmu
+Bersama-sama kamu aku tak pernah tertipu",AC
+S067,T0.8_K50_P0.9_R1.1,smollm2-ft,few-shot,P031,AB,100.0,100.0,"Buah durian buah pepaya
+Lebih enak kupasnya gula
+Wajahnya cantik sudah punya
+Melihat kesudian mimpiin jua",AB
+S068,T1.2_K100_P0.7_R1.0,smollm2-base,few-shot,P031,AB,100.0,0.0,"Bunga kemuning menghasilkan piring
+Mata tampan segera terasa keinginan
+Cinta bisa kering, tetapi tidak terbongkar
+Tetapi kecepatannya sangat bagus karena tak bongkar",AB
+S069,T1.2_K100_P0.7_R1.0,smollm2-ft,few-shot,P028,AB,100.0,100.0,"Ditunggu hingga bulan tiba
+Mari kita senyum bersinar bersama
+Terima kasih atas kehadiran semua
+Karena telah menjadi sumber tambah ilmu sekolah kita",AB
+S070,T0.8_K50_P0.9_R1.1,smollm2-ft,few-shot,P040,AC,100.0,100.0,"Di dalam kandang air panjang
+Ada sayur dipotong topi
+Perkenalkan nama saya gagang
+Gagang polisi kota pari",AC
+S071,T1.2_K100_P0.7_R1.0,smollm2-ft,few-shot,P033,AB,100.0,100.0,"Ambil jambu setiap dua jambu
+Sebelum pergi hari menyakat kamu
+Rajinlah kita menuntut ilmu
+Itu untuk mendapatkan sebarang ilmu",AB
+S072,T0.8_K50_P0.9_R1.1,smollm2-ft,few-shot,P029,AB,100.0,100.0,"Mana yang tidak maka akan di kian
+Ibu bapak yang baik hati saja
+Dalam persaudaraan tiada tuan
+Yang hidup tetap selalu merdeka",AB
+S073,T2.0_K10_P0.5_R1.1,smollm2-ft,zero-shot,P030,AB,100.0,100.0,"Ke pasar beli buah mangga
+Sudah disimpan dikasih gula
+Ketika kecil rajin sholat juga
+Setelah besar jangan lagi juga",AB
+S074,T2.0_K10_P0.5_R1.1,smollm2-base,few-shot,P027,AB,0.0,0.0,"Baris 1:
+Tanda pengiling bernanah
+Coba lah kok menghargai kata
+Jangan salah, jangan salah apapun
+Karena kenapa ngga khawatir apapun",AB
+S075,T0.8_K50_P0.9_R1.1,smollm2-base,zero-shot,P013,AC,0.0,0.0,"Barisan mulai ditanyakan,
+Aku telah tertinggal,
+Sementaramu juga masih hidup,
+Maka sayangkanlahmu untuk seterlu.
+
+Dia cintaku merindukannya,
+Karena anda terbilang genggamnya,
+Seperti cobaan yang tidak terselesaikan,",AC
+S076,T2.0_K10_P0.5_R1.1,smollm2-base,few-shot,P013,AC,0.0,0.0,"Baris 1:
+Tinggi kertas untuk menghubungkan
+Pembaca dan penggunaannya
+Bagai panjangnya, tetap tetap hidup
+Maka aku akhiri semua pangkalanku
+
+Baris 2:
+Karena setiainya, tidak pernah maklum",AC
+S077,T1.2_K100_P0.7_R1.0,smollm2-base,few-shot,P028,BC,0.0,0.0,"Ini juga adalah sesuatu yang penting
+Jika kamu harus mendengar hal itu
+Bahwa kita sudah belajar untuk menulis
+Tanpa kamu mengerti serta menjawab
+Aku mencoba mengelompokkan hal itu
+Jika kamu tahu, silahkan bahwa aku
+Perlu tahu sebenarnya
+Tampaknya, ap",BC
+S078,T1.2_K100_P0.7_R1.0,smollm2-ft,few-shot,P024,BC,100.0,100.0,"Tubuh kurus sudah tak luaskan
+Jadilah saja anak yang berwibawa
+Kita belajar hingga dapat ilmu yang manfaatkan
+Tak jadi mengabdi pada sesama",BC
+S079,T1.2_K100_P0.7_R1.0,smollm2-base,few-shot,P025,AB,100.0,0.0,"Apa yang saya pernah tahu dulu
+Bila semua diberikan kemudian
+Terpencil, berbelanja dengan harapan
+Lebih baik lagi, sekarang aja",AB
+S080,T2.0_K10_P0.5_R1.1,smollm2-ft,zero-shot,P010,BC,100.0,100.0,"Makan bakso pakai daun keluang
+Daun keluang dicampur madu batangan
+Jangan suka bermain pandang
+Karena itu membelah tangan",BC
+S081,T0.8_K50_P0.9_R1.1,smollm2-ft,zero-shot,P012,BC,100.0,100.0,"Gadis cantik memakai pucuk batu
+Dalam celana ada pakaian topi
+Jika ingin hidup selalu tenang padu
+Harap jadi anak yang baik hati",BC
+S082,T0.8_K50_P0.9_R1.1,smollm2-ft,few-shot,P036,BC,100.0,100.0,"Hatihati membawa kado jenis ikat kepala
+Jangan lupa sebar dia diramalkan
+Berbagi hidup bagi saudara
+Cukupkah sudah senang mendapatkan",BC
+S083,T2.0_K10_P0.5_R1.1,smollm2-ft,zero-shot,P016,AB,100.0,100.0,"Hendaklah jangan membaca kunci
+Membaca itu haruslah ceria
+Jadilah anak yang baik hati
+Supaya dirinya banyak engkau cinta",AB
+S084,T1.2_K100_P0.7_R1.0,smollm2-ft,zero-shot,P039,AC,100.0,100.0,"Dari dalam bahtera ke kota
+Sembilan bulan sekali waktunya
+Cintaku tak ada gunanya
+Hanya karena sepenuh hatiku tertimpa",AC
+S085,T1.2_K100_P0.7_R1.0,smollm2-base,few-shot,P012,AC,0.0,0.0,"Tinta hitam untuk menulis
+Pensil warna untuk melukis
+Ilmu itu tak pernah habis
+Turun temurun ke ahli waris
+
+Ikhtiar tinggi tetap cukup rendah
+Berbagai hal di mata jelas
+Pantun ini sememangnya berkunjung",AC
+S086,T2.0_K10_P0.5_R1.1,smollm2-base,few-shot,P022,BC,0.0,0.0,"Pandangan saya,
+Tentang hal ekonomi,
+Pemerintah harus bersedia,
+Urusan ekonomi tidak kosong.
+
+Jika pembayaran tetap naik,
+Gaji badan akan turun,
+Mereka harus menghasilkan,",BC
+S087,T2.0_K10_P0.5_R1.1,smollm2-ft,zero-shot,P027,AC,100.0,100.0,"Jalanjalan ke pasar malam ini
+Membeli celana juga belikan sandaran
+Jangan lupa memakai gamblin di sini
+Itu kan kamu yang aku sayangkan",AC
+S088,T2.0_K10_P0.5_R1.1,smollm2-ft,zero-shot,P007,BC,100.0,100.0,"Hendak membeli buku jualannya
+Jangan lupa pergi untuk bekalnya
+Dalam cerita ini kita semua
+Sebagai pengajaran bagi saudara",BC
+S089,T1.2_K100_P0.7_R1.0,smollm2-ft,zero-shot,P028,BC,100.0,100.0,"Jangan sengaja makan roti
+Bikin goreng dan pake gula
+Jangan hanya bercakap hati
+Tanpa takut mengakui diri kata",BC
+S090,T0.8_K50_P0.9_R1.1,smollm2-base,zero-shot,P015,AB,0.0,0.0,"Jika anda mencoba untuk menghancurkan nama saya, pastilah akhirnya aku menderita.
+Aku juga ingin memastikan bahwa diriku tidak tahu maksudmu.
+Apapun yang dialami oleh orang berjudi, aku tetap mengembangkan semula ratusan puisi.",AB
+S091,T1.2_K100_P0.7_R1.0,smollm2-ft,zero-shot,P011,AB,100.0,100.0,"Bunga berseri warna meja
+Pasar banjar tak lupa rapat
+Lelahku lebih mengenal ria
+Dibuat hati kasih didapat",AB
+S092,T1.2_K100_P0.7_R1.0,smollm2-base,few-shot,P015,BC,100.0,100.0,"Tampuk batin kering
+Berjalan lalu berlawan
+Berlalu kamu menggelinding
+Ke tempatmu aku menjaga",BC
+S093,T0.8_K50_P0.9_R1.1,smollm2-base,few-shot,P031,AC,0.0,0.0,"Keceparian kembali dalam pembentukan pelapis seolah-olah panjangnya tidak bisa membentuk sudut yang benar, tetapi tak perlu hebat aku ada jalan nggak bisa, kok semua benar, baik karena korbannya ataupun kedatangan anggota kelompok kecil. Saya dulu dibenci oleh seorang warga",AC
+S094,T0.8_K50_P0.9_R1.1,smollm2-ft,zero-shot,P003,BC,100.0,100.0,"Hatihatilah jika membeli buku
+Jangan lupa menggosok gigi dikarenakan
+Dalam kitab sudah ada yang punya ilmu
+Lebih baik belajarlah dengan giatkan",BC
+S095,T1.2_K100_P0.7_R1.0,smollm2-base,few-shot,P006,AC,0.0,0.0,"Tampan bersih untuk dihadapi segala penghasilan
+Hari hari terlalu menggunakan darah
+Lagi lah dapat lagi, malah tak ada apa-apa",AC
+S096,T2.0_K10_P0.5_R1.1,smollm2-base,zero-shot,P020,AC,0.0,0.0,"Sang pria bersama saya
+Berjuang untuk keberadaannya,
+Dia jadi seorang pangeran,
+Lebih baik lagi ditimpa nyawa.
+Barang tak pernah kosong,
+Coba kita langsung lihatnya,
+Jadinya hal ini pasti akan datang,
+Setiap kami mesti berjuang.",AC
+S097,T0.8_K50_P0.9_R1.1,smollm2-base,zero-shot,P009,AC,0.0,0.0,"Baris pertama:
+Sudah lupakah pelangi sudutnya teteh
+Pada malam setempat mengenai hari
+Dan pada pagi juga tidak terlalu salah
+Karena waktu aku adalah kedatangan halilintung
+
+Baris kedua:
+Hatiku berbeda pada jalan",AC
+S098,T0.8_K50_P0.9_R1.1,smollm2-base,zero-shot,P005,BC,0.0,0.0,"Baris pertama:
+""Hewan-hawa tidak akan selesai,
+Sabda-salinah tidak akan terbaca.""
+
+Baris kedua:
+""Langit-langit kini tertunda,
+Matahari tertidur di malam.""",BC
+S099,T2.0_K10_P0.5_R1.1,smollm2-base,zero-shot,P035,AB,0.0,0.0,"Kecil-kecil, jaga dirimu,
+Saya mahu coba, saya juga mau,
+Maka, kita pergi ke dapur,
+Untuk membaca panjang panen,
+
+
+Barisan mata saya berkembang,
+Dia merindukan wajahnya,
+Cinta yang saya laktasi,",AB
+S100,T0.8_K50_P0.9_R1.1,smollm2-base,few-shot,P019,BC,0.0,0.0,"Pertempuran semakin turun
+Cita kaki keringat berjuang
+Aku pergilah ke hulu lima
+Kedua halangan kunci mata
+
+Jalan terluka pada saluran
+Nafas menderpari ketinggalan
+Didalaminya kertas berdarah",BC
+S101,T2.0_K10_P0.5_R1.1,smollm2-base,zero-shot,P038,AC,100.0,0.0,"Baris 1: Ayo jalan ke rumahnya, sayangku nggak mau datang.
+Baris 2: Aku suka coba langsung kenal siapinmu sendiri.
+Baris 3: Tentang aku, kata kawan, saya bukan butuh teman-teman.
+Baris 4: Aku tidak mau khawatir, aku pergi untuk hidup.",AC
+S102,T1.2_K100_P0.7_R1.0,smollm2-ft,few-shot,P010,AC,100.0,100.0,"Hari raya kepak jalanjalan sama kawan ini
+Makan masak masak menggunakan ceri
+Membaca ataupun tersenyum tidak berarti
+Itu harus dihindari semua lagi",AC
+S103,T2.0_K10_P0.5_R1.1,smollm2-base,zero-shot,P026,BC,100.0,100.0,"Sudahkah anda melupakan perayaan,
+Karena kami sedang mencoba,
+Maka saya akan langsung berikan,
+Penghargaan untuk anda, jangan salah.",BC
+S104,T1.2_K100_P0.7_R1.0,smollm2-base,zero-shot,P013,BC,100.0,0.0,"Kepuluhan mulai di tengah, jalannya segera,
+Jatuh karena tangga panjang di langit.
+Bangun karena ngali tertinggi di angket.
+Coba jatuh, coba jatuh tapi ga dapet langsung.",BC
+S105,T2.0_K10_P0.5_R1.1,smollm2-ft,few-shot,P032,BC,100.0,100.0,"Ada kucing bertamasya di kali
+Membawa beberapa papan lipatnya
+Belajarlah dengan tekun dan tenang hati
+Untuk masa depan yang lebih indahnya",BC
+S106,T2.0_K10_P0.5_R1.1,smollm2-base,few-shot,P006,AC,0.0,0.0,"Tuntung kertas semata-mata
+Para pembaca semua bisa nafas
+Dalam halnya akhirnya tidak ada
+Hal itu pasti akan datang apapun
+
+Aku berserah di kaki sayang
+Kebenaran aku di hatiku
+Tetapi setahu-sayuwi saya",AC
+S107,T2.0_K10_P0.5_R1.1,smollm2-base,few-shot,P014,AB,0.0,0.0,"Aku adalah penyair yang bijak menulis pantun
+Mereka semua tahu cara nerima kata-kata
+Karena aku sendiri juga menghafalkan pada para warga
+Tentunya, setiap warga mungkin tinggal di halaman dua
+
+Barisan baris pertama, serta dua baris sampiran
+Jangan lupa disertai dengan pola rima",AB
+S108,T0.8_K50_P0.9_R1.1,smollm2-ft,zero-shot,P007,AC,100.0,100.0,"Sebelum kerja siapa sahaya
+Sudah kerja selalu hormati
+Jika ingin masuk surga
+Jangan banyak pada larut di hati",AC
+S109,T1.2_K100_P0.7_R1.0,smollm2-base,few-shot,P040,AB,0.0,0.0,"A
+Pantun:
+Puspa berkeringat
+Terpancung di hati terlalu lama
+Dalam kehidupan menurut diri
+Puspa bisa dirampak
+
+B",AB
+S110,T2.0_K10_P0.5_R1.1,smollm2-ft,few-shot,P029,AC,100.0,100.0,"Jalan-jalan ke Kota Jakarta
+Singgahlah di kesana waktu pekan
+Cuci tangan sebelum kerja
+Agar tidak mengharumkan kawan",AC
+S111,T1.2_K100_P0.7_R1.0,smollm2-base,zero-shot,P004,BC,0.0,0.0,"Rumah terluka darah berlawan,
+Buku buku hidup menggapai hulu.
+Batang penyu adalah pelajaran dunia,
+Kunci kehidupan dalam jalannya.
+Lintang mata sepatuh di tangan,
+Sajadah darat di tepi laut.
+
+Bunga jagung menjaga pada waktu jam,",BC
+S112,T1.2_K100_P0.7_R1.0,smollm2-ft,few-shot,P031,AB,100.0,100.0,"Bunga mawar terang berduri
+Sungguh manis dikandung ikan
+Bagaimana kami hidup ini
+Bagaimana cintaku tersimpan",AB
+S113,T0.8_K50_P0.9_R1.1,smollm2-base,zero-shot,P031,AC,0.0,0.0,"Kekasarannya tidak akan melekat,
+Akrabnya tidak akan mengadung,
+Serta hal itu merupakan perkara baik,
+Jika engkau sudah berfikir.
+
+Maka aku jangan langsung pula mencoba,
+Menceritakan hal itu dalam mimpi,
+Karena dia tetap akhir yang bisa kita temukan,",AC
+S114,T2.0_K10_P0.5_R1.1,smollm2-base,zero-shot,P012,BC,100.0,0.0,"Baris pertama: ""Mata mata juga mengerti bahwa"" 
+Baris ketiga: ""Buku berkaitan tidak akan datang lagi""
+Baris kedua: ""Hingga kesepian di telinga""
+Baris keempat: ""Terbongkar pada wajah.""",BC
+S115,T2.0_K10_P0.5_R1.1,smollm2-ft,zero-shot,P037,AB,100.0,100.0,"Ke hulu banyak pepaya
+Di sawah banyak kelapa padi
+Janganlah engkau lupa ibadahnya
+Agar hidupmu selalu tenang jadi",AB
+S116,T2.0_K10_P0.5_R1.1,smollm2-base,zero-shot,P027,BC,0.0,0.0,"Pertemuan kami semua
+Mendapatkan kemenangan bersatu
+Dengan hal yang leluas dan langsung
+Serta mempertemukan juga
+Dia juga menghargai pada kita
+Berbagai hal yang berkaitan
+Selain melayani permasalahan
+Terutamanya masalah hidup",BC
+S117,T2.0_K10_P0.5_R1.1,smollm2-ft,few-shot,P017,AB,100.0,100.0,"Ke kedai membeli gula meja
+Lebih baik makan pepaya
+Mencintaimu emang selalu tertawa
+Jangan lagi aku nanti nyanyian saya",AB
+S118,T0.8_K50_P0.9_R1.1,smollm2-ft,zero-shot,P038,BC,100.0,100.0,"Anak bintang pergi bekerja
+Melihat orang duduk melawan saudara
+Lalu pulang belanja
+Jangan lupa membawa pula uangnya",BC
+S119,T0.8_K50_P0.9_R1.1,smollm2-base,few-shot,P033,AC,0.0,0.0,"Baris 1:
+Tuntas kesana mata kedua
+Untuk hal ini kok nulis apa
+Cuma sebenarnya tapi tak baik
+Lagi kok sebaiknya nulis balik
+
+Baris 2:
+Lapang juga saja panjang kaki",AC
+S120,T1.2_K100_P0.7_R1.0,smollm2-ft,few-shot,P020,AC,100.0,100.0,"Di kota muda ada rajah
+Menjaga pemelihara antikorupsi
+Jangan lupa yang terpenting jenazah
+Istilahkan jenazah kepada baik hati",AC
+S121,T1.2_K100_P0.7_R1.0,smollm2-ft,zero-shot,P029,AB,100.0,100.0,"Tengah malam terasa terasa
+Gadis manis pergi menari
+Mencari ilmu tiada kesulitan saja
+Sedekah ibadah jangan sampai rugi",AB
+S122,T1.2_K100_P0.7_R1.0,smollm2-base,zero-shot,P036,AB,0.0,0.0,"Mata mata lalung tak nyenyak,
+Kata hati tak neringat,
+Kebaya nenek kampil bocor,
+Pondok sepat tangan gendong.
+
+Gunung bumi langsung datang,
+Kerajinan mata keringat,
+Rumah bersahabat kosong,",AB
+S123,T2.0_K10_P0.5_R1.1,smollm2-base,zero-shot,P006,AB,0.0,0.0,"Sang kak Hilma, kamu pernah melihat saya mendengar?
+Jika engkau benar, maka kami sudah berteman lama di dalam kehidupan.
+Seperti pukul limas di dalam jendela, kita tak akan datang lagi.
+Saya harap kamu tahu, karena itu saya akan coba untuk beristighfar.
+
+Berikan nama",AB
+S124,T2.0_K10_P0.5_R1.1,smollm2-ft,zero-shot,P024,AB,100.0,100.0,"Jika ingin masuk kelasnya
+Hendaklah kamu pergi di surabaya
+Sekolah itu sanggup berlima
+Janganlah lupa untuk bersama",AB
+S125,T0.8_K50_P0.9_R1.1,smollm2-base,few-shot,P025,AC,0.0,0.0,"Dulu setelah keringnya hati
+Cepat kedatangan para waris
+Halangannya hebat semata-mata
+Kebenaran hidup mereka harus aku kenal
+
+Mengambarkan sejarahnya sangat penting
+Dan apabila sejarahnya tidak diketahui
+Terpencil jalannya pelajaran kebiasaan",AC
+S126,T0.8_K50_P0.9_R1.1,smollm2-base,few-shot,P037,AB,0.0,0.0,"Cincin mulai bermain matahari
+Kerja kosong kekeliruan
+Ibu ngga pake apa apa
+Membaca selera belajar
+
+Selalu berselisih, tapi semua
+Hal itu penting, tetap patok
+Lagian mengarahkan keberanian",AB
+S127,T0.8_K50_P0.9_R1.1,smollm2-base,zero-shot,P001,AB,100.0,0.0,"Baris pertama: ""Pertiwi mata mata wawancara jalan""
+Baris ketiga: ""Gagak bawa lalu jalan nikmatnya""
+Baris kedua: ""Pikir cuma lebih baik bersama sayangku""
+Baris kedapuan: ""Tentukan sayangmu di antara setiaku""",AB
+S128,T2.0_K10_P0.5_R1.1,smollm2-ft,zero-shot,P034,AC,100.0,100.0,"Jangan lupa belajar bersamasama
+Kalau sudah jadi anak yang baik hati
+Saya ingin menjalin saya
+Dengan para tamu yang sangat indah ini",AC
+S129,T0.8_K50_P0.9_R1.1,smollm2-ft,zero-shot,P026,BC,100.0,100.0,"Sore hari pergi membabat buku
+Setelah bekerja mandi pula
+Jika engkau jauh dariku
+Hati merana tak kan tenang aja",BC
+S130,T2.0_K10_P0.5_R1.1,smollm2-ft,few-shot,P007,BC,100.0,100.0,"Adzan gendang berputar puterannya
+Puternya berputar puterannya
+Jangan kenalkan siapa saja
+Jika tidak mempunyai niat punya",BC
+S131,T1.2_K100_P0.7_R1.0,smollm2-base,few-shot,P037,AB,0.0,0.0,"Bahasa Inggris adalah bahasa yang tinggi, seperti banyak orang menggunakannya. Karena itu saya dapat berbicara secara baik, melalui kamus bahasa Indonesia-English. Ini benar-benar menggantungnya. Saya juga bisa mengerti bahasa Indonesia dengan baik, seperti berbicara secara pasif. Sekian, say",AB
+S132,T0.8_K50_P0.9_R1.1,smollm2-base,zero-shot,P026,AC,100.0,0.0,"Rumahnya, setiap mimpi mengalami efek
+Coba, karena jalannya sang guru
+Jangan mari kita berkompromi langsung
+Apakah dulu, aku cuma berdua",AC
+S133,T1.2_K100_P0.7_R1.0,smollm2-base,zero-shot,P033,BC,100.0,0.0,"Di kaca dapur setiakawasnya kaca, saya berada pada dinding juga.
+Pada pukul tiga ratus, aku tahu saya tidak akan kawin.
+Karena jatuh cinta aku, kau sudah berada di sekitar saya.
+Karena kau, aku tidak harus menghilangkanmu.",BC
+S134,T2.0_K10_P0.5_R1.1,smollm2-base,few-shot,P023,BC,0.0,0.0,"Tingkah langka karena tidak bisa menghasilkan tulisan apapun, tetapi aku akan memberikan contoh pantun baru yang menggunakan pola rima A-B-A-B.
+
+Baris pertama:
+Pertemuan dengan kebakaran
+Pernahkah engkau berpartisipasi?
+Maka hal ini pasti tak akan lebih baik,
+Jika engkau bel",BC
+S135,T1.2_K100_P0.7_R1.0,smollm2-base,few-shot,P017,BC,0.0,0.0,"Pantun 4:
+Berkecek kelana cinta
+Hari mengingatkan nada
+Kau berdiam diri
+Lalu terkawal hati
+
+Pantun 5:
+Penyebut berlumba bersama",BC
+S136,T0.8_K50_P0.9_R1.1,smollm2-base,zero-shot,P028,AC,100.0,0.0,"Paling baik untuk menghadapi permainan
+Berikan jumlah hidup yang lebih lama
+Yang pasti aku telah melakukannya
+Karena setelah itu aku sudah tidak mau lagi",AC
+S137,T0.8_K50_P0.9_R1.1,smollm2-ft,few-shot,P024,BC,100.0,100.0,"Anak mawar bunga melati
+Membungkus semangka emasnya
+Janganlah kalian duduk sendiri
+Dengan sahabat bertegur senyumnya",BC
+S138,T2.0_K10_P0.5_R1.1,smollm2-base,few-shot,P002,AB,0.0,0.0,"Tentang keseorangan kesayangan, semakin hidup maka semakin tidak bisa dijangkit. Tentang pengalaman yang sudah ada, tentang kenyataan yang akan datang. Tentang waktu yang pasti berakhir, tetapi kami masih harus menghematnya.
+
+Pertanyaan: Apa kabar? 
+
+Pada waktu itu, kami akhirnya tel",AB
+S139,T2.0_K10_P0.5_R1.1,smollm2-base,few-shot,P033,BC,100.0,0.0,"Tampangsampean kok aku ngga ngerti apa yang di tulis
+Aku ngajar ayah aja aku menguji apa yg ada
+Aku tahu kok semua hal yang bener ngomong
+Aku mau panggil ayah aja gue pake kata ""ngaji""",BC
+S140,T0.8_K50_P0.9_R1.1,smollm2-ft,zero-shot,P031,AC,100.0,100.0,"Setilah orang taat pada Allah
+Jangan lupa sesudah berdzikirnya
+Hidup itu sangat cerah dan indah
+Gadis cantik tampak kasih sayangnya",AC
+S141,T2.0_K10_P0.5_R1.1,smollm2-ft,few-shot,P035,AC,100.0,100.0,"Buah naga enaknya keledai
+Jika dimakan bersama kerang
+Dari mana datangnya pandai
+Dari pembuka kepunyaan orang",AC
+S142,T1.2_K100_P0.7_R1.0,smollm2-ft,zero-shot,P024,AC,100.0,100.0,"Burung bangau terbang tinggi di langit siang
+Jatuh lalu ke alunan dari rawa
+Belajarlah sampai ke pangkal pandang
+Jangan pernah menyerah dan merangkul bahwa",AC
+S143,T1.2_K100_P0.7_R1.0,smollm2-ft,zero-shot,P015,BC,100.0,100.0,"Mencari gelas di dalam kaca
+Di dalamnya ada yang punya
+Sesi ini hanya berangkat cinta
+Untuk dijaga kebersamaan umatnya",BC
+S144,T1.2_K100_P0.7_R1.0,smollm2-base,zero-shot,P012,AC,0.0,0.0,"Bersama dengan para lelah
+Matahari bertahan
+Bertelor dunia bertemu
+Pelaku kegelapan menangis
+Serta pada kau berpindah
+Kenyataan bahwa aku tetap berkunjungan
+
+Serta terasa bersinar",AC
+S145,T2.0_K10_P0.5_R1.1,smollm2-ft,zero-shot,P014,AC,100.0,100.0,"Ke jepara membeli pita
+Sudah dimakan selalu diri
+Kalau kanda ingin menduga
+Coba lihat nasibnya sendiri",AC
+S146,T0.8_K50_P0.9_R1.1,smollm2-ft,zero-shot,P030,AC,100.0,100.0,"Minum es jeruk minumnya asam itu
+Tak enak oleh oleh pengasih cantengan
+Belajarlah bersamasama temanku
+Itu saja perbedaan antarmuka anggaran",AC
+S147,T1.2_K100_P0.7_R1.0,smollm2-base,few-shot,P020,BC,0.0,0.0,"Baris pertama:
+Bidara mawar hanyalah daging
+Penampil kemarin kini aja mata
+
+Baris kedua:
+Gambar dahulu harus diriku dalam
+Namun sekarang haruslah mahu
+Tentangmu",BC
+S148,T2.0_K10_P0.5_R1.1,smollm2-ft,few-shot,P010,AB,100.0,100.0,"Jalanjalan ke pasar pagi
+Jangan lupa beli semangka
+Mencari ilmu tak cari yang lagi
+Dia tidak punya wawancara",AB
+S149,T2.0_K10_P0.5_R1.1,smollm2-ft,zero-shot,P039,BC,100.0,100.0,"Siang hari membeli semangka
+Semangka jatuh ke piringnya
+Jika ingin masuk surga
+Maka perbaiki akhlak mulia",BC
+S150,T2.0_K10_P0.5_R1.1,smollm2-base,zero-shot,P037,AC,0.0,0.0,"Karena sayang kau sayangku sendiri
+Karena kamu juga sayang aku
+Jadi kok kita bersama
+Jadi kenapa kau pergi?
+
+Karena sayang kau sayangaku
+Karena aku juga sayangmu
+Jadi kenapa kamu datang",AC
+S151,T2.0_K10_P0.5_R1.1,smollm2-ft,few-shot,P030,BC,100.0,100.0,"Buah pepaya manis rasanya
+Jadikan sarapan rumah tangga
+Cobalah fokus dan selalu bijaksana
+Maka hidup kau pasti terjaga",BC
+S152,T1.2_K100_P0.7_R1.0,smollm2-base,zero-shot,P014,AB,100.0,0.0,"Dewi melihat mata wajahmu,
+Tidak mahu cepat di temukanmu,
+Hingga kiamat, kami tetap bersama.
+Dengan dirimu yang menjadi permais.",AB
+S153,T2.0_K10_P0.5_R1.1,smollm2-base,zero-shot,P040,BC,0.0,0.0,"Baris 1
+Kerja di malam,
+Coba lakukan apapun.
+Jangan kau pernah juga.
+Baris 2
+Selalu bersyukur,
+Karena hal ini pasti.
+Karena Tuhanmu sihat.",BC
+S154,T0.8_K50_P0.9_R1.1,smollm2-ft,few-shot,P022,BC,100.0,100.0,"Jalan-jalan ke kota Medan
+Naik motor setelah pagi hari
+Mari kita berolahraga di pelaminan
+Dengan olahraga yang baik hati",BC
+S155,T1.2_K100_P0.7_R1.0,smollm2-ft,few-shot,P011,AC,100.0,100.0,"Rendah satu tak tumbuh lebih tinggi
+Bunga mawar bukanlah semerbak berserakannya
+Janganlah kamu lupa di hati
+Jangan terus berkorban jangkriknya",AC
+S156,T1.2_K100_P0.7_R1.0,smollm2-ft,zero-shot,P009,AB,100.0,100.0,"Bukit daun dan ranting jendela
+Karena sumur menjadi gelita
+Cuma kami ingin meminta maafkan dunia
+Karena orang yang bertanam bernama kita",AB
+S157,T0.8_K50_P0.9_R1.1,smollm2-ft,zero-shot,P029,AB,100.0,100.0,"Adzan sudah di bulan raya
+Lulus sahur jangan lupa sarapan pagi
+Waktu esok hanya untuk restraks ya
+Semoga bisa membuka masa depan ini",AB
+S158,T0.8_K50_P0.9_R1.1,smollm2-ft,few-shot,P001,AB,100.0,100.0,"Jalan-jalan ke Singapura
+Singapura sangat indah kota
+Cintaku tiada guna
+Bila engkau selalu berputus asa",AB
+S159,T2.0_K10_P0.5_R1.1,smollm2-base,zero-shot,P015,AC,100.0,0.0,"Sudah juga lupa, kenapa kau tidak pergi ke kampus?
+Berarti kau akhirnya gagap lagi.
+Seperti waktu lampu pindah jalan.
+Kenapa kau tidak pergi ke kampus?",AC
+S160,T1.2_K100_P0.7_R1.0,smollm2-base,zero-shot,P020,AB,100.0,0.0,"Berlalu laut sekitar abad ke-twenty-four
+Lebih dari pahlawan sejarah yang lumayan berpengalaman
+Seorang jiwa yang sembari menjaga jalan terus berkelana
+Karunia-karunia tertinggi terlahir dalam sebuah bintang.",AB
+S161,T1.2_K100_P0.7_R1.0,smollm2-ft,few-shot,P017,BC,100.0,100.0,"Dari berbahagia ke kedutan
+Terasa terkabul oleh keluarga
+Siapa yang menduga itu dermawan
+Janganlah suka bertanya soalnya",BC
+S162,T1.2_K100_P0.7_R1.0,smollm2-base,zero-shot,P010,AC,0.0,0.0,"Tinggi kaca berbunyi,
+Sering mendengar suara kucing.
+Dalam waktu tiga menit,
+Hantu akan menjangkit.
+Bahwa kau hendak datang,
+Berlalu di laut tanah.
+Kedua gurubuku lari,
+Berlalu di halaman yang panjang.",AC
+S163,T1.2_K100_P0.7_R1.0,smollm2-ft,few-shot,P036,BC,100.0,100.0,"Ketika membaca buku
+Lebih enak dalam berkunjung kamu
+Ku tunggu tak takut kena jemu
+Karena engkau diantar dalam diriku",BC
+S164,T1.2_K100_P0.7_R1.0,smollm2-base,zero-shot,P006,AB,0.0,0.0,"Baris pertama:
+Kau adalah hikayat penggaris,
+Jatuh di tanah suci bersama kucing;
+Baris ketiga:
+Coba kau coba lalu jatuh di hutan,
+Seperti bunga yang terbuka mata mu.
+Baris kedua:
+Sering kami melupakan kamu,",AB
+S165,T2.0_K10_P0.5_R1.1,smollm2-base,few-shot,P039,AC,0.0,0.0,"A-B-A-B
+Istimewa-istimewa kami
+Mereka semua sudah datang di sini
+Tentunya mereka tetap akan berada
+
+B-A-B-A
+Peranan kita di sini sangat penting
+Tetap harus diserap secara tepat",AC
+S166,T1.2_K100_P0.7_R1.0,smollm2-base,zero-shot,P032,AB,100.0,0.0,"Kerat kepala dengan tengkorak
+Mata bersinar seperti piring
+Lampu dalam laut menjelma
+Serta pembohong sebagai tukang ujian",AB
+S167,T0.8_K50_P0.9_R1.1,smollm2-ft,few-shot,P006,AB,100.0,100.0,"Buah duku dimakan jawa
+Janganlah dimakan dengan gila
+Ibu wanita baik hatinya
+Janganlah marah karena insnya",AB
+S168,T1.2_K100_P0.7_R1.0,smollm2-base,zero-shot,P024,AC,0.0,0.0,"Bahasa Jawa,
+Kelapangan tua-tua,
+Panglima gede-gede,
+Pantunnya berjalan, tak pernah bergelumban.
+Koelah segera siapin,
+Koelah maksudnya kok benar,
+Saja ada salah-salah,
+Saja ada yang ditinggalkan.",AC
+S169,T2.0_K10_P0.5_R1.1,smollm2-ft,few-shot,P034,AC,100.0,100.0,"Jalan-jalan ke kota Bandara
+Singgahlah sejenak di kedai Kartika
+Jangan lupa pemandangan semula
+Membawa hidup menuju surga",AC
+S170,T1.2_K100_P0.7_R1.0,smollm2-base,zero-shot,P025,AC,0.0,0.0,"Salinan yang saya tuliskan bisa dikaitkan dengan keinginan tertentu yang tidak tertarik, serta harus dikritik mengingatkan pengguna dalam memahami pola rima yang disadur oleh Kamu. Jika Anda mencari panduan untuk menulis pantun bahasa Indonesia, silakan gunakan seperti tulisan yang saya tuliskan di bawah ini:",AC
+S171,T2.0_K10_P0.5_R1.1,smollm2-ft,zero-shot,P005,AC,100.0,100.0,"Ke pasar membeli semangka
+Semangka jatuh ke lumbung gula
+Janganlah engkau suka bertanya
+Nanti engkau akan kesana juga",AC
+S172,T0.8_K50_P0.9_R1.1,smollm2-base,zero-shot,P014,AB,0.0,0.0,"Baris pertama:
+Waktu itu pergi saya jalan seperti lautan
+Baris kedua:
+Tapi sayangnya tidak ada lokasi yang sesuai
+Baris ketiga:
+Akibatnya, saya mengajukan solusi sebaya
+Baris keempat:
+Karena saya mau jalan ke tempat terbaik.",AB
+S173,T1.2_K100_P0.7_R1.0,smollm2-ft,zero-shot,P005,AC,100.0,100.0,"Bagaimana telinga bertumpuk gila
+Pagi hari banyak lama bertiga
+Punya hati yang sangat bahagia
+Kalau tidak kenal dia malas ke surga",AC
+S174,T1.2_K100_P0.7_R1.0,smollm2-ft,few-shot,P035,AB,100.0,100.0,"Kalau hendak bekerja di pulau siang
+Cuci baju sebelum berkumpulmu
+Kalau mau hidup setinggi lang
+Aku tak mau jadi bangsa pikirku",AB
+S175,T0.8_K50_P0.9_R1.1,smollm2-ft,zero-shot,P040,AC,100.0,100.0,"Siapa yang mendapatnya
+Jangan lupa ajak jualan sayang
+Sekolah itu sebagai tujuannya
+Bagai tukang membabatkan orang",AC
+S176,T2.0_K10_P0.5_R1.1,smollm2-ft,zero-shot,P019,AC,100.0,100.0,"Jalan jalan naik delman bersama
+Naik ke pasar membeli semangka
+Jika engkau ingin masuk surga
+Maka rajinlah beribadah jua",AC
+S177,T2.0_K10_P0.5_R1.1,smollm2-ft,zero-shot,P029,BC,100.0,100.0,"Jalanjalan ke kota kendari
+Jangan lupa membeli roti
+Selamat datang saya ucapkan demi kalian ini
+Mohon maaf atas semua yang sudah abadi",BC
+S178,T2.0_K10_P0.5_R1.1,smollm2-base,zero-shot,P031,AB,100.0,0.0,"Barangku di dapur,
+Mereka sudah pernah mencoba,
+Tapi tidak boleh langsung kok coba,
+Karena aku juga perlu berencana.",AB
+S179,T2.0_K10_P0.5_R1.1,smollm2-base,few-shot,P025,BC,0.0,0.0,"Baris 1:
+Aman seperti kaca pada mata
+Bisa menjadi seorang wali
+Coba tahu cara nyenyakku
+Dia akan menghabisku
+
+Baris 2:
+Kok sudah kenapa saya tertipu?",BC
+S180,T0.8_K50_P0.9_R1.1,smollm2-base,few-shot,P010,AB,100.0,0.0,"Tentara pada laut merundum
+Melalui empat tujuan berbunyi
+Tuntas karena semua berhenti
+Penggila panjang tetap bernafas",AB

@@ -1,0 +1,32 @@
+Konfigurasi teratas: ['T0.8_K50_P0.9_R1.1', 'T1.2_K100_P0.7_R1.0', 'T2.0_K10_P0.5_R1.1']
+Seed: 42
+
+VERIFIKASI BIBD (item reguler, tanpa anchor)
+  v (annotator)             = 3
+  k (annotator per pantun)  = 2
+  b (pantun reguler)        = 180
+  r per annotator           = {'A': 120, 'B': 120, 'C': 120}
+  lambda per pasangan       = {'AB': 60, 'AC': 60, 'BC': 60}
+  Syarat bk = vr            : 360 = 360 -> True
+  Syarat lambda(v-1)=r(k-1) : 120 = 120 -> True
+  Seimbang (r dan lambda sama semua): True
+
+Anchor (dinilai A, B, C): 0 pantun
+Beban total per annotator : {'A': 120, 'B': 120, 'C': 120}
+Total pantun              : 180
+
+Sebaran kondisi x blok:
+blok                                        AB  AC  BC
+kondisi                                               
+T0.8_K50_P0.9_R1.1|smollm2-base|few-shot     5   5   5
+T0.8_K50_P0.9_R1.1|smollm2-base|zero-shot    5   5   5
+T0.8_K50_P0.9_R1.1|smollm2-ft|few-shot       5   5   5
+T0.8_K50_P0.9_R1.1|smollm2-ft|zero-shot      5   5   5
+T1.2_K100_P0.7_R1.0|smollm2-base|few-shot    5   5   5
+T1.2_K100_P0.7_R1.0|smollm2-base|zero-shot   5   5   5
+T1.2_K100_P0.7_R1.0|smollm2-ft|few-shot      5   5   5
+T1.2_K100_P0.7_R1.0|smollm2-ft|zero-shot     5   5   5
+T2.0_K10_P0.5_R1.1|smollm2-base|few-shot     5   5   5
+T2.0_K10_P0.5_R1.1|smollm2-base|zero-shot    5   5   5
+T2.0_K10_P0.5_R1.1|smollm2-ft|few-shot       5   5   5
+T2.0_K10_P0.5_R1.1|smollm2-ft|zero-shot      5   5   5
